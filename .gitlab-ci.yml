@@ -12,8 +12,8 @@ stages:
     - gcloud config set container/cluster oecd
     - gcloud config set compute/region europe-west1
     - gcloud container clusters get-credentials oecd --region europe-west1-b
-    - gsutil -m rsync -d -r ./assets gs://siscc-config-$ENV/assets
-    - gsutil -m rsync -d -r ./configs gs://siscc-config-$ENV/configs
+    - gsutil -m rsync -d -r ./assets gs://siscc-config-${ENV}/assets
+    - gsutil -m rsync -d -r ./configs gs://siscc-config-${ENV}/configs
   environment:
     name: $ENV
   tags:
