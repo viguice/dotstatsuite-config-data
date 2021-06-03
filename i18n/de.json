@@ -139,6 +139,8 @@
   "scopelist.selection.current": {},
   "scopelist.selection.level": {},
   "scopelist.selection.title": {},
+  "sdmx.data.false": {},
+  "sdmx.data.true": {},
   "share.action": "URL und Einbettungscode anfordern",
   "share.disclaimer": "Um unsere Inhalte sicher zu teilen und einzubetten, senden wir Ihnen die erforderlichen Informationen per E-Mail. Ihre E-Mail-Adresse wird nur verwendet, um Ihnen den Zugriff auf diesen Service zu ermöglichen, und wird gemäß unseren {link} geschützt.",
   "share.error.message": "Hoppla, bei uns ist etwas schief gelaufen.",

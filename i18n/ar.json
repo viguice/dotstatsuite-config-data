@@ -139,6 +139,8 @@
   "scopelist.selection.current": {},
   "scopelist.selection.level": {},
   "scopelist.selection.title": {},
+  "sdmx.data.false": {},
+  "sdmx.data.true": {},
   "share.action": "ورمز الإدماج URL طلب عنوان",
   "share.disclaimer": "لمشاركة المحتوى الخاص بنا وتضمينه بأمان ، سنرسل لك المعلومات الضرورية عبر البريد الإلكتروني. يتم استخدام عنوان بريدك الإلكتروني فقط لتمكينك من الوصول إلى هذه الخدمة ، وستتم حمايته بما يتفق مع {link} الخاصة بنا.",
   "share.error.message": "عفوًا ، حدث خطأ ما في صالحنا",

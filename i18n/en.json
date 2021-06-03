@@ -139,6 +139,8 @@
   "scopelist.selection.current": "Entire currently displayed list",
   "scopelist.selection.level": "Entire hierarchy level",
   "scopelist.selection.title": "Bulk selection",
+  "sdmx.data.false": {},
+  "sdmx.data.true": {},
   "share.action": "Request URL and embed code",
   "share.disclaimer": "To share and embed our content safely, we will send you the necessary information by email. Your email address is only used to enable you to access this service, and will be protected consistent with our {link}.",
   "share.error.message": "Something went wrong on our side",
