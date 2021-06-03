@@ -1,0 +1,45 @@
+{
+  "demo-release": {
+    "label": "demo-release",
+    "url": "http://localhost:81/rest",
+    "hasRangeHeader": true,
+    "supportsReferencePartial": true,
+    "hasLastNObservations": false,
+    "indexed": true,
+    "queries": [
+      { "version": "1.0", "categorySchemeId": "TOPICS", "agencyId": "CH1"},
+      { "version": "3.0", "categorySchemeId": "LU1_CS", "agencyId": "LU1"}
+    ]
+  },
+  "demo-design": {
+    "label": "demo-design",
+    "url": "http://localhost:80/rest",
+    "hasRangeHeader": true,
+    "supportsReferencePartial": true,
+    "hasLastNObservations": true,
+    "indexed": true,
+    "queries": [
+      { "version": "1.0", "categorySchemeId": "TOPICS", "agencyId": "CH1"},
+      { "version": "3.0", "categorySchemeId": "LU1_CS", "agencyId": "LU1"}
+    ]
+  },
+  "qa:stable": {
+    "label": "qa:stable",
+    "url": "https://nsi-qa-stable.siscc.org/rest",
+    "hasRangeHeader": true,
+    "supportsReferencePartial": true,
+    "indexed": true,
+		"queries": [
+      { "version": "1.0", "categorySchemeId": "OECDCS1", "agencyId": "OECD" }
+    ],
+    "hasLastNObservations": true
+  },
+  "qa:reset": {
+    "label": "qa:reset",
+    "url": "https://nsi-qa-reset.siscc.org/rest",
+    "hasRangeHeader": true,
+    "supportsReferencePartial": true,
+    "indexed": false,
+    "hasLastNObservations": true
+  }
+}
