@@ -1,0 +1,30 @@
+{
+  "app": {
+    "title": "SIS-CC .Stat Data viewer",
+    "favicon": "/assets/siscc/data-explorer/images/favicon.ico"
+  },
+  "share": {
+    "endpoint": "http://localhost:3005"
+  },
+  "i18n": {
+    "locales": {
+      "en": { "id": "en" },
+      "fr": { "id": "fr" },
+      "es": { "id": "es" },
+      "it": { "id": "it" },
+      "ar": { "id": "ar", "isRtl": true },
+      "km": { "id": "km" },
+      "nl": { "id": "nl" },
+			"de": { "de": "de" }
+    }
+  },
+  "sdmx": {
+    "attributes": {
+      "flags": ["OBS_STATUS"],
+      "footnotes": ["TIME_FORMAT"],
+      "prefscale": ["PREF_SCALE"],
+      "decimals": ["DECIMALS"]
+    }
+  },
+  "styles": "/assets/siscc/data-explorer/styles/styles.css"
+}
