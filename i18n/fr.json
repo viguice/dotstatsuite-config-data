@@ -139,6 +139,8 @@
   "scopelist.selection.current": "Liste complète actuellement affichée",
   "scopelist.selection.level": "Hiérarchie complète de niveau",
   "scopelist.selection.title": "Sélection massive",
+  "sdmx.data.false": {},
+  "sdmx.data.true": {},
   "share.action": "Demander l'URL et le code d'intégration",
   "share.disclaimer": "Pour partager et intégrer notre contenu en toute sécurité, nous vous enverrons les informations nécessaires par courrier électronique. Votre addresse électronique est uniquement utilisée pour permettre l'accès à ce service et sera protégée conformément à notre {link}.",
   "share.error.message": "Oups, quelque chose a échoué de notre côté",

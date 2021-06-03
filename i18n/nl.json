@@ -139,6 +139,8 @@
   "scopelist.selection.current": {},
   "scopelist.selection.level": {},
   "scopelist.selection.title": {},
+  "sdmx.data.false": {},
+  "sdmx.data.true": {},
   "share.action": "URL aanvragen en code embedden",
   "share.disclaimer": "Om onze inhoud veilig te delen en in te embedden, sturen we u de nodige informatie per e-mail. Uw e-mailadres wordt alleen gebruikt om u toegang te geven tot deze service en wordt beschermd in overeenstemming met ons {link}.",
   "share.error.message": "Er ging iets fout aan onze kant",

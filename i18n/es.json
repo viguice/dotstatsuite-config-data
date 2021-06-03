@@ -139,6 +139,8 @@
   "scopelist.selection.current": {},
   "scopelist.selection.level": {},
   "scopelist.selection.title": {},
+  "sdmx.data.false": {},
+  "sdmx.data.true": {},
   "share.action": "Solicitar URL y código para incrustar",
   "share.disclaimer": "Para compartir e incrustar nuestro contenido de forma segura, le enviaremos la información necesaria por correo electrónico. Su dirección de correo electrónico solo se utiliza para permitirle acceder a este servicio y estará protegida de acuerdo con nuestra {link}.",
   "share.error.message": "Vaya, algo salió mal de nuestro lado",
