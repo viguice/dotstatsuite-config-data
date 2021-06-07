@@ -46,6 +46,7 @@
   "de.error.title": "Whoops, er is iets misgegaan aan onze kant.",
   "de.filter.period.title.head": "Frequentie",
   "de.filter.period.title.last": "Tijd Periode",
+  "de.filter.tag": "{count, plural, =0 {all} other {{count}}}/{total, number}",
   "de.filters.search.help": "Filters gemarkeerd met {icon} worden, indien beschikbaar, altijd eerst vermeld.",
   "de.footer.author": ".Stat Suite",
   "de.footer.description": "{icon} Mogelijk gemaakt door {link}",

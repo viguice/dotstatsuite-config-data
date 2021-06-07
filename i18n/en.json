@@ -46,6 +46,7 @@
   "de.error.title": "Whoops, something went wrong on our end.",
   "de.filter.period.title.head": "Frequency",
   "de.filter.period.title.last": "Time period",
+  "de.filter.tag": "{count, plural, =0 {all} other {{count}}}/{total, number}",
   "de.filters.search.help": "Filters marked with {icon} are, when available, always listed first.",
   "de.footer.author": ".Stat Suite",
   "de.footer.description": "{icon} Powered by the {link}",
