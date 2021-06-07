@@ -46,6 +46,7 @@
   "de.error.title": "Oops, une erreur s'est produite de notre côté.",
   "de.filter.period.title.head": "Fréquence",
   "de.filter.period.title.last": "Période",
+  "de.filter.tag": "{count, plural, =0 {tout} other {{count}}}/{total, number}",
   "de.filters.search.help": "Les filtres marqués d'un {icon} sont toujours listés en première position.",
   "de.footer.author": ".Stat Suite",
   "de.footer.description": "{icon} Alimenté par la {link}",

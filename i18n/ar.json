@@ -46,6 +46,7 @@
   "de.error.title": "نعتذر, حصل خطأ ما من جانبنا",
   "de.filter.period.title.head": "الفترة الزمنية",
   "de.filter.period.title.last": "فترة زمنية",
+  "de.filter.tag": "{count, plural, =0 {all} other {{count}}}/{total, number}",
   "de.filters.search.help": "عند توفرها{icon}{ايقونة} يتم دائمًا إدراج الاختيارات أولاً بعلامة ",
   "de.footer.author": ".Stat Suite",
   "de.footer.description": "{link} مدعوم من {icon}",

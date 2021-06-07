@@ -46,6 +46,7 @@
   "de.error.title": "Ups! Algo anduvo mal de nuestro lado.",
   "de.filter.period.title.head": "Período",
   "de.filter.period.title.last": "Período de tiempo",
+  "de.filter.tag": "{count, plural, =0 {all} other {{count}}}/{total, number}",
   "de.filters.search.help": {},
   "de.footer.author": ".Stat Suite",
   "de.footer.description": "{icon} Desarrollado por {link}",

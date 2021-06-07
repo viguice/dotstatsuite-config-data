@@ -46,6 +46,7 @@
   "de.error.title": "Spiacenti, si è verificato un errore.",
   "de.filter.period.title.head": {},
   "de.filter.period.title.last": {},
+  "de.filter.tag": "{count, plural, =0 {all} other {{count}}}/{total, number}",
   "de.filters.search.help": {},
   "de.footer.author": ".Stat Suite",
   "de.footer.description": "{icon} Utilizzando la {link}",

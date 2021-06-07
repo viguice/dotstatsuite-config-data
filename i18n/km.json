@@ -46,6 +46,7 @@
   "de.error.title": "អ្ហូ៎! ប្រាកដជាមានអ្វីខុសក្រតីហើយនៅចុងបញ្ចប់នេះ",
   "de.filter.period.title.head": "ភាពញឹកញាប់",
   "de.filter.period.title.last": "រយៈពេល",
+  "de.filter.tag": "{count, plural, =0 {all} other {{count}}}/{total, number}",
   "de.filters.search.help": "ចម្រោះមានសម្គាល់ {icon} នៅពេលដែលមាន ជានិច្ចកាលសម្រង់បញ្ជីជាមុនសិន",
   "de.footer.author": ".Stat Suite",
   "de.footer.description": "{icon} គ្រប់គ្រងដោយ {link}",

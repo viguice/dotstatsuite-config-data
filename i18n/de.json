@@ -46,6 +46,7 @@
   "de.error.title": "Hoppla, bei uns ist etwas schief gelaufen.",
   "de.filter.period.title.head": "Frequenz",
   "de.filter.period.title.last": "Zeitperiode",
+  "de.filter.tag": "{count, plural, =0 {alle} other {{count}}}/{total, number}",
   "de.filters.search.help": "Mit {icon} gekennzeichnete Filter werden, sofern verfügbar, immer zuerst aufgelistet.",
   "de.footer.author": ".Stat Suite",
   "de.footer.description": "{icon} Powered by the {link}",
