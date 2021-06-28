@@ -1,11 +1,5 @@
 {
   "sdmx": {
-    "datasourceIds": [
-      "demo-design",
-      "demo-release",
-      "qa:stable",
-      "qa:reset"
-    ],
     "range": [0, 2499],
     "attributes": {
       "flags": ["OBS_STATUS", "CONF_STATUS"],
