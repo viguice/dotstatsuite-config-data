@@ -196,7 +196,7 @@
   "wcag.table.layout.cancel": "Die Dimensionsverschiebung wurde abgebrochen.",
   "wcag.table.layout.end": "Sie haben die ausgewählte Dimension in {dropZone} an Position {index} abgelegt. Sie wurde von {dragZone} verschoben.",
   "wcag.table.layout.explanation": "So ändern Sie das Tabellenlayout 1) Stellen Sie sicher, dass sich Ihr Bildschirmleser im Fokus- oder Formularmodus befindet. 2) Navigieren Sie mit der Tabulatortaste zu den Tabellenachsen (Spalten, Zeilenblöcke oder Zeilen) mit deren aktuellen Dimensionen. 3) Wählen Sie mit der Leertaste eine Dimension aus or ab 4) Verwenden Sie die Links- und Rechts-Pfeiltasten, um eine Dimension zwischen den Achsen zu verschieben 5) Verwenden Sie die Aufwärts- und Abwärtspfeiltasten, um eine Dimension innerhalb einer Achse neu zu ordnen.",
-  "wcag.table.layout.start": "Sie haben die Dimension {dragLabel} von {draggableId} Position {index} angehoben.",
+  "wcag.table.layout.start": "Sie haben die Dimension {dragLabel} von {dragZone} Position {index} angehoben.",
   "wcag.table.layout.update": "Sie haben die ausgewählte Dimension von {dragZone} nach {dropZone} an Position {index} verschoben. Die höchste Position in {dropZone} ist {length}.",
   "action.cancel": {},
   "action.categorise": {},

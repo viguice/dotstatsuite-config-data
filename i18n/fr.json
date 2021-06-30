@@ -196,7 +196,7 @@
   "wcag.table.layout.cancel": "Le déplacement de la dimension a été annulé.",
   "wcag.table.layout.end": "La dimension sélectionnée est maintenant affichée en position {index} des {dropZone}. Elle venait des {dragZone}.",
   "wcag.table.layout.explanation": "Pour modifier la disposition des dimensions dans le tableau 1) Assurez-vous que votre lecteur d'écran est en mode focus ou forme 2) Utilisez ta touche Tab pour naviguer d'un axe à l'autre (lignes, colonnes ou sections de lignes) et leurs dimensions actuelles 3) Utilisez la touche Espace pour sélectionner et désélectionner une dimension 4) Utilisez les touches directionnelles Gauche et Droite pour déplacer les dimensions entre les axes 5) Utilisez les touches directionnelles Haut et Bas pour réordonner les dimensions dans un axe.",
-  "wcag.table.layout.start": "Vous avez sélectionné la dimension {dragLabel} en position {index} des {draggableId}.",
+  "wcag.table.layout.start": "Vous avez sélectionné la dimension {dragLabel} en position {index} des {dragZone}.",
   "wcag.table.layout.update": "Vous avez déplacé la dimension sélectionnée des {dragZone} vers la position {index} des {dropZone}; le nombre de dimensions dans cette {dropZone} est {length}.",
   "action.cancel": "Annuler",
   "action.categorise": {},

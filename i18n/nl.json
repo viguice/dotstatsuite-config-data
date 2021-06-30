@@ -196,7 +196,7 @@
   "wcag.table.layout.cancel": "De dimensieverplaatsing is geannuleerd.",
   "wcag.table.layout.end": "U hebt de geselecteerde dimensie in {dropZone} op positie {index} laten vallen. Het is verplaatst van {dragZone}.",
   "wcag.table.layout.explanation": "Om de lay-out van de tabel te wijzigen 1) Zorg ervoor dat uw schermlezer zich in de focusmodus of de formuliermodus bevindt 2) Gebruik de Tab-toets om te navigeren naar de tabelassen (Rijen, Kolommen of Rij-secties) en hun huidige afmetingen 3) Gebruik de Spatiebalktoets om een dimensie te selecteren en te deselecteren 4) Gebruik de pijltjestoetsen links en rechts om een dimensie tussen de assen te verplaatsen 5) Gebruik de pijltjestoetsen omhoog en omlaag om een dimensie binnen een as te herordenen.",
-  "wcag.table.layout.start": "Je hebt de {dragLabel} dimensie van {dragableId} positie {index} opgeheven.",
+  "wcag.table.layout.start": "Je hebt de {dragLabel} dimensie van {dragZone} positie {index} opgeheven.",
   "wcag.table.layout.update": "U hebt de geselecteerde dimensie verplaatst van {dragZone} naar {dropZone} op positie {index}; de hoogste positie in {dropZone} is {lengte}.",
   "action.cancel": {},
   "action.categorise": {},

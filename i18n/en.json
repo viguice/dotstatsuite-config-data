@@ -196,7 +196,7 @@
   "wcag.table.layout.cancel": "The dimension move has been cancelled.",
   "wcag.table.layout.end": "You have dropped the selected dimension in {dropZone} at position {index}. It has moved from {dragZone}.",
   "wcag.table.layout.explanation": "To change the table layout 1) Ensure your screen reader is in focus mode or forms mode 2) Use the Tab key to navigate to the table axes (Rows, Columns or Row sections) and their current dimensions 3) Use the Spacebar key to select and unselect a dimension 4) Use Left and Right arrow keys to move a dimension between axes 5) Use Up and Down arrow keys to re-order a dimension within an axis.",
-  "wcag.table.layout.start": "You have lifted the {dragLabel} dimension from {draggableId} position {index}.",
+  "wcag.table.layout.start": "You have lifted the {dragLabel} dimension from {dragZone} position {index}.",
   "wcag.table.layout.update": "You have moved the selected dimension from {dragZone} to {dropZone} at position {index}; the highest position in {dropZone} is {length}.",
   "action.cancel": "Cancel",
   "action.categorise": "Categorise",
