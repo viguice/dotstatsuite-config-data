@@ -357,5 +357,6 @@
   "data.not.found": {},
   "data.pending": {},
   "dv.incomplete.chart.data": "Cet aperçu affiche {range, number} données. Votre sélection dépasse cette limite, ce qui entraîne un graphe incomplet.",
-  "dv.incomplete.table.data": "Cet aperçu affiche {range, number} données. Votre sélection dépasse cette limite, ce qui entraîne un tableau incomplet."
+  "dv.incomplete.table.data": "Cet aperçu affiche {range, number} données. Votre sélection dépasse cette limite, ce qui entraîne un tableau incomplet.",
+  "layout.incompatible": {}
 }
