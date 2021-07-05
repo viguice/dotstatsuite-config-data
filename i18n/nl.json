@@ -357,5 +357,6 @@
   "data.not.found": {},
   "data.pending": {},
   "dv.incomplete.chart.data": {},
-  "dv.incomplete.table.data": {}
+  "dv.incomplete.table.data": {},
+  "layout.incompatible": {}
 }
