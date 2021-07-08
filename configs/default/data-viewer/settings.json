@@ -1,0 +1,57 @@
+{
+  "app": {
+    "title": "SIS-CC .Stat Data viewer",
+    "favicon": "/assets/siscc/data-explorer/images/favicon.ico"
+  },
+  "share": {
+    "endpoint": "http://localhost:3005"
+  },
+  "i18n": {
+    "locales": {
+      "locales": {
+        "en": {
+          "id": "en",
+          "delimiters": { "thousands": " ", "decimal": "."  }
+        },
+        "fr": {
+          "id": "fr",
+          "delimiters": { "thousands": " ", "decimal": ","  }
+        },
+        "es": {
+          "id": "es",
+          "delimiters": { "thousands": " ", "decimal": ","  }
+        },
+        "it": {
+          "id": "it",
+          "delimiters": { "thousands": " ", "decimal": ","  }
+        },
+        "ar": {
+          "id": "ar",
+          "isRtl": true,
+          "delimiters": { "thousands": " ", "decimal": ","  }
+        },
+        "km": {
+          "id": "km",
+          "delimiters": { "thousands": " ", "decimal": ","  }
+        },
+        "nl": {
+          "id": "nl",
+          "delimiters": { "thousands": " ", "decimal": ","  }
+        },
+        "de": {
+          "id": "de",
+          "delimiters": { "thousands": " ", "decimal": ","  }
+        }
+      }
+    }
+  },
+  "sdmx": {
+    "attributes": {
+      "flags": ["OBS_STATUS"],
+      "footnotes": ["TIME_FORMAT"],
+      "prefscale": ["PREF_SCALE"],
+      "decimals": ["DECIMALS"]
+    }
+  },
+  "styles": "/assets/siscc/data-explorer/styles/styles.css"
+}

@@ -1,0 +1,36 @@
+stages:
+  - deploy-qa
+  - deploy-staging
+
+.template: &template
+  image: google/cloud-sdk
+  before_script:
+    - echo ${KUBE_ACCOUNT_KEY} | base64 -di > key.json
+  script:
+    - gcloud auth activate-service-account --key-file=key.json
+    - gcloud config set project oecd-228113
+    - gcloud config set container/cluster oecd
+    - gcloud config set compute/region europe-west1
+    - gcloud container clusters get-credentials oecd --region europe-west1-b
+    - gsutil -m rsync -d -r ./i18n gs://siscc-config-$ENV/i18n
+  environment:
+    name: $ENV
+  tags:
+    - kube
+    - oecd
+
+deploy-qa:
+  variables:
+    ENV: qa
+  <<: *template
+  stage: deploy-qa
+  only:
+    - develop
+
+deploy-staging:
+  variables:
+    ENV: staging
+  <<: *template
+  stage: deploy-staging
+  only:
+    - master

@@ -1,0 +1,141 @@
+{
+  "default": {
+    "id": "default",
+    "label": "default",
+    "spaces": {
+      "demo-release": {
+        "label": "demo-release",
+        "hasRangeHeader": true,
+        "supportsReferencePartial": true,
+        "hasLastNObservations": false,
+        "url": "http://localhost:81/rest"
+      },
+      "demo-design": {
+        "label": "demo-design",
+        "hasRangeHeader": true,
+        "supportsReferencePartial": true,
+        "hasLastNObservations": true,
+        "url": "http://localhost:80/rest"
+      },
+      "qa:stable": {
+        "label": "qa:stable",
+        "hasRangeHeader": true,
+        "supportsReferencePartial": true,
+        "hasLastNObservations": true,
+        "url": "https://nsi-qa-stable.siscc.org/rest"
+      },
+      "qa:reset": {
+        "label": "qa:reset",
+        "hasRangeHeader": true,
+        "supportsReferencePartial": true,
+        "hasLastNObservations": true,
+        "url": "https://nsi-qa-reset.siscc.org/rest"
+      }
+    },
+    "datasources": {
+      "ds-demo-release": {
+        "dataSpaceId": "demo-release",
+        "indexed": true,
+        "dataqueries": [
+          {
+            "version": "1.0",
+            "categorySchemeId": "TOPICS",
+            "agencyId": "CH1"
+          },
+          {
+            "version": "3.0",
+            "categorySchemeId": "LU1_CS",
+            "agencyId": "LU1"
+          }
+        ]
+      },
+      "ds-demo-design": {
+        "dataSpaceId": "demo-design",
+        "indexed": true,
+        "dataqueries": [
+          {
+            "version": "1.0",
+            "categorySchemeId": "TOPICS",
+            "agencyId": "CH1"
+          },
+          {
+            "version": "3.0",
+            "categorySchemeId": "LU1_CS",
+            "agencyId": "LU1"
+          }
+        ]
+      },
+      "ds-qa:stable": {
+        "dataSpaceId": "qa:stable",
+        "indexed": true,
+        "dataqueries": [
+          {
+            "version": "1.0",
+            "categorySchemeId": "OECDCS1",
+            "agencyId": "OECD"
+          }
+        ]
+      }
+    },
+    "scopes": {
+      "dlm": {
+        "type": "dlm",
+        "label": "dlm",
+        "keycloak": {
+          "realm": "demo",
+          "clientId": "stat-suite"
+        },
+        "spaces": [
+          {
+            "id": "demo-release",
+            "color": "white",
+            "backgroundColor": "#606A80",
+            "label": "demo-release",
+            "transferUrl": "http://localhost:93/1.2",
+            "dataExplorerUrl": "http://localhost:7001"
+          },
+          {
+            "id": "demo-design",
+            "color": "white",
+            "backgroundColor": "#735667",
+            "label": "demo-design",
+            "transferUrl": "http://localhost:93/1.2",
+            "dataExplorerUrl": "http://localhost:7001"
+          },
+          {
+            "id": "qa:stable",
+            "color": "white",
+            "backgroundColor": "#222222",
+            "label": "qa-stable",
+            "dataExplorerUrl": "http://localhost:7001",
+            "isExternal": true
+          },
+          {
+            "id": "qa:reset",
+            "color": "white",
+            "backgroundColor": "#aa332f",
+            "label": "qa-reset",
+            "dataExplorerUrl": "http://localhost:7001",
+            "isExternal": true
+          }
+        ]
+      },
+      "de": {
+        "type": "de",
+        "label": "de",
+        "keycloak": {
+          "realm": "demo",
+          "clientId": "stat-suite"
+        },
+        "spaces": [
+          "qa:reset"
+        ],
+        "datasources": [
+          "ds-demo-design",
+          "ds-demo-release",
+          "ds-qa:stable"
+        ]
+      }
+    }
+  }
+}
