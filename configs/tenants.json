@@ -10,7 +10,12 @@
         "supportsReferencePartial": true,
         "hasLastNObservations": false,
         "url": "http://localhost:81/rest",
-        "searchUrl": "http://nsiws-demo-release/rest"
+        "urlv3": "http://localhost:81/rest/v2",
+        "headers": {
+          "data": {
+            "json": "application/vnd.sdmx.data+json;version=2.0"
+          }
+        }
       },
       "demo-design": {
         "label": "demo-design",
@@ -18,13 +23,18 @@
         "supportsReferencePartial": true,
         "hasLastNObservations": true,
         "url": "http://localhost:80/rest",
-        "searchUrl": "http://nsiws-demo-design/rest"
+        "urlv3": "http://localhost:80/rest/v2",
+        "headers": {
+          "data": {
+            "json": "application/vnd.sdmx.data+json;version=2.0"
+          }
+        }
       }
     },
     "datasources": {
       "ds-demo-release": {
         "dataSpaceId": "demo-release",
-        "indexed": true,
+        "indexed": false,
         "dataqueries": [
           {
             "version": "1.0",
@@ -43,14 +53,9 @@
         "indexed": true,
         "dataqueries": [
           {
-            "version": "1.0",
-            "categorySchemeId": "TOPICS",
-            "agencyId": "CH1"
-          },
-          {
-            "version": "1.0",
-            "categorySchemeId": "OECDCS1",
-            "agencyId": "OECD"
+            "version": "4.0",
+            "categorySchemeId": "LU1_CS",
+            "agencyId": "LU1"
           }
         ]
       }
