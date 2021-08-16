@@ -9,7 +9,7 @@ const ENV_HOME = process.env.ENV_HOME || `${process.env.HOME}/home`;
 const CHANGELOG_FOLDER = process.env.CHANGELOG_FOLDER || `${ENV_HOME}/dotstatsuite-config-data`;
 const ENV_URL = 'https://gitlab.com/sis-cc/.stat-suite/dotstatsuite-config-data';
 const ENV_LANG = process.env.ENV_LANG || 'en';
-const CHANGE_LOG_NAME = process.env.CHANGE_LOG_NAME || 'changelog';
+const CHANGE_LOG_NAME = process.env.CHANGE_LOG_NAME || 'changelog-i18n';
 
 const args = process.argv.slice(3);
 const branch1 = R.nth(0)(args);
