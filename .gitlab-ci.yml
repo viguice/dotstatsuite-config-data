@@ -40,7 +40,7 @@ changelog-i18n:
   stage: changelog-i18n
   image: node:14
   script:
-    - PREVIOUS_TAG=git tag --list v* --sort=refname | tail -2 | head -1
+    - PREVIOUS_TAG=$(git tag --list v* --sort=refname | tail -2 | head -1)
     - yarn i18n:changelog "$PREVIOUS_TAG" "$CI_COMMIT_TAG"
   artifacts:
     paths:
