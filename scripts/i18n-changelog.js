@@ -43,8 +43,8 @@ R.forEach((branch) => {
 }, branchs)
 
 const getKeys = filename => R.keys(JSON.parse(fs.readFileSync(filename, "utf8")));
-const newKeys = getKeys(`${CHANGELOG_FOLDER}/${R.head(branchs)}.json`, "utf8");
-const oldKeys = getKeys(`${CHANGELOG_FOLDER}/${R.last(branchs)}.json`, "utf8");
+const newKeys = getKeys(`${CHANGELOG_FOLDER}/new-${R.head(branchs)}-${ENV_LANG}.json`, "utf8");
+const oldKeys = getKeys(`${CHANGELOG_FOLDER}/old-${R.last(branchs)}-${ENV_LANG}.json`, "utf8");
 
 R.forEach((branch) => {
   const folderName = generatedFolder(branch)
