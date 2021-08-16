@@ -46,4 +46,4 @@ changelog-i18n:
     paths:
       - changelog-i18n.json
   only:
-    - tags
+    - merge_requests
