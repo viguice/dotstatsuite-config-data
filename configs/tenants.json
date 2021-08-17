@@ -86,7 +86,8 @@
         "label": "de",
         "keycloak": {
           "realm": "demo",
-          "clientId": "stat-suite"
+          "clientId": "stat-suite",
+          "required": false
         },
         "spaces": [
           "demo-design",
