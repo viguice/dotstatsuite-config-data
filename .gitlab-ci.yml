@@ -48,3 +48,6 @@ changelog-i18n:
       - changelog-i18n.json
   only:
     - tags
+  tags:
+    - kube
+    - oecd
