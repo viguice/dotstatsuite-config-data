@@ -356,6 +356,7 @@
   "data.none": {},
   "data.not.found": {},
   "data.pending": {},
+  "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.chart.data": {},
   "dv.incomplete.table.data": {},
   "layout.incompatible": {}
