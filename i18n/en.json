@@ -229,6 +229,7 @@
   "artefact.relative.non.selectable": "Cannot be deleted since referenced by: {parents}{others, plural, =0 {} other { and {others} more}}.{br}First delete those structures and then try again.",
   "artefact.relatives": "Related structures",
   "artefact.relatives.error": "An error occured while trying to retrieve the related structures.",
+  "artefact.series": "({series, number} series)",
   "artefact.type": "Type",
   "artefact.type.agencyscheme": "Agency scheme",
   "artefact.type.attachmentconstraint": "Attachment constraint",

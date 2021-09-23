@@ -229,6 +229,7 @@
   "artefact.relative.non.selectable": {},
   "artefact.relatives": {},
   "artefact.relatives.error": {},
+  "artefact.series": {},
   "artefact.type": "Type",
   "artefact.type.agencyscheme": "Agency scheme",
   "artefact.type.attachmentconstraint": "Attachment constraint",

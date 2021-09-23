@@ -229,6 +229,7 @@
   "artefact.relative.non.selectable": "No se puede borrar ya que está referenciado por: {parents}{others, plural, =0 {} other { and {others} more}}.{br}Primero elimine esas estructuras y luego vuelva a intentarlo.",
   "artefact.relatives": "Estructuras relacionadas",
   "artefact.relatives.error": "Se ha producido un error al intentar recuperar las estructuras relacionadas",
+  "artefact.series": {},
   "artefact.type": "Tipo",
   "artefact.type.agencyscheme": "Agency scheme",
   "artefact.type.attachmentconstraint": "Attachment constraint",
