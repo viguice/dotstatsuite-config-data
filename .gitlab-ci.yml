@@ -1,6 +1,7 @@
 stages:
   - deploy-qa
   - deploy-staging
+  - changelog-i18n
 
 .template: &template
   image: google/cloud-sdk
@@ -34,3 +35,19 @@ deploy-staging:
   stage: deploy-staging
   only:
     - master
+
+changelog-i18n:
+  stage: changelog-i18n
+  image: node:14
+  script:
+    - yarn
+    - PREVIOUS_TAG=$(git tag --list v* --sort=refname | tail -2 | head -1)
+    - ENV_HOME="" CHANGELOG_FOLDER="$CI_PROJECT_DIR" yarn i18n:changelog "$PREVIOUS_TAG" "$CI_COMMIT_TAG"
+  artifacts:
+    paths:
+      - changelog-i18n.json
+  only:
+    - tags
+  tags:
+    - kube
+    - oecd
