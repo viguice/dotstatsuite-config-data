@@ -124,6 +124,7 @@
   "es": "Español",
   "fr": "Français",
   "incomplete.chart.data": "Ihre aktuelle Auswahl übersteigt den Maximalwert ({range, number} Datenpunkte) für die Visualisierung von Daten, was zu einer unvollständigen Grafik führt. Alle ausgewählten Datenpunkte können weiterhin als tabellarischer Text (CSV) heruntergeladen werden.",
+  "incomplete.excel.data": {},
   "incomplete.table.data": "Ihre aktuelle Auswahl übersteigt die Maximalwerte ({range, number} Datenpunkte oder {cellsLimit, number} Tabellenzellen) für die Anzeige von Daten, was zu einer unvollständigen Tabelle führt. Alle ausgewählten Datenpunkte können weiterhin als tabellarischer Text (CSV) heruntergeladen werden.",
   "it": "Italiano",
   "km": "ភាសារខ្មែរ",

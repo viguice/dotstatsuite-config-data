@@ -124,6 +124,7 @@
   "es": "Español",
   "fr": "Français",
   "incomplete.chart.data": "Votre sélection actuelle dépasse les limites de visualisation des données (maximum {range, number} points de données, ce qui entraîne un graphique incomplet. Toutes les données sélectionnées peuvent toutefois être téléchargées au format texte tabulaire (CSV).",
+  "incomplete.excel.data": {},
   "incomplete.table.data": "Votre sélection actuelle dépasse les limites d'affichage des données (maximum {range, number} points de données ou {cellsLimit, number} cellules de tableau), ce qui entraîne un tableau incomplet. Toutes les données sélectionnées peuvent toutefois être téléchargées au format texte tabulaire (CSV).",
   "it": "Italiano",
   "km": "ភាសារខ្មែរ",

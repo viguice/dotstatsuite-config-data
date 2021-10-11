@@ -124,6 +124,7 @@
   "es": "Español",
   "fr": "Français",
   "incomplete.chart.data": "La selezione corrente è superiore ai limiti per la visualizzazione dei dati (massimo {range, number} punti dati) risultando in un grafico incompleto. Tutti i punti dati selezionati possono ancora essere scaricati in testo tabulare (CSV).",
+  "incomplete.excel.data": {},
   "incomplete.table.data": "La selezione corrente è superiore ai limiti per la visualizzazione dei dati (massimo {range, number} punti dati o {cellsLimit, number} celle della tabella) risultando in una tabella incompleta. Tutti i punti dati selezionati possono ancora essere scaricati in testo tabulare (CSV).",
   "it": "Italiano",
   "km": "ភាសារខ្មែរ",
