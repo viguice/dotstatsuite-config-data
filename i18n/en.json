@@ -147,7 +147,7 @@
   "share.error.message": "Something went wrong on our side",
   "share.error.title": "Error",
   "share.latest": "Latest available data for the period defined",
-  "share.mail": "Email address (required)",
+  "share.mail": "Your email address (required)",
   "share.policy.label": "privacy policy",
   "share.policy.link": "https://www.oecd.org/privacy/",
   "share.snapshot": "Snapshot of data for the period defined (data will not change even if updated on the site)",

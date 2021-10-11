@@ -147,7 +147,7 @@
   "share.error.message": "عفوًا ، حدث خطأ ما في صالحنا",
   "share.error.title": "خطأ",
   "share.latest": "أحدث البيانات المتاحة للفترة المحددة",
-  "share.mail": "(عنوان البريد الإلكتروني: (مطلوب",
+  "share.mail": "عنوان بريدك الإلكتروني: (مطلوب)",
   "share.policy.label": "سياسة الخصوصية",
   "share.policy.link": "https://www.oecd.org/privacy/",
   "share.snapshot": "(صورة من البيانات للفترة المحددة (لن تتغير البيانات حتى إذا تم تحديثها على الموقع",
