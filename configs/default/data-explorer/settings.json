@@ -75,10 +75,9 @@
     "maps": {
       "world": {
         "id": "world",
-        "projection": "mercator",
+        "projection": "geoMercator",
         "path": "/assets/siscc/data-explorer/maps/world_countries.json",
-        "levels": [{ "id": "countries", "names": { "en": "world countries", "fr": "pays du monde" } }],
-        "scale": 150
+        "levels": [{ "id": "countries", "names": { "en": "world countries", "fr": "pays du monde" } }]
       }
     },
     "options": {
