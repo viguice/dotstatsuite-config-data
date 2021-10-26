@@ -84,9 +84,9 @@
       "de": {
         "type": "de",
         "label": "de",
-        "keycloak": {
-          "realm": "demo",
-          "clientId": "stat-suite",
+        "oidc": {
+          "authority": "https://keycloak.siscc.org/auth/realms/demo",
+          "client_id": "stat-suite",
           "required": false
         },
         "spaces": [
