@@ -13,7 +13,7 @@ stages:
     - gcloud config set container/cluster oecd
     - gcloud config set compute/region europe-west1
     - gcloud container clusters get-credentials oecd --region europe-west1-b
-    - gsutil -m rsync -d -r ./i18n gs://siscc-config-$ENV/i18n
+    - gsutil -m rsync -d -r ./i18n gs://$ENV-i18n-siscc
   environment:
     name: $ENV
   tags:
