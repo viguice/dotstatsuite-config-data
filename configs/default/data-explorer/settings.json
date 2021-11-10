@@ -158,6 +158,11 @@
         "id": "de",
         "delimiters": { "thousands": " ", "decimal": ","  },
         "timeFormat": "MMM YYYY"
+      },
+      "th": {
+        "id": "th",
+        "delimiters": { "thousands": " ", "decimal": ","  },
+        "timeFormat": "MMM YYYY"
       }
     }
   },

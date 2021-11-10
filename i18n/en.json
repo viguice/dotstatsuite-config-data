@@ -345,6 +345,7 @@
   "selection.reset": "Clear all selections",
   "spaces.no.space": "No space",
   "spotlight.placeholder": "I'm looking for",
+  "th": "ภาษาไทย",
   "transfer-ws.status.401": "You cannot currently import this data because you are not authenticated or your authentication timed out. First login and then try again. If the problem persists, then please contact your system administrator",
   "transfer-ws.status.403": "You are not authorised to import this data. The restriction can be related to the data space, the 'dataflow' type or the dataflow's ID, agency or version for your account or a group account of which you are a member. Contact the data owner or the system administrator to obtain adequate data update permissions.",
   "transfer.apply": "Transfer",

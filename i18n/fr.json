@@ -345,6 +345,7 @@
   "selection.reset": "Supprimer toute la sélection",
   "spaces.no.space": "Pas d'espace",
   "spotlight.placeholder": "Je recherche",
+  "th": "ภาษาไทย",
   "transfer-ws.status.401": "Vous ne pouvez pas importer ces données car vous n'êtes pas authentifié, ou votre authentification a expiré. Connectez-vous d'abord, puis réessayez. Si le problème persiste, veuillez contacter votre administrateur système.",
   "transfer-ws.status.403": "Vous n'êtes pas autorisé à importer ces données. La restriction peut être liée à l'espace de données, au type 'dataflow' ou à l'ID, à l'agence ou à la version du dataflow pour votre compte ou un compte de groupe dont vous êtes membre. Veuillez contacter le propriétaire des données ou l'administrateur système afin d'obtenir les autorisations adéquates de mise à jour des données.",
   "transfer.apply": "Transférer",
