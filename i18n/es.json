@@ -320,6 +320,7 @@
   "selection.reset": "Borrar todas las selecciones",
   "spaces.no.space": "No hay espacio",
   "spotlight.placeholder": "En busca de...",
+  "th": "ภาษาไทย",
   "transfer-ws.status.401": "Actualmente no puede importar estos datos porque no está autenticado o su autenticación expiró. Inicie sesión y vuelva a intentarlo. Si el problema persiste, póngase en contacto con el administrador del sistema",
   "transfer-ws.status.403": "No está autorizado a importar estos datos. La restricción puede estar relacionada con el espacio de datos, el tipo de 'Dataflow' o el ID, la agencia y la versión del Dataflow para su cuenta o para una cuenta de grupo de la que es miembro. Póngase en contacto con el propietario de los datos o con el administrador del sistema para obtener los permisos de actualización de datos adecuados",
   "transfer.apply": "Transferencia",
