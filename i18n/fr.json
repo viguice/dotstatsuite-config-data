@@ -84,7 +84,7 @@
   "de.share.activate.title": "Cher utilisateur de Data-Explorer, merci d'avoir confirmé votre email. Vous pouvez dès à présent activer votre visualisation en cliquant sur le bouton ci-dessous.",
   "de.share.alert.delete.cancel": "Annuler",
   "de.share.alert.delete.confirm": "Supprimer",
-  "de.share.alert.delete.description": "'{title} ID:{id}' sera supprimé de votre liste et son adresse URL sera obsolète.",
+  "de.share.alert.delete.description": "''{title} ID:{id}'' sera supprimé de votre liste et son adresse URL sera obsolète.",
   "de.share.alert.delete.title": "Supprimer cet élément ?",
   "de.share.embed.description": "Ajoutez le code ci-dessous pour l'intégrer à votre site internet (modifiez les propriétés \"width\" et \"height\" pour l'ajuster à votre site)",
   "de.share.expired.description": "Le lien a expiré. Veuillez renseigner votre email pour recevoir un nouveau lien.",
