@@ -84,7 +84,7 @@
   "de.share.activate.title": "Dear Data-Explorer user, thank you for having confirmed your email. You can now activate your visualisation by clicking the button below.",
   "de.share.alert.delete.cancel": "Cancel",
   "de.share.alert.delete.confirm": "Delete",
-  "de.share.alert.delete.description": "'{title} ID:{id}' will be removed from your list of active visualisation and its URL will be obsolete.",
+  "de.share.alert.delete.description": "''{title} ID:{id}'' will be removed from your list of active visualisation and its URL will be obsolete.",
   "de.share.alert.delete.title": "Delete this item?",
   "de.share.embed.description": "Embed in your website using the following code (update the width and height to fit in your design)",
   "de.share.expired.description": "The link has expired. Enter your email address to receive a new link.",
