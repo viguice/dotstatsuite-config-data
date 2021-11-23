@@ -224,7 +224,7 @@
   "wcag.table.layout.start": "คุณได้เพิ่มมิติข้อมูล {dragLabel} จาก {draggableId สถานที่ {index สถานที่",
   "wcag.table.layout.update": "คุณได้ปรับขนาดมิติข้อมูลที่เลือกจาก {dragZone} เป็น {dropZone} ที่ {index สถานที่; ตำแหน่งสูงสุดใน {dropZone} คือ {Length}",
   "action.cancel": "ยกเลิก",
-  "action.categorise": "Categorise",
+  "action.categorise": "จัดหมวดหมู่",
   "action.close": "ปิด",
   "action.delete": "ลบ",
   "artefact.categorisation.error": " พบข้อผิดพลาดระหว่างการจัดหมวดหมู่ ",
