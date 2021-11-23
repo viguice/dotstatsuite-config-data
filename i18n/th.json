@@ -326,7 +326,7 @@
   "filters.no.filter": "ไม่มีตัวกรอง",
   "locale.current": "ภาษาปัจจุบัน",
   "logout": "ออกจากระบบ",
-  "pagination.status": "{size, number} {size, plural, one {ผลลัพธ์} other {ผลลัพธ์}}",
+  "pagination.status": "{pages, number} {pages, plural, one {หน้า} other {หน้า}}",
   "path.current": "สถานที่ปัจจุบัน",
   "pit.active": "ห้ามส่งสินค้า",
   "pit.active.target.disclaimer": "(บังคับหากมีการสั่งห้ามส่งสินค้าอยู่แล้ว)",
