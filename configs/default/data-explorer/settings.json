@@ -190,7 +190,7 @@
   },
   "share": {
     "confirmUrl": "http://localhost:7002",
-    "endpoint": "http://localhost:3005/api/charts",
+    "endpoint": "http://localhost:3005/api",
     "policy": "http://www.oecd.org/general/privacypolicy.htm"
   }
 }
