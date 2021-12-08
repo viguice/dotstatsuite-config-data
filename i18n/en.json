@@ -148,7 +148,7 @@
   "fr": "Français",
   "incomplete.chart.data": "Your current selection ({total, number} data points) is above the limits for viewing data (maximum {range, number} data points) resulting in an incomplete chart. All selected data points can still be downloaded in tabular text (CSV).",
   "incomplete.excel.data": "The data extraction used a data selection that is above the limits for the table display (maximum {range, number} data points or {cellsLimit, number} table cells) resulting in an incomplete table. Using the web link below the table, all originally selected data points can still be downloaded in tabular text (CSV).",
-  "incomplete.table.data": "Your current selection ({total, number} data points) is above the limits for viewing data (maximum {range, number} data points or {cellsLimit, number} table cells) resulting in an incomplete table. All selected data points can still be downloaded in tabular text (CSV).",
+  "incomplete.table.data": "Your current selection ({total, number} data points in {totalCells, number} table cells) is above the limits for viewing data (maximum {range, number} data points or {cellsLimit, number} table cells) resulting in an incomplete table. All selected data points can still be downloaded in tabular text (CSV).",
   "it": "Italiano",
   "km": "ភាសារខ្មែរ",
   "log.error.sdmx.404": "There is no data available.",
