@@ -91,7 +91,7 @@
   "de.share.alert.deleteall.title": "Confirmer la suppression de tous les éléments ?",
   "de.share.button.deleteAll": "Tout supprimer",
   "de.share.embed.description": "Ajoutez le code ci-dessous pour l'intégrer à votre site internet (modifiez les propriétés \"width\" et \"height\" pour l'ajuster à votre site)",
-  "de.share.expired.description": "Le lien a expiré. Veuillez renseigner votre email pour recevoir un nouveau lien de la liste de tous vos visualisations actives.",
+  "de.share.expired.description": "Le lien a expiré. Veuillez renseigner votre email pour recevoir un nouveau lien de la liste de toutes vos visualisations actives.",
   "de.share.expired.label": "Votre email (requis)",
   "de.share.expired.submit": "Demander un nouveau lien",
   "de.share.expired.token.success": "Un email a bien été envoyé.",
