@@ -75,10 +75,9 @@
     "maps": {
       "world": {
         "id": "world",
-        "projection": "mercator",
+        "projection": "geoMercator",
         "path": "/assets/siscc/data-explorer/maps/world_countries.json",
-        "levels": [{ "id": "countries", "names": { "en": "world countries", "fr": "pays du monde" } }],
-        "scale": 150
+        "levels": [{ "id": "countries", "names": { "en": "world countries", "fr": "pays du monde" } }]
       }
     },
     "options": {
@@ -159,6 +158,11 @@
         "id": "de",
         "delimiters": { "thousands": " ", "decimal": ","  },
         "timeFormat": "MMM YYYY"
+      },
+      "th": {
+        "id": "th",
+        "delimiters": { "thousands": " ", "decimal": ","  },
+        "timeFormat": "MMM YYYY"
       }
     }
   },
@@ -186,7 +190,7 @@
   },
   "share": {
     "confirmUrl": "http://localhost:7002",
-    "endpoint": "http://localhost:3005/api/charts",
+    "endpoint": "http://localhost:3005/api",
     "policy": "http://www.oecd.org/general/privacypolicy.htm"
   }
 }
