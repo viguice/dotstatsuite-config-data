@@ -168,7 +168,7 @@
   },
   "styles": "/assets/siscc/data-explorer/styles/styles.css",
   "search": {
-    "endpoint": "https://sfs-qa.siscc.org/api",
+    "endpoint": "http://localhost:3004/api",
     "homeFacetIds": ["Topic", "Thème", "Reference area", "Zone de référence", "مرجع المنطقة", "Frequency", "Fréquence", "الدورية", "datasourceId"],
     "homeFacetLevel2Clickable": true,
     "homeFacetCentered": true,
