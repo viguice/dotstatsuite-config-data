@@ -59,7 +59,7 @@
         "type": "dlm",
         "label": "dlm",
         "oidc": {
-          "authority": "https://keycloak.siscc.org/auth/realms/demo",
+          "authority": "http://localhost:8080/auth/realms/demo",
           "client_id": "stat-suite"
         },
         "spaces": [
@@ -85,7 +85,7 @@
         "type": "de",
         "label": "de",
         "oidc": {
-          "authority": "https://keycloak.siscc.org/auth/realms/demo",
+          "authority": "http://localhost:8080/auth/realms/demo",
           "client_id": "stat-suite",
           "required": false
         },
