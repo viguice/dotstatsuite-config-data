@@ -1,6 +1,7 @@
 {
   "accessibility.disable": "Désactiver le support d'accessibilité",
   "accessibility.enable": "Activer le support d'accessibilité",
+  "accessibility.support": {},
   "ar": "العربية",
   "chart.choropleth": "Carte thématique {map}",
   "chart.config.baseline": "Donnée de référence",

@@ -1,6 +1,7 @@
 {
   "accessibility.disable": "ใช้งานปกติ",
   "accessibility.enable": "ใช้งานลดข้อจำกัด",
+  "accessibility.support": {},
   "ar": "العربية",
   "chart.choropleth": "โคโรเพลท {map}",
   "chart.config.baseline": "เวลาพื้นฐาน",
