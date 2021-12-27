@@ -325,6 +325,7 @@
   "export.data": "Exporteer data",
   "export.data.csv": "in CSV formaat",
   "export.data.xml": "in XML formaat",
+  "export.no.data": {},
   "file": "{name} - {size}",
   "files.no.file": "Geen file",
   "filter.final": "Enkel finaal",

@@ -325,6 +325,7 @@
   "export.data": "នាំចេញ {count, plural, one {data} other {data}}",
   "export.data.csv": "ជាទម្រង់ CSV",
   "export.data.xml": "ក្នុងទម្រង់ XML",
+  "export.no.data": {},
   "file": "{name} - {size}",
   "files.no.file": "គ្មានឯកសារ",
   "filter.final": "មានតែចុងក្រោយប៉ុណ្ណោះ។",

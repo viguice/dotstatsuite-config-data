@@ -325,6 +325,7 @@
   "export.data": "ส่งออก {count, plural, one {ข้อมูล} other {ข้อมูล}}",
   "export.data.csv": "เป็น csv",
   "export.data.xml": "เป็น xml",
+  "export.no.data": {},
   "file": "{name} - {size}",
   "files.no.file": "ไม่มีไฟล์",
   "filter.final": "สุดท้ายเท่านั้น",

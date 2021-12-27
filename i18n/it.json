@@ -325,6 +325,7 @@
   "export.data": "Esportare {count, plural, one {data} other {data}}",
   "export.data.csv": "in formato CSV",
   "export.data.xml": "in formato XML",
+  "export.no.data": {},
   "file": "{name} - {size}",
   "files.no.file": "Nessun file",
   "filter.final": "Solo finale",
