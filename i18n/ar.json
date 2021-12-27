@@ -325,6 +325,7 @@
   "export.data": "يصدر {count, plural, one {data} other {data}}",
   "export.data.csv": "بتنسيق CSV",
   "export.data.xml": "بتنسيق XML",
+  "export.no.data": {},
   "file": "{name} - {size}",
   "files.no.file": "لا ملف",
   "filter.final": "نهائي فقط",

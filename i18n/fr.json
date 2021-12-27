@@ -325,6 +325,7 @@
   "export.data": "Exporter les données",
   "export.data.csv": "au format CSV",
   "export.data.xml": "au format XML",
+  "export.no.data": "Aucune donnée disponible",
   "file": "{name} - {size}",
   "files.no.file": "Pas de fichier",
   "filter.final": "Seulement finale",
