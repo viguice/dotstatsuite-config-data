@@ -1,6 +1,7 @@
 {
   "accessibility.disable": "الغاء دعم الاتحاة",
   "accessibility.enable": "تفعيل دعم الاتحاة",
+  "accessibility.support": {},
   "ar": "العربية",
   "chart.choropleth": "تشوروبليث {map}",
   "chart.config.baseline": "إلغاء اتغييرات",

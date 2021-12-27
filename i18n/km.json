@@ -1,6 +1,7 @@
 {
   "accessibility.disable": "បិទការគាំទ្រលទ្ធភាពប្រើប្រាស់",
   "accessibility.enable": "បើកដំណើរការជំនួយភាពងាយស្រួល",
+  "accessibility.support": {},
   "ar": "العربية",
   "chart.choropleth": "Choropleth {map}",
   "chart.config.baseline": "គ្រាគោល",
