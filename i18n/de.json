@@ -1,7 +1,7 @@
 {
   "accessibility.disable": "Unterstützung für Barrierefreiheit deaktivieren",
   "accessibility.enable": "Unterstützung für Barrierefreiheit aktivieren",
-  "accessibility.support": {},
+  "accessibility.support": "Unterstützung für Barrierefreiheit",
   "ar": "العربية",
   "chart.choropleth": "Choroplethen {map}",
   "chart.config.baseline": "Basislinie",
@@ -326,7 +326,7 @@
   "export.data": "Export {count, plural, one {data} other {data}}",
   "export.data.csv": "im CSV-Format",
   "export.data.xml": "im XML-Format",
-  "export.no.data": {},
+  "export.no.data": "Keine Daten gefunden",
   "file": "{name} - {size}",
   "files.no.file": "Keine Datei",
   "filter.final": "Nur endgültig",
