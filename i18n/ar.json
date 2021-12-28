@@ -1,7 +1,7 @@
 {
   "accessibility.disable": "الغاء دعم الاتحاة",
   "accessibility.enable": "تفعيل دعم الاتحاة",
-  "accessibility.support": {},
+  "accessibility.support": "دعم الوصول",
   "ar": "العربية",
   "chart.choropleth": "تشوروبليث {map}",
   "chart.config.baseline": "إلغاء اتغييرات",
@@ -326,7 +326,7 @@
   "export.data": "يصدر {count, plural, one {data} other {data}}",
   "export.data.csv": "بتنسيق CSV",
   "export.data.xml": "بتنسيق XML",
-  "export.no.data": {},
+  "export.no.data": "لاتوجد بيانات",
   "file": "{name} - {size}",
   "files.no.file": "لا ملف",
   "filter.final": "نهائي فقط",

@@ -1,7 +1,7 @@
 {
   "accessibility.disable": "ใช้งานปกติ",
   "accessibility.enable": "ใช้งานลดข้อจำกัด",
-  "accessibility.support": {},
+  "accessibility.support": "รองรับการเข้าถึง",
   "ar": "العربية",
   "chart.choropleth": "โคโรเพลท {map}",
   "chart.config.baseline": "เวลาพื้นฐาน",
@@ -326,7 +326,7 @@
   "export.data": "ส่งออก {count, plural, one {ข้อมูล} other {ข้อมูล}}",
   "export.data.csv": "เป็น csv",
   "export.data.xml": "เป็น xml",
-  "export.no.data": {},
+  "export.no.data": "ไม่พบข้อมูล",
   "file": "{name} - {size}",
   "files.no.file": "ไม่มีไฟล์",
   "filter.final": "สุดท้ายเท่านั้น",
