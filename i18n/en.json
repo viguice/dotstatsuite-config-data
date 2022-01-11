@@ -107,6 +107,7 @@
   "de.share.table.no.data": "No data",
   "de.share.tag.new.shared.object": "NEW",
   "de.share.title.table": "Your active visualisations",
+  "de.sharing.private.data": "Sharing a snapshot will make the selected data publicly accessible, even though the underlying data has not been publicly released.",
   "de.side.filters.action": "Filters",
   "de.table.layout.apply": "Apply layout",
   "de.table.layout.cancel": "Cancel changes",
