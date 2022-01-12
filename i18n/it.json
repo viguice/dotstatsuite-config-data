@@ -107,7 +107,7 @@
   "de.share.table.no.data": "Nessun dato",
   "de.share.tag.new.shared.object": "NUOVO",
   "de.share.title.table": "Le tue visualizzazioni attive",
-  "de.sharing.private.data": {},
+  "de.sharing.private.data": "La condivisione di uno snapshot renderà accessibili pubblicamente i dati selezionati, anche se i dati sottostanti non sono stati rilasciati pubblicamente.",
   "de.side.filters.action": "Filtri",
   "de.table.layout.apply": "Applica",
   "de.table.layout.cancel": "Annulla",

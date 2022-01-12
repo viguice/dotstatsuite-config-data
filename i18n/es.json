@@ -107,7 +107,7 @@
   "de.share.table.no.data": "Sin datos",
   "de.share.tag.new.shared.object": "NUEVO",
   "de.share.title.table": "Tus visualizaciones activas",
-  "de.sharing.private.data": {},
+  "de.sharing.private.data": "Compartir una instantánea hará que los datos seleccionados sean de acceso público, aunque los datos subyacentes no se hayan publicado.",
   "de.side.filters.action": "Filtros",
   "de.table.layout.apply": "Aplicar diseño",
   "de.table.layout.cancel": "Cancelar cambios",

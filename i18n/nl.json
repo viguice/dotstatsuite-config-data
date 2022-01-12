@@ -107,7 +107,7 @@
   "de.share.table.no.data": "Geen informatie",
   "de.share.tag.new.shared.object": "NIEUWE",
   "de.share.title.table": "Uw actieve visualisaties",
-  "de.sharing.private.data": {},
+  "de.sharing.private.data": "Als u een momentopname deelt, worden de geselecteerde gegevens openbaar toegankelijk, ook al zijn de onderliggende gegevens niet openbaar vrijgegeven.",
   "de.side.filters.action": "Filters",
   "de.table.layout.apply": "Opmaak toepassen",
   "de.table.layout.cancel": "Wijzigingen annuleren",
