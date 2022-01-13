@@ -1,6 +1,7 @@
 {
   "accessibility.disable": "الغاء دعم الاتحاة",
   "accessibility.enable": "تفعيل دعم الاتحاة",
+  "accessibility.support": "دعم الوصول",
   "ar": "العربية",
   "chart.choropleth": "تشوروبليث {map}",
   "chart.config.baseline": "إلغاء اتغييرات",
@@ -106,6 +107,7 @@
   "de.share.table.no.data": "لايوجد بيانات",
   "de.share.tag.new.shared.object": "الجديد",
   "de.share.title.table": "تصوراتك النشطة",
+  "de.sharing.private.data": "ستؤدي مشاركة اللقطة إلى إتاحة البيانات المحددة للجمهور ، حتى لو لم يتم نشر هذه البيانات.",
   "de.side.filters.action": "الإختيارات",
   "de.table.layout.apply": "تطبيق التغييرات",
   "de.table.layout.cancel": "إلغاء التغييرات",
@@ -325,6 +327,7 @@
   "export.data": "يصدر {count, plural, one {data} other {data}}",
   "export.data.csv": "بتنسيق CSV",
   "export.data.xml": "بتنسيق XML",
+  "export.no.data": "لاتوجد بيانات",
   "file": "{name} - {size}",
   "files.no.file": "لا ملف",
   "filter.final": "نهائي فقط",

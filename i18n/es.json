@@ -1,6 +1,7 @@
 {
   "accessibility.disable": "Desactivar accesibilidad",
   "accessibility.enable": "Activar accesibilidad",
+  "accessibility.support": "Soporte de accesibilidad",
   "ar": "العربية",
   "chart.choropleth": "Mapa temático {map}",
   "chart.config.baseline": "Línea de base",
@@ -106,6 +107,7 @@
   "de.share.table.no.data": "Sin datos",
   "de.share.tag.new.shared.object": "NUEVO",
   "de.share.title.table": "Tus visualizaciones activas",
+  "de.sharing.private.data": "Compartir una instantánea hará que los datos seleccionados sean de acceso público, aunque los datos subyacentes no se hayan publicado.",
   "de.side.filters.action": "Filtros",
   "de.table.layout.apply": "Aplicar diseño",
   "de.table.layout.cancel": "Cancelar cambios",
@@ -325,6 +327,7 @@
   "export.data": "Exportar {count, plural, one {dato} other {datos}}",
   "export.data.csv": "en formato CSV",
   "export.data.xml": "en formato XML",
+  "export.no.data": "Datos no encontrados",
   "file": "{name} - {size}",
   "files.no.file": "Ningún archivo para cargar",
   "filter.final": "Sólo final",

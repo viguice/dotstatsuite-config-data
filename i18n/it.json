@@ -1,6 +1,7 @@
 {
   "accessibility.disable": "Disabilita il supporto per l'accessibilità",
   "accessibility.enable": "Abilita il supporto per l'accessibilità",
+  "accessibility.support": "Supporto per l'accessibilità",
   "ar": "العربية",
   "chart.choropleth": "Choropleth {map}",
   "chart.config.baseline": "Linea base",
@@ -106,6 +107,7 @@
   "de.share.table.no.data": "Nessun dato",
   "de.share.tag.new.shared.object": "NUOVO",
   "de.share.title.table": "Le tue visualizzazioni attive",
+  "de.sharing.private.data": "La condivisione di uno snapshot renderà accessibili pubblicamente i dati selezionati, anche se i dati sottostanti non sono stati rilasciati pubblicamente.",
   "de.side.filters.action": "Filtri",
   "de.table.layout.apply": "Applica",
   "de.table.layout.cancel": "Annulla",
@@ -325,6 +327,7 @@
   "export.data": "Esportare {count, plural, one {data} other {data}}",
   "export.data.csv": "in formato CSV",
   "export.data.xml": "in formato XML",
+  "export.no.data": "Nessun dato trovato",
   "file": "{name} - {size}",
   "files.no.file": "Nessun file",
   "filter.final": "Solo finale",

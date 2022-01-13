@@ -1,6 +1,7 @@
 {
   "accessibility.disable": "ใช้งานปกติ",
   "accessibility.enable": "ใช้งานลดข้อจำกัด",
+  "accessibility.support": "รองรับการเข้าถึง",
   "ar": "العربية",
   "chart.choropleth": "โคโรเพลท {map}",
   "chart.config.baseline": "เวลาพื้นฐาน",
@@ -106,6 +107,7 @@
   "de.share.table.no.data": "ไม่มีข้อมูล",
   "de.share.tag.new.shared.object": "ใหม่",
   "de.share.title.table": "การสร้างภาพข้อมูลเชิงรุกของคุณ",
+  "de.sharing.private.data": "การแชร์สแนปชอตจะทำให้ข้อมูลที่เลือกเข้าถึงได้แบบสาธารณะ แม้ว่าข้อมูลพื้นฐานจะไม่ได้เปิดเผยต่อสาธารณะก็ตาม",
   "de.side.filters.action": "กรอง",
   "de.table.layout.apply": "ใช้ฉบับร่าง",
   "de.table.layout.cancel": "ยกเลิกการเปลี่ยนแปลง",
@@ -325,6 +327,7 @@
   "export.data": "ส่งออก {count, plural, one {ข้อมูล} other {ข้อมูล}}",
   "export.data.csv": "เป็น csv",
   "export.data.xml": "เป็น xml",
+  "export.no.data": "ไม่พบข้อมูล",
   "file": "{name} - {size}",
   "files.no.file": "ไม่มีไฟล์",
   "filter.final": "สุดท้ายเท่านั้น",

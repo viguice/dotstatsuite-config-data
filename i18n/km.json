@@ -1,6 +1,7 @@
 {
   "accessibility.disable": "បិទការគាំទ្រលទ្ធភាពប្រើប្រាស់",
   "accessibility.enable": "បើកដំណើរការជំនួយភាពងាយស្រួល",
+  "accessibility.support": "ជំនួយភាពងាយស្រួល",
   "ar": "العربية",
   "chart.choropleth": "Choropleth {map}",
   "chart.config.baseline": "គ្រាគោល",
@@ -106,6 +107,7 @@
   "de.share.table.no.data": "គ្មាន​ទិន្នន័យ",
   "de.share.tag.new.shared.object": "ថ្មី",
   "de.share.title.table": "ការមើលឃើញសកម្មរបស់អ្នក។",
+  "de.sharing.private.data": "ការចែករំលែករូបថតនឹងធ្វើឱ្យទិន្នន័យដែលបានជ្រើសរើសអាចចូលប្រើជាសាធារណៈ ទោះបីជាទិន្នន័យមូលដ្ឋានមិនត្រូវបានបញ្ចេញជាសាធារណៈក៏ដោយ។",
   "de.side.filters.action": "ចម្រោះ",
   "de.table.layout.apply": "អនុវត្តប្លង់ព្រាង",
   "de.table.layout.cancel": "បោះបង់ការផ្លាស់ប្តូរ",
@@ -325,6 +327,7 @@
   "export.data": "នាំចេញ {count, plural, one {data} other {data}}",
   "export.data.csv": "ជាទម្រង់ CSV",
   "export.data.xml": "ក្នុងទម្រង់ XML",
+  "export.no.data": "រកមិនឃើញទិន្នន័យទេ។",
   "file": "{name} - {size}",
   "files.no.file": "គ្មានឯកសារ",
   "filter.final": "មានតែចុងក្រោយប៉ុណ្ណោះ។",
