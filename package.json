@@ -3,9 +3,11 @@
   "version": "11.0.0",
   "scripts": {
     "i18n:changelog": "node scripts/i18n-changelog.js --color",
-    "i18n:update": "node scripts/i18n-update.js --color"
+    "i18n:update": "node scripts/i18n-update.js --color",
+    "helper:mergerequests": "node scripts/merge-requests.js --color"
   },
   "devDependencies": {
+    "axios": "^0.24.0",
     "chalk": "^4.1.1",
     "glob": "^7.1.7",
     "ramda": "^0.26.1",
