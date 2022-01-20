@@ -245,7 +245,6 @@
   "artefact.delete.error": "Errore/i nella cancellazione della struttura dallo spazio {label}:",
   "artefact.delete.relatives": "Artefatti correlati elimina la selezione",
   "artefact.delete.success": "Eliminazione struttura riuscita dallo spazio {label}:",
-  "artefact.description": "Descrizione",
   "artefact.is.deleting": "Eliminazione",
   "artefact.is.exporting.data": "Esportazione dei dati",
   "artefact.is.exporting.structure": "Esportazione della struttura",

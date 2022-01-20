@@ -245,7 +245,6 @@
   "artefact.delete.error": "ข้อผิดพลาดในการลบโครงสร้างจากช่องว่าง {label}: ",
   "artefact.delete.relatives": "ลบข้อสกำหนดที่เกี่ยวเนื่อง",
   "artefact.delete.success": "ลบโครงสร้างสำเร็จจากช่องว่าง {label}: ",
-  "artefact.description": "คำอธิบาย",
   "artefact.is.deleting": "กำลังลบ",
   "artefact.is.exporting.data": "ส่งออกข้อมูล",
   "artefact.is.exporting.structure": "ส่งออกโครงสร้าง",

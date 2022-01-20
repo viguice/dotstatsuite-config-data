@@ -245,7 +245,6 @@
   "artefact.delete.error": "Error(s) in structure deletion from space {label}: ",
   "artefact.delete.relatives": "Related Artefacts delete selection",
   "artefact.delete.success": "Successful structure deletion from space {label}: ",
-  "artefact.description": "Description",
   "artefact.is.deleting": "Deleting",
   "artefact.is.exporting.data": "Exporting data",
   "artefact.is.exporting.structure": "Exporting structure",

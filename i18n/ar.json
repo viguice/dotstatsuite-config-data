@@ -245,7 +245,6 @@
   "artefact.delete.error": "أخطاء في حذف البنية من المساحة {label}:",
   "artefact.delete.relatives": "المشغولات ذات الصلة حذف التحديد",
   "artefact.delete.success": "حذف بنية ناجح من المساحة {label}:",
-  "artefact.description": "وصف",
   "artefact.is.deleting": "حذف",
   "artefact.is.exporting.data": "تصدير البيانات",
   "artefact.is.exporting.structure": "هيكل التصدير",
