@@ -245,7 +245,6 @@
   "artefact.delete.error": "កំហុសក្នុងការលុបរចនាសម្ព័ន្ធចេញពីលំហ {label}៖ ",
   "artefact.delete.relatives": "វត្ថុបុរាណដែលពាក់ព័ន្ធលុបការជ្រើសរើស",
   "artefact.delete.success": "ការលុបរចនាសម្ព័ន្ធដោយជោគជ័យពីលំហ {label}៖ ",
-  "artefact.description": "ការពិពណ៌នា",
   "artefact.is.deleting": "ការលុប",
   "artefact.is.exporting.data": "ការនាំចេញទិន្នន័យ",
   "artefact.is.exporting.structure": "រចនាសម្ព័ន្ធនាំចេញ",

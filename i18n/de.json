@@ -245,7 +245,6 @@
   "artefact.delete.error": "Fehler beim Löschen der Struktur aus dem Leerzeichen {label}: ",
   "artefact.delete.relatives": "Verwandte Artefakte Auswahl löschen",
   "artefact.delete.success": "Erfolgreiches Löschen der Struktur aus dem Leerzeichen {label}: ",
-  "artefact.description": "Beschreibung",
   "artefact.is.deleting": "Löschen",
   "artefact.is.exporting.data": "Daten exportieren",
   "artefact.is.exporting.structure": "Struktur exportieren",
