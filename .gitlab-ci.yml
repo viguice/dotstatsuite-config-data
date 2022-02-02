@@ -37,24 +37,13 @@ deploy-staging:
 
 changelog-i18n:
   stage: changelog
-  image: node:14-alpine
+  image: node:14
   script:
     - yarn
     - PREVIOUS_TAG=$(git tag --list v* --sort=refname | tail -2 | head -1)
-    - ENV_HOME="" CHANGELOG_FOLDER="$CI_PROJECT_DIR" yarn i18n:changelog "$PREVIOUS_TAG" "$CI_COMMIT_TAG"
+    - ENV_HOME="" CHANGELOG_FOLDER="$CI_PROJECT_DIR" yarn i18n:changelog "$CI_COMMIT_TAG" "$PREVIOUS_TAG"
   artifacts:
     paths:
       - changelog-i18n.json
   only:
-    - tags
-
-merge-requests:
-  stage: helper
-  image: node:14-alpine
-  script:
-    - yarn
-    - yarn helper:mergerequests "$MILESTONE" "$GITLAB_API_KEY" "$GROUP_ID"
-  artifacts:
-    paths:
-      - merge_requests.json
-  when: manual
+    - merge_requests
