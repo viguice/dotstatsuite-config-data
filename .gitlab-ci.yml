@@ -42,6 +42,7 @@ changelog-i18n:
     - yarn
     - PREVIOUS_TAG=$(git tag --list v* --sort=refname | tail -2 | head -1)
     - echo "$PREVIOUS_TAG"
+    - echo "$CI_PROJECT_DIR"
     - ENV_HOME="" CHANGELOG_FOLDER="$CI_PROJECT_DIR" yarn i18n:changelog "$CI_COMMIT_TAG" "$PREVIOUS_TAG"
   artifacts:
     paths:
