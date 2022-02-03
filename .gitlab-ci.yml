@@ -1,9 +1,10 @@
 stages:
-  - deploy-qa
-  - deploy-staging
-  - changelog-i18n
+  - deploy
+  - changelog
+  - helper
 
 .template: &template
+  stage: deploy
   image: google/cloud-sdk
   before_script:
     - echo ${KUBE_ACCOUNT_KEY} | base64 -di > key.json
@@ -13,7 +14,7 @@ stages:
     - gcloud config set container/cluster oecd
     - gcloud config set compute/region europe-west1
     - gcloud container clusters get-credentials oecd --region europe-west1-b
-    - gsutil -m rsync -d -r ./i18n gs://siscc-config-$ENV/i18n
+    - gsutil -m rsync -d -r ./i18n gs://$ENV-i18n-siscc
   environment:
     name: $ENV
   tags:
@@ -24,7 +25,6 @@ deploy-qa:
   variables:
     ENV: qa
   <<: *template
-  stage: deploy-qa
   only:
     - develop
 
@@ -32,13 +32,12 @@ deploy-staging:
   variables:
     ENV: staging
   <<: *template
-  stage: deploy-staging
   only:
     - master
 
 changelog-i18n:
-  stage: changelog-i18n
-  image: node:14
+  stage: changelog
+  image: node:14-alpine
   script:
     - yarn
     - PREVIOUS_TAG=$(git tag --list v* --sort=refname | tail -2 | head -1)
@@ -48,6 +47,14 @@ changelog-i18n:
       - changelog-i18n.json
   only:
     - tags
-  tags:
-    - kube
-    - oecd
+
+merge-requests:
+  stage: helper
+  image: node:14-alpine
+  script:
+    - yarn
+    - yarn helper:mergerequests "$MILESTONE" "$GITLAB_API_KEY" "$GROUP_ID"
+  artifacts:
+    paths:
+      - merge_requests.json
+  when: manual

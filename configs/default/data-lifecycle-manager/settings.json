@@ -51,6 +51,11 @@
       "de": {
         "id": "de",
         "delimiters": { "thousands": " ", "decimal": ","  }
+      },
+            "th": {
+        "id": "th",
+        "delimiters": { "thousands": " ", "decimal": ","  },
+        "timeFormat": "MMM YYYY"
       }
     }
   },

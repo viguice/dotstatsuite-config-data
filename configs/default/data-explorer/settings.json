@@ -75,10 +75,9 @@
     "maps": {
       "world": {
         "id": "world",
-        "projection": "mercator",
+        "projection": "geoMercator",
         "path": "/assets/siscc/data-explorer/maps/world_countries.json",
-        "levels": [{ "id": "countries", "names": { "en": "world countries", "fr": "pays du monde" } }],
-        "scale": 150
+        "levels": [{ "id": "countries", "names": { "en": "world countries", "fr": "pays du monde" } }]
       }
     },
     "options": {
@@ -159,12 +158,17 @@
         "id": "de",
         "delimiters": { "thousands": " ", "decimal": ","  },
         "timeFormat": "MMM YYYY"
+      },
+      "th": {
+        "id": "th",
+        "delimiters": { "thousands": " ", "decimal": ","  },
+        "timeFormat": "MMM YYYY"
       }
     }
   },
   "styles": "/assets/siscc/data-explorer/styles/styles.css",
   "search": {
-    "endpoint": "https://sfs-qa.siscc.org/api",
+    "endpoint": "http://localhost:3004/api",
     "homeFacetIds": ["Topic", "Thème", "Reference area", "Zone de référence", "مرجع المنطقة", "Frequency", "Fréquence", "الدورية", "datasourceId"],
     "homeFacetLevel2Clickable": true,
     "homeFacetCentered": true,
@@ -186,7 +190,7 @@
   },
   "share": {
     "confirmUrl": "http://localhost:7002",
-    "endpoint": "http://localhost:3005/api/charts",
+    "endpoint": "http://localhost:3005/api",
     "policy": "http://www.oecd.org/general/privacypolicy.htm"
   }
 }
