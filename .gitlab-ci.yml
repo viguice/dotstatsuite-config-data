@@ -1,7 +1,6 @@
 stages:
   - deploy
   - changelog
-  - helper
 
 .template: &template
   stage: deploy
@@ -47,14 +46,3 @@ changelog-i18n:
       - changelog-i18n.json
   only:
     - tags
-
-merge-requests:
-  stage: helper
-  image: node:14-alpine
-  script:
-    - yarn
-    - yarn helper:mergerequests "$MILESTONE" "$GITLAB_API_KEY" "$GROUP_ID"
-  artifacts:
-    paths:
-      - merge_requests.json
-  when: manual

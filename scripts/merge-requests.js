@@ -6,8 +6,8 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 const args = process.argv.slice(3);
-const milestone = R.nth(0)(args); //'dotstatsuiteJS@v11.0.0' 
-const token = R.nth(1)(args) //'glpat-xxxxxxxxxxxxx' // read
+const milestone = R.nth(0)(args); //'dotstatsuiteJS@v12.0.0' 
+const token = R.nth(1)(args) //'glpat-xxxxxxxxxxxxx' // read access token
 const _groupId = R.nth(2)(args);
 
 if (R.isNil(milestone) || R.isEmpty(milestone)) {
