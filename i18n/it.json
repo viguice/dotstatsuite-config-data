@@ -220,6 +220,7 @@
   "wcag.filters.search.help": "I filtri contrassegnati da un punto sono, quando disponibili, sempre elencati per primi.",
   "wcag.pinned": "appuntato",
   "wcag.scopelist.navigate.backHelper": "Torna a questo livello",
+  "wcag.scopelist.navigate.children": {},
   "wcag.scopelist.navigate.next": "Vai al livello inferiore",
   "wcag.search.page.end": "Ultima pagina",
   "wcag.search.page.next": "Pagina successiva",

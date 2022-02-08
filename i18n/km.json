@@ -220,6 +220,7 @@
   "wcag.filters.search.help": "ចម្រោះមានសម្គាល់ជាចំណុច នៅពេលដែលមាន ជានិច្ចកាលសម្រង់បញ្ជីជាមុនសិន",
   "wcag.pinned": "ខ្ទាស់",
   "wcag.scopelist.navigate.backHelper": "ត្រលប់ទៅកម្រិតនេះ។",
+  "wcag.scopelist.navigate.children": {},
   "wcag.scopelist.navigate.next": "រុករកទៅទាបជាង",
   "wcag.search.page.end": "ទំព័រចុងក្រោយ",
   "wcag.search.page.next": "ទំព័របន្ទាប់",

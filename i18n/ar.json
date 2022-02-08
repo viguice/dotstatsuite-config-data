@@ -220,6 +220,7 @@
   "wcag.filters.search.help": "يتم دائمًا إدراج الاختيارات بنقطة أولاً عند توفرها",
   "wcag.pinned": "محدد",
   "wcag.scopelist.navigate.backHelper": "العودة إلى هذا المستوى",
+  "wcag.scopelist.navigate.children": {},
   "wcag.scopelist.navigate.next": "انتقل إلى المستوى الأدنى",
   "wcag.search.page.end": "الصفحة الاخيرة",
   "wcag.search.page.next": "الصفحة التالية",

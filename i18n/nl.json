@@ -220,6 +220,7 @@
   "wcag.filters.search.help": "Filters gemarkeerd met een punt staan, indien beschikbaar, altijd eerst in de lijst.",
   "wcag.pinned": "vastgepind",
   "wcag.scopelist.navigate.backHelper": "Terug naar dit niveau",
+  "wcag.scopelist.navigate.children": {},
   "wcag.scopelist.navigate.next": "Navigeer naar een lager niveau",
   "wcag.search.page.end": "Laatste pagina",
   "wcag.search.page.next": "Volgende pagina",

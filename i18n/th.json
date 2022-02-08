@@ -220,6 +220,7 @@
   "wcag.filters.search.help": "ตัวกรองจะถูกทำเครื่องหมายเป็นจุดเมื่อมีรายการคำพูดก่อนเสมอ",
   "wcag.pinned": "โฮสต์",
   "wcag.scopelist.navigate.backHelper": "กลับสู่ระดับนี้",
+  "wcag.scopelist.navigate.children": {},
   "wcag.scopelist.navigate.next": "ไปที่ด้านล่าง",
   "wcag.search.page.end": "หน้าสุดท้าย",
   "wcag.search.page.next": "หน้าต่อไป",
