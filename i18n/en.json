@@ -162,7 +162,7 @@
   "log.error.sdmx.xxx": "Whoops, something went wrong on our side. We are working to solve this. Please try again later.",
   "metadata.advanced.attributes": "Data Characteristics",
   "metadata.collapse.all": "Collapse all",
-  "metadata.download": "Download Metadata",
+  "metadata.download": "Download the selection in CSV",
   "metadata.expand.all": "Expand all",
   "metadata.information.title": "Information",
   "microdata.count": "{count} microdata total",
