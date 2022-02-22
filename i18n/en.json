@@ -225,6 +225,7 @@
   "wcag.filters.search.help": "Filters marked with a dot are, when available, always listed first.",
   "wcag.pinned": "pinned",
   "wcag.scopelist.navigate.backHelper": "Back to this level",
+  "wcag.scopelist.navigate.children": "Drill-down to next level",
   "wcag.scopelist.navigate.next": "Navigate to lower level",
   "wcag.search.page.end": "Last page",
   "wcag.search.page.next": "Next page",
