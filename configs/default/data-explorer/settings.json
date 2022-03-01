@@ -70,6 +70,7 @@
     }
   },
   "chart": {
+    "isVisible": true,
     "url": "",
     "source": "https://de-demo.siscc.org/",
     "maps": {
