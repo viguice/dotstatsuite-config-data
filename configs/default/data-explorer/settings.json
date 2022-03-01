@@ -3,7 +3,7 @@
     "range": [0, 2499],
     "attributes": {
       "flags": ["OBS_STATUS", "CONF_STATUS"],
-      "footnotes": ["FOOTNOTE", "COMMENT", "COLLECTION", "TABLE_IDENTIFIER", "UNIT_MULT", "UNIT_MEASURE"],
+      "notes": ["FOOTNOTE", "COMMENT", "COLLECTION", "TABLE_IDENTIFIER", "UNIT_MULT", "UNIT_MEASURE"],
       "prefscale": "PREF_SCALE",
       "decimals": "DECIMALS"
     },
