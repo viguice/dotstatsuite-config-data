@@ -66,6 +66,7 @@ const getIssues = async (milestone, page = 1, data = []) => {
     iid: issue.iid,
     project_id: issue.project_id,
     web_url: issue.web_url,
+    state: issue.state,
   }), response.data)
 
   if (nextPage) {
@@ -76,11 +77,11 @@ const getIssues = async (milestone, page = 1, data = []) => {
 
 getIssues(milestone).then((issues) => {
   const relatedMRurls = R.map(issue => {
+    if (issue.state === 'closed') return;
     const query = `${endPoint}/projects/${issue.project_id}/issues/${issue.iid}/related_merge_requests`;
     return axios.get(query, config);
   }, issues);
-
-  Promise.all(relatedMRurls).then((data) => {
+  Promise.all(R.reject(R.isNil)(relatedMRurls)).then((data) => {
     const mrs = R.reduce((acc, relatedMRS) => {
       const mr = R.map(mr => ({
         project_id: R.defaultTo(mr.project_id, projectIds[mr.project_id]),
