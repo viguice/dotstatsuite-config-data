@@ -46,14 +46,6 @@ const getKeys = filename => R.keys(JSON.parse(fs.readFileSync(filename, "utf8"))
 const newKeys = getKeys(`${CHANGELOG_FOLDER}/${R.head(branchs)}.json`, "utf8");
 const oldKeys = getKeys(`${CHANGELOG_FOLDER}/${R.last(branchs)}.json`, "utf8");
 
-R.forEach((branch) => {
-  const folderName = generatedFolder(branch)
-  const path = `${ENV_HOME}/${folderName}`
-  shell.rm('-rf', path);
-  shell.rm('-rf', `${CHANGELOG_FOLDER}/${branch}.json`);
-  console.log(chalk.cyan(`   INFO rm generated folder ${path}`));
-}, branchs)
-
 console.log(`difference from ${branch1} to ${branch2}`)
 fs.writeFileSync(
   `${CHANGELOG_FOLDER}/${CHANGE_LOG_NAME}.json`,
@@ -62,3 +54,13 @@ fs.writeFileSync(
     "Removed keys": R.difference(oldKeys, newKeys)
   }, null, 2)
 );
+
+shell.cd()
+
+R.forEach((branch) => {
+  const folderName = generatedFolder(branch)
+  const path = `${ENV_HOME}/${folderName}`
+  shell.rm('-rf', path);
+  shell.rm('-rf', `${CHANGELOG_FOLDER}/${branch}.json`);
+  console.log(chalk.cyan(`   INFO rm generated folder ${path}`));
+}, branchs)
