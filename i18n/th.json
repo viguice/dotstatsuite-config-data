@@ -172,6 +172,7 @@
   "metadata.download": "ดาวน์โหลดการเลือกใน CSV",
   "metadata.expand.all": "ขยายทั้งหมด",
   "metadata.information.title": "ข้อมูล",
+  "metadata.no.value": {},
   "microdata.count": "{count} รวม microdata",
   "microdata.download.csv.all": "ไฟล์  CSV ทั้งหมด",
   "microdata.download.csv.selection": "ไฟล์  CSV ที่เลือก",

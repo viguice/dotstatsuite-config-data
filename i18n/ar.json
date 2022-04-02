@@ -172,6 +172,7 @@
   "metadata.download": "قم بتنزيل التحديد بتنسيق CSV",
   "metadata.expand.all": "توسيع الكل",
   "metadata.information.title": "معلومة",
+  "metadata.no.value": {},
   "microdata.count": "إجمالي {count} البيانات المفصلة",
   "microdata.download.csv.all": "جميع البيانات مجزأة في CSV",
   "microdata.download.csv.selection": "تم تحديد البيانات المصنفة في ملف CSV",

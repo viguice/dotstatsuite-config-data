@@ -172,6 +172,7 @@
   "metadata.download": "ទាញយកជម្រើសជា CSV",
   "metadata.expand.all": "ពង្រីកទាំងអស់។",
   "metadata.information.title": "ព័ត៌មាន",
+  "metadata.no.value": {},
   "microdata.count": "សរុប {count} មីក្រូទិន្នន័យ",
   "microdata.download.csv.all": "ទិន្នន័យមីក្រូដែលមិនបានត្រងនៅក្នុងអត្ថបទតារាង (CSV)",
   "microdata.download.csv.selection": "ទិន្នន័យខ្នាតតូចដែលបានត្រងជាអត្ថបទតារាង (CSV)",

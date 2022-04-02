@@ -172,6 +172,7 @@
   "metadata.download": "Descarga la selección en CSV",
   "metadata.expand.all": "Expandir todo",
   "metadata.information.title": "Información",
+  "metadata.no.value": {},
   "microdata.count": "{count} microdatos total",
   "microdata.download.csv.all": "Microdatos sin filtrar en formato plano (CSV)",
   "microdata.download.csv.selection": "Microdatos filtrados en formato plano (CSV)",

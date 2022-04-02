@@ -172,6 +172,7 @@
   "metadata.download": "Télécharger la sélection en CSV",
   "metadata.expand.all": "Développer tout",
   "metadata.information.title": "Information",
+  "metadata.no.value": "<i>[Aucune donnée n'est disponible dans ce langage]</i>",
   "microdata.count": "Total de {count} microdonnées",
   "microdata.download.csv.all": "Toutes les microdonnées en CSV",
   "microdata.download.csv.selection": "Les microdonnées sélectionnées en CSV",
