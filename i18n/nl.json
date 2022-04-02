@@ -172,6 +172,7 @@
   "metadata.download": "Download de selectie in CSV",
   "metadata.expand.all": "Alles uitvouwen",
   "metadata.information.title": "Informatie",
+  "metadata.no.value": {},
   "microdata.count": "{count} microdata totaal",
   "microdata.download.csv.all": "Ongefilterde microdata in tabelvorm (CSV)",
   "microdata.download.csv.selection": "Gefilterde microdata in tabeltekst (CSV)",

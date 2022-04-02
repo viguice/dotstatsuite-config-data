@@ -172,6 +172,7 @@
   "metadata.download": "Download the selection in CSV",
   "metadata.expand.all": "Expand all",
   "metadata.information.title": "Information",
+  "metadata.no.value": "<i>[Information is not available in the current language]</i>",
   "microdata.count": "{count} microdata total",
   "microdata.download.csv.all": "Unfiltered microdata in tabular text (CSV)",
   "microdata.download.csv.selection": "Filtered microdata in tabular text (CSV)",
