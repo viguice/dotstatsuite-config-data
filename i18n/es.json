@@ -369,7 +369,7 @@
   "pit.upload.info": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-dlm/upload-data/point-in-time/",
   "route.dump": "Descargar",
   "route.not.found": "Ruta no encontrada",
-  "route.upload.data": "Cargar datos",
+  "route.upload.data": "Cargar datos & metadatos referenciales",
   "route.upload.structure": "Cargar estructuras",
   "selection.reset": "Borrar todas las selecciones",
   "space.auth.anonymous": "Conéctese de forma anónima",

@@ -369,7 +369,7 @@
   "pit.upload.info": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-dlm/upload-data/point-in-time/",
   "route.dump": "การถ่ายโอนข้อมูล",
   "route.not.found": "ไม่พบเส้นทาง",
-  "route.upload.data": "อัพโหลดข้อมูล",
+  "route.upload.data": "อัปโหลดข้อมูลและข้อมูลเมตาอ้างอิง",
   "route.upload.structure": "อัพโหลดโครงสร้าง",
   "selection.reset": "ล้างการเลือกทั้งหมด",
   "space.auth.anonymous": "เชื่อมต่อโดยไม่ระบุชื่อ",

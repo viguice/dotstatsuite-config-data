@@ -369,7 +369,7 @@
   "pit.upload.info": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-dlm/upload-data/point-in-time/",
   "route.dump": "ចាក់សំរាម",
   "route.not.found": "រកមិនឃើញផ្លូវទេ។",
-  "route.upload.data": "ផ្ទុកទិន្នន័យ",
+  "route.upload.data": "ផ្ទុកឡើងទិន្នន័យ និងទិន្នន័យមេតាយោង",
   "route.upload.structure": "ផ្ទុកឡើងរចនាសម្ព័ន្ធ",
   "selection.reset": "ជម្រះការជ្រើសរើសទាំងអស់។",
   "space.auth.anonymous": "ភ្ជាប់ដោយអនាមិក",
