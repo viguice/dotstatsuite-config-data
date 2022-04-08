@@ -369,7 +369,7 @@
   "pit.upload.info": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-dlm/upload-data/point-in-time/",
   "route.dump": "أحمق",
   "route.not.found": "المسار غير موجود",
-  "route.upload.data": "تحميل البيانات",
+  "route.upload.data": "تحميل & البيانات الوصفية المرجعية",
   "route.upload.structure": "تحميل الهياكل",
   "selection.reset": "مسح كافة التحديدات",
   "space.auth.anonymous": "ربط مجهول",
