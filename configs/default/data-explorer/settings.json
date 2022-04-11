@@ -54,6 +54,7 @@
     }
   },
   "app": {
+    "defaultView": "OVERVIEW",
     "favicon": "/assets/siscc/data-explorer/images/favicon.ico",
     "footer": {
       "link": "https://siscc.org/"
