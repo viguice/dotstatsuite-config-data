@@ -75,6 +75,7 @@
   "de.related.files": "ไฟล์ที่เกี่ยวข้อง",
   "de.search.agencyId": "รหัสหน่วยงาน",
   "de.search.back": "กลับไปที่ผลการค้นหา",
+  "de.search.dataflow.dimensions": {},
   "de.search.dataflow.last.updated": "ความคืบหน้าล่าสุด:",
   "de.search.dataflow.source": "ที่มา",
   "de.search.datasourceId": "แหล่งเก็บข้อมูล",
