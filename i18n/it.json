@@ -3,7 +3,7 @@
   "accessibility.enable": "Abilita il supporto per l'accessibilità",
   "accessibility.support": "Supporto per l'accessibilità",
   "ar": "العربية",
-  "auth.required": {},
+  "auth.required": "Non sei autenticato o la tua autenticazione è scaduta.{br} Fai clic di seguito per accedere.{br} Se non riesce, contatta l'amministratore di sistema",
   "chart.choropleth": "Choropleth {map}",
   "chart.config.baseline": "Linea base",
   "chart.config.dimension.for.symbols": "Dimensione per i simbolis",

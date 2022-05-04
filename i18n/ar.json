@@ -3,7 +3,7 @@
   "accessibility.enable": "تفعيل دعم الاتحاة",
   "accessibility.support": "دعم الوصول",
   "ar": "العربية",
-  "auth.required": {},
+  "auth.required": "لم تتم مصادقتك ، أو انتهت مهلة المصادقة الخاصة بك. {br} انقر أدناه لتسجيل الدخول. {br} إذا فشلت ، فاتصل بمسؤول النظام لديك",
   "chart.choropleth": "تشوروبليث {map}",
   "chart.config.baseline": "إلغاء اتغييرات",
   "chart.config.dimension.for.symbols": "البعد للرموز",

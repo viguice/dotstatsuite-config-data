@@ -3,7 +3,7 @@
   "accessibility.enable": "Unterstützung für Barrierefreiheit aktivieren",
   "accessibility.support": "Unterstützung für Barrierefreiheit",
   "ar": "العربية",
-  "auth.required": {},
+  "auth.required": "Sie sind nicht authentifiziert oder Ihre Authentifizierung ist abgelaufen.{br} Klicken Sie unten, um sich anzumelden.{br} Wenn dies fehlschlägt, wenden Sie sich an Ihren Systemadministrator",
   "chart.choropleth": "Choroplethen {map}",
   "chart.config.baseline": "Basislinie",
   "chart.config.dimension.for.symbols": "Dimension für Symbole",
