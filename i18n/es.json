@@ -3,7 +3,7 @@
   "accessibility.enable": "Activar accesibilidad",
   "accessibility.support": "Soporte de accesibilidad",
   "ar": "العربية",
-  "auth.required": {},
+  "auth.required": "No está autenticado o se agotó el tiempo de espera de su autenticación.{br} Haga clic a continuación para iniciar sesión.{br} Si falla, comuníquese con el administrador del sistema",
   "chart.choropleth": "Mapa temático {map}",
   "chart.config.baseline": "Línea de base",
   "chart.config.dimension.for.symbols": "Dimensión para símbolos",
