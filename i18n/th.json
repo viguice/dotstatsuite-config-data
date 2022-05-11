@@ -3,7 +3,7 @@
   "accessibility.enable": "ใช้งานลดข้อจำกัด",
   "accessibility.support": "รองรับการเข้าถึง",
   "ar": "العربية",
-  "auth.required": {},
+  "auth.required": "คุณไม่ได้รับการพิสูจน์ตัวตน หรือการตรวจสอบของคุณหมดเวลา{br} คลิกด้านล่างเพื่อเข้าสู่ระบบ{br} หากล้มเหลว โปรดติดต่อผู้ดูแลระบบของคุณ",
   "chart.choropleth": "โคโรเพลท {map}",
   "chart.config.baseline": "เวลาพื้นฐาน",
   "chart.config.dimension.for.symbols": "ขนาดสำหรับสัญลักษณ์",

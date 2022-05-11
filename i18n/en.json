@@ -3,7 +3,7 @@
   "accessibility.enable": "Enable accessibility support",
   "accessibility.support": "Accessibility support",
   "ar": "العربية",
-  "auth.required": {},
+  "auth.required": "You are not authenticated, or your authentication timed out.{br} Click below to log in.{br} If it fails, then contact your system administrator",
   "chart.choropleth": "Choropleth {map}",
   "chart.config.baseline": "Baseline",
   "chart.config.dimension.for.symbols": "Dimension for symbols",
