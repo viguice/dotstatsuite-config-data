@@ -408,8 +408,6 @@
   "upload.artefact.title": "Structuur opladen",
   "upload.artefact.warning": "{label} ruimte: Waarschuwing(en) bij het opladen van structuren",
   "upload.data.error": "{label} ruimte: fout(en) bij opladen data",
-  "upload.data.help.edd.file": "hier",
-  "upload.data.help.excel": "Voeg zowel een EXCEL-databestand met XLSX-extensie als het bijbehorende EDD-datastructuurbestand met XML-extensie toe. Een EDD-voorbeeldbestand kan worden gevonden {edd}.Selecteer vervolgens de bestemmingsruimte en klik op opladen.Let op: de totale grootte van de databestanden mag niet groter zijn dan {size}.",
   "upload.data.help.sdmx": "Kies een SDMX-bestand (XML of CSV) dat de gegevens beschrijft, selecteer vervolgens de bestemmingsruimte en selecteer vervolgens de dataflow. Als het bestand groter is dan {size}, passeer het dan door een zip-gecomprimeerde map om overmaatse beperking te voorkomen, of gebruik een 'gedeelde map' en kopieer het pad met behulp van de onderstaande functie.",
   "upload.data.success": "{label} ruimte: bevestiging succes",
   "upload.data.title": "Data of referentiële metadata opladen",

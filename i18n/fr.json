@@ -408,8 +408,6 @@
   "upload.artefact.title": "Import de structure",
   "upload.artefact.warning": "Espace {label}: Succès/erreur(s) partiel(s) lors de l'import de structure dans l'espace {label} : ",
   "upload.data.error": "Espace {label}: L'initialisation de l'import des données a rencontré une/des erreur(s) et a échoué.",
-  "upload.data.help.edd.file": "ici",
-  "upload.data.help.excel": "Sélectionnez un fichier de données EXCEL au format XLSX ainsi que le fichier de structure de table EDD correspondant, au format XML. Un exemple de fichier EDD est fournit {edd}. Puis sélectionnez l'espace de données de destination and cliquez sur 'Importer'. La taille d'un fichier ne doit pas dépasser {size}.",
   "upload.data.help.sdmx": "Sélectionnez un ficher SDMX (XML ou CSV) de données, puis l'espace cible et le dataflow cible. La taille du fichier ne doit pas dépasser {size} (Zippez le fichier afin de contourner la limite de taille).",
   "upload.data.success": "Espace {label}: L'import des données a été soumis. Vous devriez recevoir un email quand l'import a été traité.",
   "upload.data.title": "Import de données",

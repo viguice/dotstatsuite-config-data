@@ -408,8 +408,6 @@
   "upload.artefact.title": "Carica struttura",
   "upload.artefact.warning": "Multi-stato nel caricamento della struttura nello spazio {label}:",
   "upload.data.error": "{label} spazio: l'inizializzazione del caricamento dei dati ha riscontrato errori e non è riuscita",
-  "upload.data.help.edd.file": "qui",
-  "upload.data.help.excel": "Aggiungere sia un file di dati EXCEL con estensione XLSX che il corrispondente file di struttura della tabella EDD con estensione XML. È possibile trovare un file di esempio EDD {edd}. Quindi seleziona lo spazio di destinazione e fai clic su carica. Tieni presente che la dimensione totale dei file di dati non può superare {size}.",
   "upload.data.help.sdmx": "Scegli un file SDMX (XML o CSV) che contenga dati, quindi seleziona lo spazio di destinazione e il dataflow di destinazione. Se la dimensione del file supera {size}, comprimerlo per evitare limiti di dimensioni eccessive oppure utilizzare una 'cartella condivisa' e copiare il percorso utilizzando la funzione di seguito.",
   "upload.data.success": "{label} spazio: il caricamento dei dati è stato messo in coda. Dovresti ricevere un'e-mail una volta che è stata elaborata.",
   "upload.data.title": "Carica dati o metadati di riferimento",

@@ -408,8 +408,6 @@
   "upload.artefact.title": "Upload-Struktur",
   "upload.artefact.warning": "Multi-Status im Struktur-Upload in Space {label}: ",
   "upload.data.error": "{label} space: Bei der Initialisierung des Daten-Uploads sind Fehler aufgetreten und fehlgeschlagen",
-  "upload.data.help.edd.file": "Hier",
-  "upload.data.help.excel": "Fügen Sie sowohl eine EXCEL-Datendatei mit der Erweiterung XLSX als auch die entsprechende EDD-Tabellenstrukturdatei mit der Erweiterung XML hinzu. Eine EDD-Beispieldatei finden Sie {edd}. Wählen Sie dann den Zielbereich aus und klicken Sie auf Hochladen. Bitte beachten Sie, dass die Gesamtgröße der Datendateien {size} nicht überschreiten darf.",
   "upload.data.help.sdmx": "Wählen Sie eine SDMX-Datei (XML oder CSV) aus, die Daten enthält, und wählen Sie dann den Zielbereich und den Zieldatenfluss aus. Wenn die Dateigröße {size} überschreitet, zippen Sie sie, um eine übermäßige Größenbeschränkung zu vermeiden, oder verwenden Sie einen 'gemeinsamen Ordner' und kopieren Sie den Pfad mit der unten stehenden Funktion.",
   "upload.data.success": "{label} space: Der Datenupload wurde in die Warteschlange gestellt. Sie sollten nach der Bearbeitung eine E-Mail erhalten.",
   "upload.data.title": "Daten oder referenzielle Metadaten hochladen",
