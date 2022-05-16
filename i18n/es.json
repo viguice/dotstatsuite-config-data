@@ -75,6 +75,7 @@
   "de.related.files": "archivos relacionados",
   "de.search.agencyId": "ID de agencia",
   "de.search.back": "Regresar a los resultados de la búsqueda",
+  "de.search.dataflow.dimensions": {},
   "de.search.dataflow.last.updated": "Ultima actualización:",
   "de.search.dataflow.source": "Fuente",
   "de.search.datasourceId": "Fuente de datos",
