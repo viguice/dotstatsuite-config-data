@@ -58,7 +58,11 @@
     "favicon": "/assets/siscc/data-explorer/images/favicon.ico",
     "footer": {
       "link": "https://siscc.org/"
-    }
+    },
+    "linkTags": [
+      "https://fonts.googleapis.com/css?family=Roboto+Slab:400",
+      "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:700"
+    ]
   },
   "assets": {
     "header": "/assets/siscc/data-explorer/images/sis-cc-logo.png",
