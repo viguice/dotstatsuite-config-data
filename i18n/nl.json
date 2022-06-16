@@ -358,6 +358,7 @@
   "is.linking.msd": "referentiële metadata koppelen",
   "link.msd": "Link naar referentiële metadata toevoegen",
   "link.msd.error": "Fout(en) voor referentiële metadatastructuurlink in ruimte {label}:",
+  "link.msd.error.already.linked": {},
   "link.msd.success": "Succesvolle link naar referentiële metadatastructuur in ruimte {label}:",
   "locale.current": "Huidige omgeving",
   "logout": "Afmelden",

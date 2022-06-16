@@ -358,6 +358,7 @@
   "is.linking.msd": "collegamento di metadati di riferimento",
   "link.msd": "Aggiungi link ai metadati di riferimento",
   "link.msd.error": "Errori per il collegamento alla struttura dei metadati referenziali nello spazio {label}:",
+  "link.msd.error.already.linked": {},
   "link.msd.success": "Collegamento riuscito alla struttura dei metadati referenziali nello spazio {label}:",
   "locale.current": "Lingua corrente",
   "logout": "Disconnettersi",

@@ -358,6 +358,7 @@
   "is.linking.msd": "linking referential metadata",
   "link.msd": "Add ref. metadata link",
   "link.msd.error": "Error(s) for referential metadata structure link in space {label}:",
+  "link.msd.error.already.linked": "The DSD {dsd} is already linked to MSD {msd}",
   "link.msd.success": "Successful referential metadata structure link in space {label}:",
   "locale.current": "Current language",
   "logout": "Log Out",
