@@ -358,6 +358,7 @@
   "is.linking.msd": "vincular la estructura de metadatos referenciales",
   "link.msd": "Agregar enlace de metadatos referenciales",
   "link.msd.error": "Error(es) para el enlace de la estructura de metadatos referenciales en el espacio {etiqueta}:",
+  "link.msd.error.already.linked": {},
   "link.msd.success": "Enlace de estructura de metadatos referenciales exitoso en el espacio {label}:",
   "locale.current": "Idioma actual",
   "logout": "Salir",

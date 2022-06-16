@@ -358,6 +358,7 @@
   "is.linking.msd": "Lien en cours de création",
   "link.msd": "Ajouter un lien à une structure de métadonnées",
   "link.msd.error": "Erreur(s) lors de la création du lien de structure de métadonnées dans l'espace {label} :",
+  "link.msd.error.already.linked": {},
   "link.msd.success": "création avec succès du lien de structure de métadonnées dans l'espace {label} :",
   "locale.current": "Langue sélectionnée",
   "logout": "Se déconnecter",

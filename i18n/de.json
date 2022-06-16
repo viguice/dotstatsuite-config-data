@@ -358,6 +358,7 @@
   "is.linking.msd": "Verknüpfung von referenziellen Metadaten",
   "link.msd": "Link zu referenziellen Metadaten hinzufügen",
   "link.msd.error": "Fehler für referenziellen Metadatenstruktur-Link im Leerzeichen {label}:",
+  "link.msd.error.already.linked": {},
   "link.msd.success": "Erfolgreiche Verknüpfung der referenziellen Metadatenstruktur im Bereich {label}:",
   "locale.current": "Aktuelle Sprache",
   "logout": "Ausloggen",
