@@ -363,6 +363,10 @@
   "files.no.file": "لا ملف",
   "filter.final": "نهائي فقط",
   "filters.no.filter": "لا يوجد مرشح",
+  "init.dfs.error": {},
+  "init.dfs.success": {},
+  "init.dfs.warning": {},
+  "is.initializing.dfs": {},
   "is.linking.msd": "ربط البيانات الوصفية المرجعية",
   "link.msd": "إضافة ارتباط البيانات الوصفية المرجعية",
   "link.msd.error": "خطأ في ارتباط بنية البيانات الوصفية المرجعية في مساحة {label}:",
@@ -453,6 +457,5 @@
   "data.pending": "عفوًا ، لم يتم الوصول إلى طريقة العرض هذه بعد. تأكد من التحقق من صحة عنوان البريد الإلكتروني ذي الصلة أولاً.",
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.chart.data": "تعرض هذه المعاينة {range، number} من نقاط البيانات. اختيارك أعلى من هذا الحد مما يؤدي إلى رسم بياني غير مكتمل.",
-  "dv.incomplete.table.data": "تعرض هذه المعاينة خلايا الجدول {range، number} و {cellsLimit، number}. اختيارك أعلى من هذا الحد مما أدى إلى جدول غير مكتمل.",
   "layout.incompatible": "تحديد البيانات المخصصة غير متوافق مع التخطيط المحفوظ"
 }

@@ -166,8 +166,8 @@
   "fr": "Français",
   "incomplete.chart.data": "Your current selection ({total, number} data points) is above the limits for viewing data (maximum {range, number} data points) resulting in an incomplete chart. All selected data points can still be downloaded in tabular text (CSV).",
   "incomplete.excel.data": "The data extraction used a data selection that is above the limits for the table display (maximum {range, number} data points or {cellsLimit, number} table cells) resulting in an incomplete table. Using the web link below the table, all originally selected data points can still be downloaded in tabular text (CSV).",
-  "incomplete.table.data.total.limit": "Your current selection ({total, number} data points) is above the defined limit ({cellsLimit, number}) resulting in an incomplete table.{br}All selected data points can still be downloaded in tabular text (CSV).",
   "incomplete.table.cells.limit": "Your current selection ({totalCells, number} table cells) is above the defined limit ({cellsLimit, number}) resulting in an incomplete table.{br}All selected data points can still be downloaded in tabular text (CSV).",
+  "incomplete.table.data.total.limit": "Your current selection ({total, number} data points) is above the defined limit ({cellsLimit, number}) resulting in an incomplete table.{br}All selected data points can still be downloaded in tabular text (CSV).",
   "it": "Italiano",
   "km": "ភាសារខ្មែរ",
   "log.error.sdmx.404": "There is no data available.",
@@ -363,6 +363,10 @@
   "files.no.file": "No file",
   "filter.final": "Only final",
   "filters.no.filter": "No filter",
+  "init.dfs.error": "Error(s) for related dataflows (re)initialization in space {label}:",
+  "init.dfs.success": "Successful related dataflows (re)initialization in space {label}:",
+  "init.dfs.warning": "Warning(s) for related dataflows (re)initialization in space {label}:",
+  "is.initializing.dfs": "Is (re)initializing related dataflows",
   "is.linking.msd": "linking referential metadata",
   "link.msd": "Add ref. metadata link",
   "link.msd.error": "Error(s) for referential metadata structure link in space {label}:",
@@ -453,6 +457,5 @@
   "data.pending": "Oops, this view isn't accessible yet. Make sure to validate the related email address first.",
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.chart.data": "This preview displays {range, number} data points. Your selection is above this limit resulting in an incomplete chart.",
-  "dv.incomplete.table.data": "This preview displays {range, number} data points and {cellsLimit, number} table cells. Your selection is above this limit resulting in an incomplete table.",
   "layout.incompatible": "Your customized data selection is incompatible with the saved layout"
 }

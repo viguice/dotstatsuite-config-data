@@ -363,6 +363,10 @@
   "files.no.file": "Keine Datei",
   "filter.final": "Nur endgültig",
   "filters.no.filter": "Kein Filter",
+  "init.dfs.error": {},
+  "init.dfs.success": {},
+  "init.dfs.warning": {},
+  "is.initializing.dfs": {},
   "is.linking.msd": "Verknüpfung von referenziellen Metadaten",
   "link.msd": "Link zu referenziellen Metadaten hinzufügen",
   "link.msd.error": "Fehler für referenziellen Metadatenstruktur-Link im Leerzeichen {label}:",
@@ -453,6 +457,5 @@
   "data.pending": "Hoppla, diese Ansicht ist noch nicht verfügbar. Stellen Sie sicher, dass Sie zuerst die zugehörige E-Mail-Adresse validieren.",
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.chart.data": "Diese Vorschau zeigt {range, number} Datenpunkte an. Ihre Auswahl liegt über dieser Grenze, was zu einem unvollständigen Diagramm führt.",
-  "dv.incomplete.table.data": "Diese Vorschau zeigt {range, number} Datenpunkte und {cellsLimit, number} Tabellenzellen an. Ihre Auswahl liegt über dieser Grenze, was zu einer unvollständigen Tabelle führt.",
   "layout.incompatible": "Ihre benutzerdefinierte Datenauswahl ist mit dem gespeicherten Layout nicht kompatibel"
 }

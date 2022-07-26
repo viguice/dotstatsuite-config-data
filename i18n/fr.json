@@ -363,6 +363,10 @@
   "files.no.file": "Pas de fichier",
   "filter.final": "Seulement finale",
   "filters.no.filter": "Pas de filtre",
+  "init.dfs.error": {},
+  "init.dfs.success": {},
+  "init.dfs.warning": {},
+  "is.initializing.dfs": {},
   "is.linking.msd": "Lien en cours de création",
   "link.msd": "Ajouter un lien à une structure de métadonnées",
   "link.msd.error": "Erreur(s) lors de la création du lien de structure de métadonnées dans l'espace {label} :",
@@ -453,6 +457,5 @@
   "data.pending": "Oups, cette vue n'est pas encore accessible. Assurez-vous d'abord de valider l'adresse e-mail associée.",
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.chart.data": "Cet aperçu affiche {range, number} données. Votre sélection dépasse cette limite, ce qui entraîne un graphe incomplet.",
-  "dv.incomplete.table.data": "Cet aperçu affiche {range, number} données. Votre sélection dépasse cette limite, ce qui entraîne un tableau incomplet.",
   "layout.incompatible": "Votre sélection de données personnalisée est incompatible avec la mise en page enregistrée."
 }

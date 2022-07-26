@@ -363,6 +363,10 @@
   "files.no.file": "Geen file",
   "filter.final": "Enkel finaal",
   "filters.no.filter": "Geen filter",
+  "init.dfs.error": {},
+  "init.dfs.success": {},
+  "init.dfs.warning": {},
+  "is.initializing.dfs": {},
   "is.linking.msd": "referentiële metadata koppelen",
   "link.msd": "Link naar referentiële metadata toevoegen",
   "link.msd.error": "Fout(en) voor referentiële metadatastructuurlink in ruimte {label}:",
@@ -453,6 +457,5 @@
   "data.pending": "Oeps, deze weergave is nog niet toegankelijk. Zorg ervoor dat u eerst het gerelateerde e-mailadres valideert.",
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.chart.data": "Dit voorbeeld toont {range, number} gegevenspunten. Uw selectie ligt boven deze limiet, wat resulteert in een onvolledige grafiek.",
-  "dv.incomplete.table.data": "Dit voorbeeld toont {range, number} datapunten en {cellsLimit, number} tabelcellen. Uw selectie ligt boven deze limiet, wat resulteert in een onvolledige tabel.",
   "layout.incompatible": "Uw aangepaste gegevensselectie is niet compatibel met de opgeslagen lay-out."
 }

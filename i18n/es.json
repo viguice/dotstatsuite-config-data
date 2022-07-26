@@ -363,6 +363,10 @@
   "files.no.file": "Ningún archivo para cargar",
   "filter.final": "Sólo final",
   "filters.no.filter": "No hay filtro",
+  "init.dfs.error": {},
+  "init.dfs.success": {},
+  "init.dfs.warning": {},
+  "is.initializing.dfs": {},
   "is.linking.msd": "vincular la estructura de metadatos referenciales",
   "link.msd": "Agregar enlace de metadatos referenciales",
   "link.msd.error": "Error(es) para el enlace de la estructura de metadatos referenciales en el espacio {etiqueta}:",
@@ -453,6 +457,5 @@
   "data.pending": "Ups!, esta vista no está accesible todavía. Asegúrese de validar primero la dirección de correo electrónico relacionada",
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.chart.data": "Esta vista muestra {range, number} puntos de datos. Su selección está por encima de este límite, lo que resulta en un gráfico incompleto",
-  "dv.incomplete.table.data": "Esta vista previa muestra {range, number} puntos de datos y {cellsLimit, number} celdas de la tabla. Su selección está por encima de este límite, lo que resulta en una tabla incompleta",
   "layout.incompatible": "Su selección de datos personalizada es incompatible con el diseño guardado"
 }
