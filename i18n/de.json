@@ -164,10 +164,9 @@
   "en": "English",
   "es": "Español",
   "fr": "Français",
-  "incomplete.chart.data": "Ihre aktuelle Auswahl übersteigt den Maximalwert ({range, number} Datenpunkte) für die Visualisierung von Daten, was zu einer unvollständigen Grafik führt. Alle ausgewählten Datenpunkte können weiterhin als tabellarischer Text (CSV) heruntergeladen werden.",
   "incomplete.excel.data": "Bei der Datenextraktion wurde eine Datenauswahl verwendet, die über den Grenzen für die Tabellenanzeige liegt (maximum {range, number} Datenpunkte oder {cellsLimit, number} Tabellenzellen), was zu einer unvollständigen Tabelle führte. Über den Weblink unterhalb der Tabelle können alle ursprünglich ausgewählten Datenpunkte weiterhin in tabellarischem Text (CSV) heruntergeladen werden.",
   "incomplete.table.cells.limit": "Ihre aktuelle Auswahl ({totalCells, number} Tabellenzellen) liegt über dem definierten Limit ({cellsLimit, number}), was zu einer unvollständigen Tabelle führt.{br}Alle ausgewählten Datenpunkte können weiterhin in Tabellenform (CSV) heruntergeladen werden.",
-  "incomplete.table.data.total.limit": "Ihre aktuelle Auswahl ({total, number} Datenpunkte) liegt über dem definierten Limit ({cellsLimit, number}), was zu einer unvollständigen Tabelle führt.{br}Alle ausgewählten Datenpunkte können weiterhin als tabellarischer Text (CSV) heruntergeladen werden.",
+  "incomplete.vis.data.total.limit": {},
   "it": "Italiano",
   "km": "ភាសារខ្មែរ",
   "log.error.sdmx.404": "Es sind keine Daten verfügbar.",
@@ -456,6 +455,7 @@
   "data.not.found": "Hoppla, die gesuchte Ansicht existiert nicht. Stellen Sie sicher, dass Sie einen korrekten und vollständigen Link verwenden.",
   "data.pending": "Hoppla, diese Ansicht ist noch nicht verfügbar. Stellen Sie sicher, dass Sie zuerst die zugehörige E-Mail-Adresse validieren.",
   "dv.app.title": ".Stat Data Viewer",
-  "dv.incomplete.chart.data": "Diese Vorschau zeigt {range, number} Datenpunkte an. Ihre Auswahl liegt über dieser Grenze, was zu einem unvollständigen Diagramm führt.",
+  "dv.incomplete.table.cells.limit": {},
+  "dv.incomplete.vis.data.total.limit": {},
   "layout.incompatible": "Ihre benutzerdefinierte Datenauswahl ist mit dem gespeicherten Layout nicht kompatibel"
 }
