@@ -275,6 +275,7 @@
   "artefact.no.label": "No label for the current language",
   "artefact.observations": "({observations, number} observations)",
   "artefact.owner": "Owner",
+  "artefact.relative.child.non.deletable": "Cannot be deleted since referenced by non deletable {id}",
   "artefact.relative.dependency": "In order to delete this artefact, you must select {parents}",
   "artefact.relative.non.authorized": "Cannot be deleted due to an insufficient permission. Contact the owner of the artefact to gain the deletion permission.",
   "artefact.relative.non.selectable": "Cannot be deleted since referenced by: {parents}{others, plural, =0 {} other { and {others} more}}.{br}First delete those structures and then try again.",

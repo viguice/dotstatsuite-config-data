@@ -275,6 +275,7 @@
   "artefact.no.label": "គ្មានស្លាកសម្រាប់ភាសាបច្ចុប្បន្នទេ។",
   "artefact.observations": "({observations, number} ការសង្កេត)",
   "artefact.owner": "ម្ចាស់",
+  "artefact.relative.child.non.deletable": {},
   "artefact.relative.dependency": "ដើម្បីលុបវត្ថុបុរាណនេះ អ្នកត្រូវតែជ្រើសរើស {parrents}",
   "artefact.relative.non.authorized": "មិនអាចលុបបានទេ ដោយសារការអនុញ្ញាតមិនគ្រប់គ្រាន់។ ទាក់ទងម្ចាស់វត្ថុបុរាណ ដើម្បីទទួលបានការអនុញ្ញាតឱ្យលុប។",
   "artefact.relative.non.selectable": "មិន​អាច​លុប​បាន​ទេ​ចាប់​តាំង​ពី​យោង​ដោយ៖ {parents}{others, plural, =0 {} other { and {others} more}}។{br}ដំបូង​ត្រូវ​លុប​រចនាសម្ព័ន្ធ​ទាំង​នោះ រួច​ព្យាយាម​ម្ដង​ទៀត។",

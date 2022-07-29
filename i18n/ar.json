@@ -275,6 +275,7 @@
   "artefact.no.label": "لا توجد تسمية للغة الحالية",
   "artefact.observations": "({observations, number} الملاحظات)",
   "artefact.owner": "صاحب",
+  "artefact.relative.child.non.deletable": {},
   "artefact.relative.dependency": "لحذف هذه الأداة ، يجب تحديد {parents}",
   "artefact.relative.non.authorized": "لا يمكن حذفه بسبب عدم كفاية الإذن. اتصل بمالك الأداة للحصول على إذن الحذف.",
   "artefact.relative.non.selectable": "لا يمكن حذفه منذ الإشارة إليه بـ: {parents}{others, plural, =0 {} other { and {others} more}}. {br} احذف هذه الهياكل أولاً ثم حاول مرة أخرى.",

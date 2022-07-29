@@ -275,6 +275,7 @@
   "artefact.no.label": "ไม่มีป้ายกำกับ",
   "artefact.observations": "({observations, number} ข้อสังเกต)",
   "artefact.owner": "เจ้าของ",
+  "artefact.relative.child.non.deletable": {},
   "artefact.relative.dependency": " ก่อนลบข้อกำหนดนี้ต้องเลือก  {parents}",
   "artefact.relative.non.authorized": "ไม่สามารถลบข้อกำหนดนี้้ได้เนื่องจากไม่มีสิทธิการลบติดต่อผู้จัดการระบบ",
   "artefact.relative.non.selectable": "ไม่สามารถลบลบข้อกำหนดนี้ได้เนื่องจาก  : {parents}{others, plural, =0 {} other { and {others} more}}.{br} ให้ลบข้อกำหนดเหล่านี้ก่อนเป็นอันดับแรก",
