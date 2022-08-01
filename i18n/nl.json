@@ -166,7 +166,7 @@
   "fr": "Français",
   "incomplete.excel.data": "De gegevensextractie maakte gebruik van een gegevensselectie die boven de limieten voor de tabelweergave lag (maximaal {range, number} gegevenspunten of {cellsLimit, number} tabelcellen), wat resulteerde in een onvolledige tabel. Via de weblink onder de tabel kunnen alle oorspronkelijk geselecteerde datapunten nog steeds in tabelvorm (CSV) worden gedownload.",
   "incomplete.table.cells.limit": "Uw huidige selectie ({totalCells, number} tabelcellen) is boven de gedefinieerde limiet ({cellsLimit, number}), wat resulteert in een onvolledige tabel.{br}Alle geselecteerde gegevenspunten kunnen nog steeds worden gedownload in tabelvorm (CSV).",
-  "incomplete.vis.data.total.limit": {},
+  "incomplete.vis.data.total.limit": "Uw huidige selectie ({total, number} datapunten) is boven de gedefinieerde limiet ({cellsLimit, number}), wat resulteert in een onvolledige {type, select, table {tabel} other {grafiek}}.{br}Alle geselecteerde gegevenspunten kan nog steeds worden gedownload in tabelvorm (CSV).",
   "it": "Italiano",
   "km": "ភាសារខ្មែរ",
   "log.error.sdmx.404": "Er zijn geen gegevens beschikbaar.",
@@ -455,7 +455,7 @@
   "data.not.found": "Oeps, de weergave die u zoekt bestaat niet. Zorg ervoor dat u een correcte en volledige link gebruikt.",
   "data.pending": "Oeps, deze weergave is nog niet toegankelijk. Zorg ervoor dat u eerst het gerelateerde e-mailadres valideert.",
   "dv.app.title": ".Stat Data Viewer",
-  "dv.incomplete.table.cells.limit": {},
-  "dv.incomplete.vis.data.total.limit": {},
+  "dv.incomplete.table.cells.limit": "Uw huidige selectie ({totalCells, number} tabelcellen) is boven de gedefinieerde limiet ({cellsLimit, number}), wat resulteert in een onvolledige tabel.",
+  "dv.incomplete.vis.data.total.limit": "Uw huidige selectie ({total, number} datapunten) is boven de gedefinieerde limiet ({cellsLimit, number}), wat resulteert in een onvolledige {type, select, table {tabel} other {grafiek}}.{br}Alle geselecteerde gegevenspunten kan nog steeds worden gedownload in tabelvorm (CSV).",
   "layout.incompatible": "Uw aangepaste gegevensselectie is niet compatibel met de opgeslagen lay-out."
 }
