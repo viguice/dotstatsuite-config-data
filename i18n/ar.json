@@ -166,7 +166,7 @@
   "fr": "Français",
   "incomplete.excel.data": "استخدم استخراج البيانات تحديد بيانات يتجاوز الحدود المسموح بها لعرض الجدول (بحد أقصى {range, number} من نقاط البيانات أو خلايا الجدول {cellLimit ، number}) مما أدى إلى جدول غير مكتمل. باستخدام رابط الويب أسفل الجدول ، لا يزال من الممكن تنزيل جميع نقاط البيانات المحددة أصلاً في نص جدولي (CSV).",
   "incomplete.table.cells.limit": "اختيارك الحالي ({totalCells, number} من خلايا الجدول) أعلى من الحد المحدد ({cellsLimit, number}) مما يؤدي إلى جدول غير مكتمل. {br} لا يزال من الممكن تنزيل جميع نقاط البيانات المحددة في نص جدولي (CSV).",
-  "incomplete.vis.data.total.limit": {},
+  "incomplete.vis.data.total.limit": "اختيارك الحالي ({total, number} من نقاط البيانات) أعلى من الحد المحدد ({cellsLimit, number}) مما يؤدي إلى عدم اكتمال {type, select, table {طاولة} other {خريطة}}. {br} لا يزال من الممكن تنزيل جميع نقاط البيانات المحددة في نص جدولي (CSV).",
   "it": "Italiano",
   "km": "ភាសារខ្មែរ",
   "log.error.sdmx.404": "لا توجد بيانات متاحة.",
@@ -455,7 +455,7 @@
   "data.not.found": "عفوًا ، العرض الذي تبحث عنه غير موجود. تأكد من استخدام رابط صحيح وكامل.",
   "data.pending": "عفوًا ، لم يتم الوصول إلى طريقة العرض هذه بعد. تأكد من التحقق من صحة عنوان البريد الإلكتروني ذي الصلة أولاً.",
   "dv.app.title": ".Stat Data Viewer",
-  "dv.incomplete.table.cells.limit": {},
-  "dv.incomplete.vis.data.total.limit": {},
+  "dv.incomplete.table.cells.limit": "تحديدك الحالي ({totalCells, number} خلايا جدول) أعلى من الحد المحدد ({cellsLimit, number}) مما يؤدي إلى جدول غير مكتمل.",
+  "dv.incomplete.vis.data.total.limit": "اختيارك الحالي ({total, number} من نقاط البيانات) أعلى من الحد المحدد ({cellsLimit, number}) مما يؤدي إلى عدم اكتمال {type, select, table {جدول} other {جدول}}. {br} لا يزال من الممكن تنزيل جميع نقاط البيانات المحددة في نص جدولي (CSV).",
   "layout.incompatible": "تحديد البيانات المخصصة غير متوافق مع التخطيط المحفوظ"
 }

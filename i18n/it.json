@@ -166,7 +166,7 @@
   "fr": "Français",
   "incomplete.excel.data": "L'estrazione dei dati ha utilizzato una selezione di dati che è al di sopra dei limiti per la visualizzazione della tabella (massimo {range, number} punti dati o {cellsLimit, number} celle della tabella) risultando in una tabella incompleta. Utilizzando il collegamento Web sotto la tabella, tutti i punti dati originariamente selezionati possono ancora essere scaricati in formato tabellare (CSV).",
   "incomplete.table.cells.limit": "La selezione corrente ({totalCells, numero} celle della tabella) è superiore al limite definito ({cellsLimit, numero}) risultando in una tabella incompleta.{br}Tutti i punti dati selezionati possono ancora essere scaricati in testo tabulare (CSV).",
-  "incomplete.vis.data.total.limit": {},
+  "incomplete.vis.data.total.limit": "La selezione corrente ({total, numero} punti dati) è superiore al limite definito ({cellsLimit, numero}) risultando in un {type, select, table {tabella} other {grafico}} incompleto.{br}Tutti i punti dati selezionati può ancora essere scaricato in testo tabulare (CSV).",
   "it": "Italiano",
   "km": "ភាសារខ្មែរ",
   "log.error.sdmx.404": "Non ci sono dati disponibili.",
@@ -455,7 +455,7 @@
   "data.not.found": "Spiacenti, la vista che stai cercando non esiste. Assicurati di utilizzare un collegamento corretto e completo.",
   "data.pending": "Spiacenti, questa visualizzazione non è ancora accessibile. Assicurati di convalidare prima l'indirizzo email correlato.",
   "dv.app.title": ".Stat Data Viewer",
-  "dv.incomplete.table.cells.limit": {},
-  "dv.incomplete.vis.data.total.limit": {},
+  "dv.incomplete.table.cells.limit": "La selezione corrente ({totalCells, number} celle della tabella) è superiore al limite definito ({cellsLimit, number}) risultando in una tabella incompleta.",
+  "dv.incomplete.vis.data.total.limit": "La selezione corrente ({total, number} punti dati) è superiore al limite definito ({cellsLimit, number}) risultando in un {type, select, table {tabella} other {grafico}} incompleto.{br}Tutti i punti dati selezionati può ancora essere scaricato in testo tabulare (CSV).",
   "layout.incompatible": "La tua selezione di dati personalizzati non è compatibile con il layout salvato"
 }

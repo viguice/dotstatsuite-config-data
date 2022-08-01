@@ -166,7 +166,7 @@
   "fr": "Français",
   "incomplete.excel.data": "La extracción de datos utilizó una selección de datos que está por encima de los límites para la visualización de la tabla (máximo {range, number} puntos de datos o {cellsLimit, number} celdas de la tabla), lo que da como resultado una tabla incompleta. Usando el enlace web debajo de la tabla, todos los puntos de datos seleccionados originalmente aún se pueden descargar en texto tabular (CSV).",
   "incomplete.table.cells.limit": "Su selección actual ({totalCells, number} celdas de la tabla) está por encima del límite definido ({cellsLimit, number}), lo que da como resultado una tabla incompleta.{br}Todos los puntos de datos seleccionados aún se pueden descargar en formato de texto tabular (CSV).",
-  "incomplete.vis.data.total.limit": {},
+  "incomplete.vis.data.total.limit": "Su selección actual ({total, number} puntos de datos) está por encima del límite definido ({cellsLimit, number}), lo que genera un {type, select, table {tabla} other {gráfico}} incompleto.{br}Todos los puntos de datos seleccionados todavía se puede descargar en texto tabular (CSV).",
   "it": "Italiano",
   "km": "ភាសារខ្មែរ",
   "log.error.sdmx.404": "No hay datos disponibles",
@@ -455,7 +455,7 @@
   "data.not.found": "Ups!, la vista que está buscando no existe. Asegúrese de utilizar un enlace correcto y completo",
   "data.pending": "Ups!, esta vista no está accesible todavía. Asegúrese de validar primero la dirección de correo electrónico relacionada",
   "dv.app.title": ".Stat Data Viewer",
-  "dv.incomplete.table.cells.limit": {},
-  "dv.incomplete.vis.data.total.limit": {},
+  "dv.incomplete.table.cells.limit": "Su selección actual ({totalCells, number} celdas de la tabla) está por encima del límite definido ({cellsLimit, number}), lo que da como resultado una tabla incompleta.",
+  "dv.incomplete.vis.data.total.limit": "Su selección actual ({total, number} puntos de datos) está por encima del límite definido ({cellsLimit, number}), lo que genera un {type, select, table {tabla} other {gráfico}} incompleto.{br}Todos los puntos de datos seleccionados todavía se puede descargar en texto tabular (CSV).",
   "layout.incompatible": "Su selección de datos personalizada es incompatible con el diseño guardado"
 }
