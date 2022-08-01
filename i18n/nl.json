@@ -164,7 +164,7 @@
   "en": "English",
   "es": "Español",
   "fr": "Français",
-  "incomplete.excel.data": "De gegevensextractie maakte gebruik van een gegevensselectie die boven de limieten voor de tabelweergave lag (maximaal {range, number} gegevenspunten of {cellsLimit, number} tabelcellen), wat resulteerde in een onvolledige tabel. Via de weblink onder de tabel kunnen alle oorspronkelijk geselecteerde datapunten nog steeds in tabelvorm (CSV) worden gedownload.",
+  "incomplete.excel.data": "Bij de gegevensextractie werd een gegevensselectie gebruikt die boven de limieten voor de tabelweergave lag ({cellsLimit, number} tabelcellen), wat resulteerde in een onvolledige tabel. Met behulp van de weblink onder de tabel kunnen alle oorspronkelijk geselecteerde gegevenspunten nog steeds in tabeltekst (CSV) worden gedownload.",
   "incomplete.table.cells.limit": "Uw huidige selectie ({totalCells, number} tabelcellen) is boven de gedefinieerde limiet ({cellsLimit, number}), wat resulteert in een onvolledige tabel.{br}Alle geselecteerde gegevenspunten kunnen nog steeds worden gedownload in tabelvorm (CSV).",
   "incomplete.vis.data.total.limit": "Uw huidige selectie ({total, number} datapunten) is boven de gedefinieerde limiet ({cellsLimit, number}), wat resulteert in een onvolledige {type, select, table {tabel} other {grafiek}}.{br}Alle geselecteerde gegevenspunten kan nog steeds worden gedownload in tabelvorm (CSV).",
   "it": "Italiano",
