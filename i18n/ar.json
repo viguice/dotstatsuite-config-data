@@ -54,6 +54,7 @@
   "de.footer.author": ".Stat Suite",
   "de.footer.description": "{link} مدعوم من {icon}",
   "de.footer.disclaimer": "الكود المصدري للتطبيق مفتوح المصدر ومحمي بموجب حقوق النشر ومقدم بدون ضمان. {br} للحصول على التفاصيل انظر تصريح الترخيص.",
+  "de.header.message": {},
   "de.last.updated": "التحديث الاخير",
   "de.no.external.resources": "لا يوجد مورد خارجي",
   "de.observations.count": "العدد الإجمالي لنقاط البيانات المتاحة",

@@ -54,6 +54,7 @@
   "de.footer.author": ".Stat Suite",
   "de.footer.description": "{icon} Mogelijk gemaakt door {link}",
   "de.footer.disclaimer": "De broncode van de applicatie is open-source, beschermd door copyright en wordt geleverd zonder garantie.{br}Zie voor details de licentieverklaring.",
+  "de.header.message": {},
   "de.last.updated": "Laatst bijgewerkt",
   "de.no.external.resources": "Er is geen externe bron",
   "de.observations.count": "Totaal aantal beschikbare datapunten",
