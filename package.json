@@ -1,6 +1,6 @@
 {
   "name": "dotstatsuite-config-data",
-  "version": "15.0.0",
+  "version": "16.0.0",
   "scripts": {
     "i18n:changelog": "node scripts/i18n-changelog.js --color",
     "i18n:update": "node scripts/i18n-update.js --color",
