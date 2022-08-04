@@ -276,6 +276,8 @@
   "artefact.observations": "({observations, number} osservazioni)",
   "artefact.owner": "Proprietario",
   "artefact.relative.dependency": "Per eliminare questo artefatto, devi selezionare {parents}",
+  "artefact.relative.dsd.warning": {},
+  "artefact.relative.msd.dsds": {},
   "artefact.relative.non.authorized": "Impossibile eliminare a causa di un'autorizzazione insufficiente. Contatta il proprietario del manufatto per ottenere il permesso di cancellazione.",
   "artefact.relative.non.selectable": "Non può essere cancellato perché referenziato da: {parents}{others, plural, =0 {} other { e {others} more}}.{br}Elimina prima quelle strutture e poi riprova.",
   "artefact.relatives": "Strutture correlate",

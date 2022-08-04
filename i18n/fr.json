@@ -276,6 +276,8 @@
   "artefact.observations": "({observations, number} observations)",
   "artefact.owner": "Propriétaire",
   "artefact.relative.dependency": "Pour supprimer cette structure, il faut aussi sélectionner {parents}",
+  "artefact.relative.dsd.warning": {},
+  "artefact.relative.msd.dsds": {},
   "artefact.relative.non.authorized": "Ne peut pas être supprimé car vos droits sont insuffisants. Contactez le propriétaire de la structure pour obtenir les droits de suppression.",
   "artefact.relative.non.selectable": "Ne peut pas être supprimé car associé à: {parents}{others, plural, =0 {} other { et {others} autres}}.{br}Supprimez d'abord ces structures puis recommencez.",
   "artefact.relatives": "Structures associées",

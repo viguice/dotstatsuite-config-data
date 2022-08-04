@@ -276,6 +276,8 @@
   "artefact.observations": "({observations, number} Beobachtungen)",
   "artefact.owner": "Eigentümer",
   "artefact.relative.dependency": "Um dieses Artefakt zu löschen, müssen Sie {parents} auswählen.",
+  "artefact.relative.dsd.warning": {},
+  "artefact.relative.msd.dsds": {},
   "artefact.relative.non.authorized": "Kann aufgrund einer unzureichenden Berechtigung nicht gelöscht werden. Wenden Sie sich an den Eigentümer des Artefakts, um die Löschberechtigung zu erhalten.",
   "artefact.relative.non.selectable": "Kann nicht gelöscht werden, da referenziert von: {parents}{others, plural, =0 {} other { and {others} more}}.{br}Löschen Sie zuerst diese Strukturen und versuchen Sie es dann erneut.",
   "artefact.relatives": "Verwandte Strukturen",
