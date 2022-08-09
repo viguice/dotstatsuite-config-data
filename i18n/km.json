@@ -264,7 +264,7 @@
   "artefact.code": "កូដ",
   "artefact.delete": "លុប {count, plural, one {structure} other {structures}}",
   "artefact.delete.error": "កំហុសក្នុងការលុបរចនាសម្ព័ន្ធចេញពីលំហ {label}៖ ",
-  "artefact.delete.relatives": "វត្ថុបុរាណដែលពាក់ព័ន្ធលុបការជ្រើសរើស",
+  "artefact.delete.relatives": "លុបរចនាសម្ព័ន្ធដែលពាក់ព័ន្ធ",
   "artefact.delete.success": "ការលុបរចនាសម្ព័ន្ធដោយជោគជ័យពីលំហ {label}៖ ",
   "artefact.is.deleting": "ការលុប",
   "artefact.is.exporting.data": "ការនាំចេញទិន្នន័យ",

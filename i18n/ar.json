@@ -264,7 +264,7 @@
   "artefact.code": "الشفرة",
   "artefact.delete": "حذف {count, plural, one {structure} other {structures}}",
   "artefact.delete.error": "أخطاء في حذف البنية من المساحة {label}:",
-  "artefact.delete.relatives": "المشغولات ذات الصلة حذف التحديد",
+  "artefact.delete.relatives": "حذف الهياكل ذات الصلة",
   "artefact.delete.success": "حذف بنية ناجح من المساحة {label}:",
   "artefact.is.deleting": "حذف",
   "artefact.is.exporting.data": "تصدير البيانات",

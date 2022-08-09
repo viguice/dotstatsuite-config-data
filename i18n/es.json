@@ -264,7 +264,7 @@
   "artefact.code": "Código",
   "artefact.delete": "Eliminar {count, plural, one {estructura} other {estructuras}}",
   "artefact.delete.error": "Error(es) en el borrado de estructuras del espacio {label}: ",
-  "artefact.delete.relatives": "Selección de borrado de artefactos relacionados",
+  "artefact.delete.relatives": "Eliminar estructuras relacionadas",
   "artefact.delete.success": "Borrado exitoso de estructura del espacio {label}: ",
   "artefact.is.deleting": "Borrando",
   "artefact.is.exporting.data": "Exportando datos",

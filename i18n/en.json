@@ -264,7 +264,7 @@
   "artefact.code": "Code",
   "artefact.delete": "Delete {count, plural, one {structure} other {structures}}",
   "artefact.delete.error": "Error(s) in structure deletion from space {label}: ",
-  "artefact.delete.relatives": "Related Artefacts delete selection",
+  "artefact.delete.relatives": "Delete related structures",
   "artefact.delete.success": "Successful structure deletion from space {label}: ",
   "artefact.is.deleting": "Deleting",
   "artefact.is.exporting.data": "Exporting data",
