@@ -264,7 +264,7 @@
   "artefact.code": "Code",
   "artefact.delete": "Verwijder structuur",
   "artefact.delete.error": "Error(s) in structure deletion from space {label}: ",
-  "artefact.delete.relatives": "Gerelateerde artefacten selectie verwijderen",
+  "artefact.delete.relatives": "Gerelateerde structuren verwijderen",
   "artefact.delete.success": "Successful structure deletion from space {label}: ",
   "artefact.is.deleting": "Verwijderen",
   "artefact.is.exporting.data": "Exporteren data",

@@ -264,7 +264,7 @@
   "artefact.code": "รหัส",
   "artefact.delete": "ลบ {count, plural, one {โครงสร้าง} other {โครงสร้าง}}",
   "artefact.delete.error": "ข้อผิดพลาดในการลบโครงสร้างจากช่องว่าง {label}: ",
-  "artefact.delete.relatives": "ลบข้อสกำหนดที่เกี่ยวเนื่อง",
+  "artefact.delete.relatives": "ลบโครงสร้างที่เกี่ยวข้อง",
   "artefact.delete.success": "ลบโครงสร้างสำเร็จจากช่องว่าง {label}: ",
   "artefact.is.deleting": "กำลังลบ",
   "artefact.is.exporting.data": "ส่งออกข้อมูล",

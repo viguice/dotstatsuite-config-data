@@ -264,7 +264,7 @@
   "artefact.code": "Codice",
   "artefact.delete": "Elimina {count, plural, one {structure} other {structures}}",
   "artefact.delete.error": "Errore/i nella cancellazione della struttura dallo spazio {label}:",
-  "artefact.delete.relatives": "Artefatti correlati elimina la selezione",
+  "artefact.delete.relatives": "Elimina le strutture correlate",
   "artefact.delete.success": "Eliminazione struttura riuscita dallo spazio {label}:",
   "artefact.is.deleting": "Eliminazione",
   "artefact.is.exporting.data": "Esportazione dei dati",

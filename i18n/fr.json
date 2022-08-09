@@ -264,7 +264,7 @@
   "artefact.code": "Code",
   "artefact.delete": "Supprimer la structure",
   "artefact.delete.error": "Erreur(s) lors de la suppression de la structure de l'espace {label} : ",
-  "artefact.delete.relatives": "Sélection pour suppression des structures associées",
+  "artefact.delete.relatives": "Supprimer des structures associées",
   "artefact.delete.success": "Suppression de structure réussie de l'espace {label} : ",
   "artefact.is.deleting": "Suppression en cours",
   "artefact.is.exporting.data": "Export des données en cours",
