@@ -276,6 +276,8 @@
   "artefact.observations": "({observations, number} observaciones)",
   "artefact.owner": "Propietario",
   "artefact.relative.dependency": "Para eliminar este artefacto, debes seleccionar {parents}",
+  "artefact.relative.dsd.warning": {},
+  "artefact.relative.msd.dsds": {},
   "artefact.relative.non.authorized": "No se puede eliminar debido a un permiso insuficiente. Contacte al propietario del artefacto para obtener el permiso de borrado",
   "artefact.relative.non.selectable": "No se puede borrar ya que está referenciado por: {parents}{others, plural, =0 {} other { and {others} more}}.{br}Primero elimine esas estructuras y luego vuelva a intentarlo.",
   "artefact.relatives": "Estructuras relacionadas",

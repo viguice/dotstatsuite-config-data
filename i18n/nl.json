@@ -276,6 +276,8 @@
   "artefact.observations": "({observations, number} observations)",
   "artefact.owner": "Eigenaar",
   "artefact.relative.dependency": "Om dit artefact te verwijderen, moet je {parents} selecteren",
+  "artefact.relative.dsd.warning": {},
+  "artefact.relative.msd.dsds": {},
   "artefact.relative.non.authorized": "Kan niet worden verwijderd vanwege onvoldoende toestemming. Neem contact op met de eigenaar van het artefact om toestemming te krijgen voor het verwijderen.",
   "artefact.relative.non.selectable": "Kan niet worden verwijderd omdat ernaar wordt verwezen door: {parents}{others, plural, =0 {} other { and {others} more}}.{br}Verwijder eerst die structuren en probeer het opnieuw.",
   "artefact.relatives": "Verwante structuren",
