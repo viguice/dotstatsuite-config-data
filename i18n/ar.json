@@ -276,6 +276,7 @@
   "artefact.no.label": "لا توجد تسمية للغة الحالية",
   "artefact.observations": "({observations, number} الملاحظات)",
   "artefact.owner": "صاحب",
+  "artefact.relative.child.non.deletable": {},
   "artefact.relative.dependency": "لحذف هذه الأداة ، يجب تحديد {parents}",
   "artefact.relative.dsd.warning": {},
   "artefact.relative.msd.dsds": {},

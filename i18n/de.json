@@ -276,6 +276,7 @@
   "artefact.no.label": "Kein Label für die aktuelle Sprache",
   "artefact.observations": "({observations, number} Beobachtungen)",
   "artefact.owner": "Eigentümer",
+  "artefact.relative.child.non.deletable": {},
   "artefact.relative.dependency": "Um dieses Artefakt zu löschen, müssen Sie {parents} auswählen.",
   "artefact.relative.dsd.warning": {},
   "artefact.relative.msd.dsds": {},

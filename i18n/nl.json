@@ -276,6 +276,7 @@
   "artefact.no.label": "Geen label voor de huidige locatie",
   "artefact.observations": "({observations, number} observations)",
   "artefact.owner": "Eigenaar",
+  "artefact.relative.child.non.deletable": {},
   "artefact.relative.dependency": "Om dit artefact te verwijderen, moet je {parents} selecteren",
   "artefact.relative.dsd.warning": {},
   "artefact.relative.msd.dsds": {},

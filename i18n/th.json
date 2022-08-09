@@ -276,6 +276,7 @@
   "artefact.no.label": "ไม่มีป้ายกำกับ",
   "artefact.observations": "({observations, number} ข้อสังเกต)",
   "artefact.owner": "เจ้าของ",
+  "artefact.relative.child.non.deletable": {},
   "artefact.relative.dependency": " ก่อนลบข้อกำหนดนี้ต้องเลือก  {parents}",
   "artefact.relative.dsd.warning": {},
   "artefact.relative.msd.dsds": {},

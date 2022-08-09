@@ -276,6 +276,7 @@
   "artefact.no.label": "គ្មានស្លាកសម្រាប់ភាសាបច្ចុប្បន្នទេ។",
   "artefact.observations": "({observations, number} ការសង្កេត)",
   "artefact.owner": "ម្ចាស់",
+  "artefact.relative.child.non.deletable": {},
   "artefact.relative.dependency": "ដើម្បីលុបវត្ថុបុរាណនេះ អ្នកត្រូវតែជ្រើសរើស {parrents}",
   "artefact.relative.dsd.warning": {},
   "artefact.relative.msd.dsds": {},

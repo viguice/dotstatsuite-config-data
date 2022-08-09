@@ -276,6 +276,7 @@
   "artefact.no.label": "Pas de label pour la langue sélectionnée",
   "artefact.observations": "({observations, number} observations)",
   "artefact.owner": "Propriétaire",
+  "artefact.relative.child.non.deletable": {},
   "artefact.relative.dependency": "Pour supprimer cette structure, il faut aussi sélectionner {parents}",
   "artefact.relative.dsd.warning": {},
   "artefact.relative.msd.dsds": {},
