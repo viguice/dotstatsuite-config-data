@@ -54,6 +54,7 @@
   "de.footer.author": ".Stat Suite",
   "de.footer.description": "{icon} Utilizzando la {link}",
   "de.footer.disclaimer": "Il codice sorgente dell'applicazione è open-source, protetto da copyright e fornito senza garanzia.{br}Per i dettagli vedere la dichiarazione di licenza.",
+  "de.header.message": {},
   "de.last.updated": "Ultimo aggiornamento",
   "de.no.external.resources": "Non ci sono risorse esterne",
   "de.observations.count": "Numero totale di punti dati disponibili",

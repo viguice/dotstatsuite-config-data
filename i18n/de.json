@@ -54,6 +54,7 @@
   "de.footer.author": ".Stat Suite",
   "de.footer.description": "{icon} Powered by the {link}",
   "de.footer.disclaimer": "Der Quellcode der Anwendung ist Open Source, urheberrechtlich geschützt und wird ohne Gewähr bereitgestellt.{br}Einzelheiten finden Sie in der Lizenzerklärung.",
+  "de.header.message": {},
   "de.last.updated": "Zuletzt aktualisiert",
   "de.no.external.resources": "Es gibt keine externe Ressource",
   "de.observations.count": "Gesamtzahl der verfügbaren Datenpunkte",

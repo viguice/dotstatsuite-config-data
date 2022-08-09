@@ -54,6 +54,7 @@
   "de.footer.author": ".Stat Suite",
   "de.footer.description": "{icon} สนับสนุนโดย {link}",
   "de.footer.disclaimer": "ซอร์สโค้ดของแอปพลิเคชันเป็นโอเพ่นซอร์ส ได้รับการคุ้มครองโดยลิขสิทธิ์ และให้บริการโดยไม่มีการรับประกัน{br}สำหรับรายละเอียด โปรดดูประกาศใบอนุญาต",
+  "de.header.message": {},
   "de.last.updated": "อัพเดทล่าสุด",
   "de.no.external.resources": "ไม่พยทรัพยากรภายนอก",
   "de.observations.count": "จำนวนจุดข้อมูลที่มีอยู่ทั้งหมด",
