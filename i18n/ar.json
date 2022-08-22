@@ -135,6 +135,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "الشروط و الاحكام",
   "de.viewer.copyright.label": "©",
+  "de.vis.disabled.item.label": {},
   "de.vis.map.loading": "تحميل الخريطة",
   "de.visualisation.data.larger.loading": "تحميل البيانات ... {br} بشكل استثنائي ، قد تعرض هذه الصفحة جدولًا أكبر وقد تصبح بطيئة أو غير مستقرة",
   "de.visualisation.data.loading": "يجري تحميل البيانات…",

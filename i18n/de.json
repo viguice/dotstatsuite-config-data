@@ -135,6 +135,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Nutzungsbedingungen",
   "de.viewer.copyright.label": "©",
+  "de.vis.disabled.item.label": {},
   "de.vis.map.loading": "Laden der Karte…",
   "de.visualisation.data.larger.loading": "Daten werden geladen…{br}Ausnahmsweise kann diese Seite eine größere Tabelle anzeigen und langsam oder instabil werden",
   "de.visualisation.data.loading": "Daten werden geladen…",

@@ -135,6 +135,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Terms & Conditions",
   "de.viewer.copyright.label": "©",
+  "de.vis.disabled.item.label": {},
   "de.vis.map.loading": "Loading the Map",
   "de.visualisation.data.larger.loading": "Caricando i dati…{br}in via eccezionale, questa pagina potrebbe visualizzare una tabella più grande e potrebbe diventare lenta o instabile",
   "de.visualisation.data.loading": "Caricando i dati…",

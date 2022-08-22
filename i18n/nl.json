@@ -135,6 +135,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Voorwaarden",
   "de.viewer.copyright.label": "©",
+  "de.vis.disabled.item.label": {},
   "de.vis.map.loading": "Kaart aan het laden",
   "de.visualisation.data.larger.loading": "data wordt geladen…{br}uitzonderlijk kan deze pagina een grotere tabel weergeven en kan deze langzaam of onstabiel worden",
   "de.visualisation.data.loading": "data wordt geladen…",
