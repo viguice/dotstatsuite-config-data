@@ -44,6 +44,7 @@
   "de.api.queries.title": "เครื่องมือสร้าง API",
   "de.app.title.search": ".Stat Data Explorer",
   "de.app.title.vis": ".Stat Data Explorer • {dataflowName}",
+  "de.appBar.go.home": {},
   "de.contentConstraints.checkbox.label": "ลบตัวกรองที่ไม่มีข้อมูล",
   "de.data.source": "แหล่งข้อมูล",
   "de.error.title": "พบข้อผิดพลาดในตอนท้าย",

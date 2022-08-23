@@ -44,6 +44,7 @@
   "de.api.queries.title": "منشئ استعلام API المطور ",
   "de.app.title.search": ".Stat Data Explorer",
   "de.app.title.vis": ".Stat Data Explorer • {dataflowName}",
+  "de.appBar.go.home": {},
   "de.contentConstraints.checkbox.label": " إخفاء عناصر التصفية بدون بيانات",
   "de.data.source": "مصدر البيانات",
   "de.error.title": "نعتذر, حصل خطأ ما من جانبنا",

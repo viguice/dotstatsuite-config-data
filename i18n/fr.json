@@ -44,6 +44,7 @@
   "de.api.queries.title": "Générateur de requêtes API",
   "de.app.title.search": ".Stat Data Explorer",
   "de.app.title.vis": ".Stat Data Explorer • {dataflowName}",
+  "de.appBar.go.home": {},
   "de.contentConstraints.checkbox.label": "Appliquer les contraintes de contenu",
   "de.data.source": "Source de données",
   "de.error.title": "Oops, une erreur s'est produite de notre côté.",

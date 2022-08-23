@@ -44,6 +44,7 @@
   "de.api.queries.title": "អ្នកបង្កើតសំណួរ API",
   "de.app.title.search": ".Stat Data Explorer",
   "de.app.title.vis": ".Stat Data Explorer • {dataflowName}",
+  "de.appBar.go.home": {},
   "de.contentConstraints.checkbox.label": "លុបចម្រោះណាដែលមិនមានទិន្នន័យ",
   "de.data.source": "ប្រភពទិន្នន័យ",
   "de.error.title": "អ្ហូ៎! ប្រាកដជាមានអ្វីខុសក្រតីហើយនៅចុងបញ្ចប់នេះ",
