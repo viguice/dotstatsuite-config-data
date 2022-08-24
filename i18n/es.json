@@ -44,6 +44,7 @@
   "de.api.queries.title": "Generador de consultas de API para desarrolladores",
   "de.app.title.search": ".Stat Data Explorer",
   "de.app.title.vis": ".Stat Data Explorer • {dataflowName}",
+  "de.appBar.go.home": {},
   "de.contentConstraints.checkbox.label": "Ocultar filtros sin datos",
   "de.data.source": "fuente de datos",
   "de.error.title": "Ups! Algo anduvo mal de nuestro lado.",

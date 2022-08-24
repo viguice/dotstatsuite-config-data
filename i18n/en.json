@@ -44,6 +44,7 @@
   "de.api.queries.title": "Developer API query builder",
   "de.app.title.search": ".Stat Data Explorer",
   "de.app.title.vis": ".Stat Data Explorer • {dataflowName}",
+  "de.appBar.go.home": "Back to Explorer welcome page",
   "de.contentConstraints.checkbox.label": "Hide filter items without data",
   "de.data.source": "Data Source",
   "de.error.title": "Whoops, something went wrong on our end.",

@@ -44,6 +44,7 @@
   "de.api.queries.title": "Generator für Entwickler-API-Abfragen",
   "de.app.title.search": ".Stat Data Explorer",
   "de.app.title.vis": ".Stat Data Explorer • {dataflowName}",
+  "de.appBar.go.home": {},
   "de.contentConstraints.checkbox.label": "Filterelemente ohne Daten ausblenden",
   "de.data.source": "Datenquelle",
   "de.error.title": "Hoppla, bei uns ist etwas schief gelaufen.",

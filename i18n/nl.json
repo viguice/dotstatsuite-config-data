@@ -44,6 +44,7 @@
   "de.api.queries.title": "Developer API query builder",
   "de.app.title.search": ".Stat Data Explorer",
   "de.app.title.vis": ".Stat Data Explorer • {dataflowName}",
+  "de.appBar.go.home": {},
   "de.contentConstraints.checkbox.label": "Verberg filteronderdelen zonder gegevens",
   "de.data.source": "Databron",
   "de.error.title": "Whoops, er is iets misgegaan aan onze kant.",

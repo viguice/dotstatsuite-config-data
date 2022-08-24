@@ -44,6 +44,7 @@
   "de.api.queries.title": "Generatore di query API per sviluppatori",
   "de.app.title.search": ".Stat Data Explorer",
   "de.app.title.vis": ".Stat Data Explorer • {dataflowName}",
+  "de.appBar.go.home": {},
   "de.contentConstraints.checkbox.label": "Hide filter items without data",
   "de.data.source": "Fonte di dati",
   "de.error.title": "Spiacenti, si è verificato un errore.",
