@@ -1,10 +1,2 @@
 {
-  "spaces": {
-    "demo-release": {
-      "url": "http://nsiws-demo-release/rest"
-    },
-    "demo-design": {
-      "url": "http://nsiws-demo-design/rest"
-    }
-  }
 }
