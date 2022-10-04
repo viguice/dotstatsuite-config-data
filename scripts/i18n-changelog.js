@@ -5,8 +5,9 @@ const chalk = require('chalk');
 const R = require('ramda');
 const shell = require('shelljs');
 
-const ENV_HOME = process.env.ENV_HOME || `${process.env.HOME}/home`;
-const CHANGELOG_FOLDER = process.env.CHANGELOG_FOLDER || `${ENV_HOME}/dotstatsuite-config-data`;
+const envPath = shell.pwd();
+const ENV_HOME = envPath;
+const CHANGELOG_FOLDER = process.env.CHANGELOG_FOLDER || ENV_HOME;
 const ENV_URL = 'https://gitlab.com/sis-cc/.stat-suite/dotstatsuite-config-data';
 const ENV_LANG = process.env.ENV_LANG || 'en';
 const CHANGE_LOG_NAME = process.env.CHANGE_LOG_NAME || 'changelog-i18n';
