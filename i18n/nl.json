@@ -241,6 +241,7 @@
   "vx.filters.current.clear": "Verwijder alle filters",
   "vx.filters.current.title": "Gebruikte filters",
   "vx.no.data.selection": "Er zijn geen gegevens voor de huidige selectie.  Gelieve de selectie te wijzigen.",
+  "vx.no.data": {},
   "vx.no.time.data": "Er kan geen tijdlijndiagram worden weergegeven omdat de gegevens geen tijddimensie hebben.",
   "vx.spotlight.placeholder": "zoek...",
   "vx.spotlight.placeholder.primary": "zoek op alles",

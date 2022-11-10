@@ -241,6 +241,7 @@
   "vx.filters.current.clear": "Supprimer tous les filtres",
   "vx.filters.current.title": "Filtres appliqués",
   "vx.no.data.selection": "Il n'y a pas de données pour la sélection actuelle. Veuillez modifier la sélection.",
+  "vx.no.data": {},
   "vx.no.time.data": "Les données ne reposant pas sur une dimension temporelle, une courbe chronologique ne peut être affichée",
   "vx.spotlight.placeholder": "Recherche par mots-clés",
   "vx.spotlight.placeholder.primary": "Chercher dans tous les éléments",

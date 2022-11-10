@@ -241,6 +241,7 @@
   "vx.filters.current.clear": "លុបសម្អាតចោលចម្រោះទាំងអស់",
   "vx.filters.current.title": "ត្រូវការប្រើចម្រោះ",
   "vx.no.data.selection": "មិនមានទិន្នន័យសម្រាប់ការជ្រើសរើសបច្ចុប្បន្នទេ។ សូមប្តូរការជ្រើសរើស។",
+  "vx.no.data": {},
   "vx.no.time.data": "គំនូសតាងបន្ទាត់ពេលវេលាមិនអាចបង្ហាញបានទេ ដោយសារទិន្នន័យមិនមានវិមាត្រពេលវេលា។",
   "vx.spotlight.placeholder": "ស្វែងរក...",
   "vx.spotlight.placeholder.primary": "ស្វែងរកទាំងអស់",
