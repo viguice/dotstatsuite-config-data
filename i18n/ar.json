@@ -241,6 +241,7 @@
   "vx.filters.current.clear": "إلغاء جميع الإختيارات",
   "vx.filters.current.title": "معايير البث المختارة",
   "vx.no.data.selection": "لا توجد بيانات للاختيار الحالي. يُرجى تغيير التحديد.",
+  "vx.no.data": {},
   "vx.no.time.data": "لا يمكن عرض مخطط المخطط الزمني لأن البيانات ليس لها بُعد زمني.",
   "vx.spotlight.placeholder": "أبحث عن…",
   "vx.spotlight.placeholder.primary": "إبحث في كل المواضيع",

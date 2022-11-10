@@ -241,6 +241,7 @@
   "vx.filters.current.clear": "Limpiar todos los filtros",
   "vx.filters.current.title": "Filtros en uso",
   "vx.no.data.selection": "No hay datos para la selección actual. Por favor cambie la selección.",
+  "vx.no.data": {},
   "vx.no.time.data": "No se puede mostrar un gráfico de línea de tiempo porque los datos no tienen dimensión temporal",
   "vx.spotlight.placeholder": "Buscar...",
   "vx.spotlight.placeholder.primary": "Buscar (Todos)",

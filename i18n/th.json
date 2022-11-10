@@ -241,6 +241,7 @@
   "vx.filters.current.clear": "ล้างตัวกรองทั้งหมด",
   "vx.filters.current.title": "ตัวกรองที่เลือกไว้",
   "vx.no.data.selection": "ไม่มีข้อมูลสำหรับตัวเลือกปัจจุบันโปรดเปลี่ยนตัวเลือก",
+  "vx.no.data": {},
   "vx.no.time.data": "ไม่มีเวลา",
   "vx.spotlight.placeholder": "ค้นหา ...",
   "vx.spotlight.placeholder.primary": "ค้นหาทั้งหมด",

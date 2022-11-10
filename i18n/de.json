@@ -241,6 +241,7 @@
   "vx.filters.current.clear": "Alle Filter löschen",
   "vx.filters.current.title": "Benutzte Filter",
   "vx.no.data.selection": "Für die aktuelle Auswahl liegen keine Daten vor. Bitte ändern Sie die Auswahl.",
+  "vx.no.data": {},
   "vx.no.time.data": "Ein Zeitachsendiagramm kann nicht angezeigt werden, da die Daten keine Zeitdimension haben.",
   "vx.spotlight.placeholder": "Suche nach Schlüsselwörtern…",
   "vx.spotlight.placeholder.primary": "Text in allen Elementen suchen",
