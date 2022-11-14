@@ -14,7 +14,33 @@
       "metadataflow",
       "structureset"
     ],
-    "uploadSizeLimit": 30000000
+    "uploadSizeLimit": 30000000,
+    "permissionGroups": [
+      {
+        "id": 3,
+        "permissions": [1, 2]
+      },
+      {
+        "id": 145,
+        "permissions": [1, 16, 128]
+      },
+      {
+        "id": 657,
+        "permissions": [1, 16, 128, 512]
+      },
+      {
+        "id": 3363,
+        "permissions": [1, 2, 32, 256, 1024, 2048]
+      },
+      {
+        "id": 2051,
+        "permissions": [1, 2, 2048]
+      },
+      {
+        "id": 4095,
+        "permissions": [1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048]
+      }
+    ]
   },
   "i18n": {
     "localeId": "en",
