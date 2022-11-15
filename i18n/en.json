@@ -513,7 +513,7 @@
   "user.right.filter.artefact.agency": "Filter by Agency",
   "user.right.filter.artefact.id": "Filter by artefact",
   "user.right.filter.artefact.type": "Filter by type",
-  "user.right.filter.artefact.version": "Filterby version",
+  "user.right.filter.artefact.version": "Filter by version",
   "user.right.filter.permission": "Filter by permission",
   "user.right.filter.space": "Filter by space",
   "user.right.filter.user": "Filter by user/group",
