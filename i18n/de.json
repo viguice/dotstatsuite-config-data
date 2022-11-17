@@ -345,6 +345,7 @@
   "artefacts.no.types": "Bitte wählen Sie mindestens eine Art von Artefakt aus",
   "artefacts.select.all": "Wählen Sie Alle",
   "artefacts.select.page": "Wählen Sie alle auf dieser Seite aus",
+  "artefacts.status": "{current, number} {current, plural, one {artefact} other {artefacts}} von {total, number}",
   "categorise.artefact": "Struktur kategorisieren",
   "content.both": "Sowohl Daten als auch referenzielle Metadaten",
   "content.data": "Nur Daten",

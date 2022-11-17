@@ -345,6 +345,7 @@
   "artefacts.no.types": "Selecteer ten minste één type artefact",
   "artefacts.select.all": "Selecteer alles",
   "artefacts.select.page": "Selecteer alles op deze pagina",
+  "artefacts.status": "{current, number} {current, plural, one {artefact} other {artefacts}} van de {total, number}",
   "categorise.artefact": "Categoriseer structuur",
   "content.both": "Zowel data als referentiële metadata",
   "content.data": "Alleen gegevens",

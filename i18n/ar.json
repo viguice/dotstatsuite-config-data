@@ -345,6 +345,7 @@
   "artefacts.no.types": "الرجاء تحديد نوع واحد على الأقل من القطع الأثرية",
   "artefacts.select.all": "اختر الكل",
   "artefacts.select.page": "حدد الكل في هذه الصفحة",
+  "artefacts.status": "{current, number} {current, plural, one {قطعة أثرية} other {المصنوعات اليدوية}} من {total, number}",
   "categorise.artefact": "تصنيف الهيكل",
   "content.both": "كل من البيانات والبيانات الوصفية المرجعية",
   "content.data": "البيانات فقط",
