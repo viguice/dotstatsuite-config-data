@@ -345,6 +345,7 @@
   "artefacts.no.types": "Please select at least one type of artefact",
   "artefacts.select.all": "Select all",
   "artefacts.select.page": "Select all on this page",
+  "artefacts.status": "{current, number} {current, plural, one {artefact} other {artefacts}} out of {total, number}",
   "categorise.artefact": "Categorise structure",
   "content.both": "Both data and referential metadata",
   "content.data": "Data only",

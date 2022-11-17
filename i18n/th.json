@@ -345,6 +345,7 @@
   "artefacts.no.types": "โปรดเลือกสิ่งประดิษฐ์อย่างน้อยหนึ่งประเภท",
   "artefacts.select.all": "เลือกทั้งหมด",
   "artefacts.select.page": "เลือกทั้งหมดในหน้านี้",
+  "artefacts.status": "{current, number} {current, plural, one {สิ่งประดิษฐ์} other {สิ่งประดิษฐ์}} นอก {total, number}",
   "categorise.artefact": "จัดหมวดหมู่โครงสร้าง",
   "content.both": "ทั้งข้อมูลและเมตาดาต้าอ้างอิง",
   "content.data": "ข้อมูลเท่านั้น",

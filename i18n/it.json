@@ -345,6 +345,7 @@
   "artefacts.no.types": "Seleziona almeno un tipo di artefatto",
   "artefacts.select.all": "Seleziona tutto",
   "artefacts.select.page": "Seleziona tutto in questa pagina",
+  "artefacts.status": "{current, number} {current, plural, one {artefatto} other {artefatti}} su {total, number}",
   "categorise.artefact": "Classificare la struttura",
   "content.both": "Sia i dati che i metadati di riferimento",
   "content.data": "Solo dati",
