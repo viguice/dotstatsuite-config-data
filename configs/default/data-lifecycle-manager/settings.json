@@ -94,5 +94,13 @@
     "logo": "/assets/siscc/data-lifecycle-manager/images/logo.png",
     "icon": "/assets/siscc/data-lifecycle-manager/images/sis-cc-icon.png"
   },
+    "logs": {
+    "transfer": {
+      "timeExtents": {
+        "start": "2019-01-01",
+        "end": "now"
+      }
+    }
+  },
   "styles": "/assets/siscc/data-lifecycle-manager/styles/styles.css"
 }
