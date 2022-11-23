@@ -357,6 +357,7 @@
   "data.validation.default": "Geef de voorkeur aan snelheid met basisvalidaties",
   "data.validation.info": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-api/api-main-features/#data-validation-process",
   "data.validation.menu": "Meer opties: Gegevensvalidaties & Embargo",
+  "data.validation.menu.dialog": {},
   "data.validation.nochange": "Voer alleen geavanceerde validaties uit zonder gegevens te wijzigen",
   "data.validations": "Data validations",
   "dataflow.categories": "GcCategoriseerd in",

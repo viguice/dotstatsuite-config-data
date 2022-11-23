@@ -357,6 +357,7 @@
   "data.validation.default": "ចូលចិត្តល្បឿនជាមួយនឹងការបញ្ជាក់ជាមូលដ្ឋាន",
   "data.validation.info": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-api/api-main-features/#data-validation-process",
   "data.validation.menu": "ជម្រើសច្រើនទៀត៖ សុពលភាពទិន្នន័យ និងការហ៊ុមព័ទ្ធ",
+  "data.validation.menu.dialog": {},
   "data.validation.nochange": "ដំណើរការតែការបញ្ជាក់កម្រិតខ្ពស់ដោយមិនផ្លាស់ប្តូរទិន្នន័យ",
   "data.validations": "សុពលភាពទិន្នន័យ",
   "dataflow.categories": "ចាត់ថ្នាក់ក្នុង",

@@ -357,6 +357,7 @@
   "data.validation.default": "ชื่นชอบความเร็วด้วยการตรวจสอบพื้นฐาน",
   "data.validation.info": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-api/api-main-features/#data-validation-process",
   "data.validation.menu": "ตัวเลือกเพิ่มเติม: การตรวจสอบข้อมูลและการห้ามส่งสินค้า",
+  "data.validation.menu.dialog": {},
   "data.validation.nochange": "เรียกใช้การตรวจสอบขั้นสูงเท่านั้นโดยไม่เปลี่ยนแปลงข้อมูล",
   "data.validations": "การตรวจสอบข้อมูล",
   "dataflow.categories": "หมวด/หมู่",
