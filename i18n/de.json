@@ -384,6 +384,7 @@
   "data.validation.default": "Schnellerer Upload durch beschränkte Grundvalidierungen",
   "data.validation.info": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-api/api-main-features/#data-validation-process",
   "data.validation.menu": "Weitere Optionen: Datenvalidierung & Embargo",
+  "data.validation.menu.dialog": {},
   "data.validation.nochange": "Führen Sie nur erweiterte Validierungen durch, ohne Daten zu ändern",
   "data.validations": "Datenvalidierungen",
   "dataflow.categories": "Kategorisiert in",

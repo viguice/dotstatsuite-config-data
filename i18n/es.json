@@ -384,6 +384,7 @@
   "data.validation.default": "Favorecer la velocidad con validaciones básicas",
   "data.validation.info": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-api/api-main-features/#data-validation-process",
   "data.validation.menu": "Más opciones: validaciones de datos y embargo",
+  "data.validation.menu.dialog": {},
   "data.validation.nochange": "Ejecute solo validaciones avanzadas sin cambiar los datos",
   "data.validations": "Validaciones de datos",
   "dataflow.categories": "Categorizar en",

@@ -384,6 +384,7 @@
   "data.validation.default": "فضل السرعة مع عمليات التحقق الأساسية",
   "data.validation.info": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-api/api-main-features/#data-validation-process",
   "data.validation.menu": "المزيد من الخيارات: التحقق من صحة البيانات والحظر",
+  "data.validation.menu.dialog": {},
   "data.validation.nochange": "قم بتشغيل عمليات التحقق المتقدمة فقط دون تغيير البيانات",
   "data.validations": "التحقق من صحة البيانات",
   "dataflow.categories": "مصنفة في",
