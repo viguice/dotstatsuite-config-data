@@ -88,7 +88,8 @@
   "app": {
     "footer": {
       "link": "https://siscc.org/"
-    }
+    },
+    "defaultOptionDataValidation": "basic"
   },
   "assets": {
     "logo": "/assets/siscc/data-lifecycle-manager/images/logo.png",
