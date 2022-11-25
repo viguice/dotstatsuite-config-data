@@ -63,7 +63,7 @@
   "de.contact.organisation": {},
   "de.contact.submit.label": {},
   "de.contact.personal.title": {},
-  " de.contact.privacy": {},
+  "de.contact.privacy": "<a>OECD Privacy policy|https://www.oecd.org/privacy/</a>",
   "de.contentConstraints.checkbox.label": "Ocultar filtros sin datos",
   "de.data.source": "fuente de datos",
   "de.error.title": "Ups! Algo anduvo mal de nuestro lado.",

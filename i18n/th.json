@@ -63,7 +63,7 @@
   "de.contact.organisation": {},
   "de.contact.submit.label": {},
   "de.contact.personal.title": {},
-  " de.contact.privacy": {},
+  "de.contact.privacy": "<a>OECD Privacy policy|https://www.oecd.org/privacy/</a>",
   "de.contentConstraints.checkbox.label": "ลบตัวกรองที่ไม่มีข้อมูล",
   "de.data.source": "แหล่งข้อมูล",
   "de.error.title": "พบข้อผิดพลาดในตอนท้าย",

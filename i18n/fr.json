@@ -63,7 +63,7 @@
   "de.contact.organisation": {},
   "de.contact.submit.label": {},
   "de.contact.personal.title": {},
-  " de.contact.privacy": {},
+  "de.contact.privacy": "<a>OECD Privacy policy|https://www.oecd.org/privacy/</a>",
   "de.contentConstraints.checkbox.label": "Appliquer les contraintes de contenu",
   "de.data.source": "Source de données",
   "de.error.title": "Oops, une erreur s'est produite de notre côté.",

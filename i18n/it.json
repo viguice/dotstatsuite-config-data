@@ -63,7 +63,7 @@
   "de.contact.organisation": {},
   "de.contact.submit.label": {},
   "de.contact.personal.title": {},
-  " de.contact.privacy": {},
+  "de.contact.privacy": "<a>OECD Privacy policy|https://www.oecd.org/privacy/</a>",
   "de.contentConstraints.checkbox.label": "Hide filter items without data",
   "de.data.source": "Fonte di dati",
   "de.error.title": "Spiacenti, si è verificato un errore.",
