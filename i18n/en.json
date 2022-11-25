@@ -62,7 +62,7 @@
   "de.contact.mail.subject": "{about} for {appName}",
   "de.contact.organisation": "Your organisation",
   "de.contact.submit.label": "Send",
-  "de.contact.personal.title": {},
+  "de.contact.personal.title": "Your personal title",
   "de.contact.privacy": "<a>OECD Privacy policy|https://www.oecd.org/privacy/</a>",
   "de.contentConstraints.checkbox.label": "Hide filter items without data",
   "de.data.source": "Data Source",
