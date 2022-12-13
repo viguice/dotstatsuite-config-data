@@ -1,14 +1,14 @@
 {
-  "permission.group.145": "Change structures",
-  "permission.group.145.definition": "Allows retrieving, inserting and updating structural information",
-  "permission.group.2051": "Read structures and embargoed data",
-  "permission.group.2051.definition": "Allows retrieving structural information and embargoed and non-embargoed data",
-  "permission.group.3": "Read structures and data",
-  "permission.group.3.definition": "Allows retrieving structural information and non-embargoed data",
-  "permission.group.3363": "Manage data",
-  "permission.group.3363.definition": "Allows retrieving structural information and retrieving, inserting, updating and deleting embargoed and non-embargoed data",
-  "permission.group.4095": "Full control",
-  "permission.group.4095.definition": "Allows fully managing structural information, embargoed and non-embargoed data, and permissions",
-  "permission.group.657": "Manage structures",
-  "permission.group.657.definition": "Allows retrieving, inserting, updating and deleting structural information"
+  "permission.group.145": "Cambia strutture",
+  "permission.group.145.definition": "Consente il recupero, l'inserimento e l'aggiornamento delle informazioni strutturali",
+  "permission.group.2051": "Leggi strutture e dati sottoposti a embargo",
+  "permission.group.2051.definition": "Consente di recuperare informazioni strutturali e dati soggetti a embargo e non",
+  "permission.group.3": "Leggere strutture e dati",
+  "permission.group.3.definition": "Consente di recuperare informazioni strutturali e dati non soggetti a embargo",
+  "permission.group.3363": "Gestisci i dati",
+  "permission.group.3363.definition": "Consente il recupero di informazioni strutturali e il recupero, l'inserimento, l'aggiornamento e la cancellazione di dati sottoposti a embargo e non",
+  "permission.group.4095": "Pieno controllo",
+  "permission.group.4095.definition": "Consente la gestione completa delle informazioni strutturali, dei dati sottoposti a embargo e non e delle autorizzazioni",
+  "permission.group.657": "Gestisci le strutture",
+  "permission.group.657.definition": "Consente il recupero, l'inserimento, l'aggiornamento e la cancellazione delle informazioni strutturali"
 }
