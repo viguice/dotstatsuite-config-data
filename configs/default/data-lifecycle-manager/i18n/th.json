@@ -1,14 +1,14 @@
 {
-  "permission.group.145": "Change structures",
-  "permission.group.145.definition": "Allows retrieving, inserting and updating structural information",
-  "permission.group.2051": "Read structures and embargoed data",
-  "permission.group.2051.definition": "Allows retrieving structural information and embargoed and non-embargoed data",
-  "permission.group.3": "Read structures and data",
-  "permission.group.3.definition": "Allows retrieving structural information and non-embargoed data",
-  "permission.group.3363": "Manage data",
-  "permission.group.3363.definition": "Allows retrieving structural information and retrieving, inserting, updating and deleting embargoed and non-embargoed data",
-  "permission.group.4095": "Full control",
-  "permission.group.4095.definition": "Allows fully managing structural information, embargoed and non-embargoed data, and permissions",
-  "permission.group.657": "Manage structures",
-  "permission.group.657.definition": "Allows retrieving, inserting, updating and deleting structural information"
+  "permission.group.145": "เปลี่ยนโครงสร้าง",
+  "permission.group.145.definition": "อนุญาตให้เรียก แทรก และปรับปรุงข้อมูลโครงสร้าง",
+  "permission.group.2051": "อ่านโครงสร้างและข้อมูลการคว่ำบาตร",
+  "permission.group.2051.definition": "อนุญาตให้ดึงข้อมูลโครงสร้างและข้อมูลที่ถูกคว่ำบาตรและไม่ถูกคว่ำบาตร",
+  "permission.group.3": "Rอ่านโครงสร้างและข้อมูล",
+  "permission.group.3.definition": "อนุญาตให้ดึงข้อมูลโครงสร้างและข้อมูลที่ไม่ถูกกีดกัน",
+  "permission.group.3363": "จัดการข้อมูล",
+  "permission.group.3363.definition": "อนุญาตให้ดึงข้อมูลโครงสร้างและเรียกค้น แทรก ปรับปรุง และลบข้อมูลที่ถูกคว่ำบาตรและไม่ถูกคว่ำบาตร",
+  "permission.group.4095": "ควบคุมทั้งหมด",
+  "permission.group.4095.definition": "อนุญาตให้จัดการข้อมูลเชิงโครงสร้าง ข้อมูลที่ถูกคว่ำบาตรและไม่ถูกคว่ำบาตร และการอนุญาตอย่างเต็มที่",
+  "permission.group.657": "จัดการโครงสร้าง",
+  "permission.group.657.definition": "อนุญาตให้เรียก แทรก ปรับปรุง และลบข้อมูลโครงสร้าง"
 }
