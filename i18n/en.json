@@ -273,7 +273,7 @@
   "vx.config.title": "Title",
   "vx.config.uniq.focus.option": "Timeline",
   "vx.filters.current.clear": "Clear all filters",
-  "vx.filters.current.title": "Used filters",
+  "vx.filters.current.title": "Applied filters",
   "vx.no.data": "There is currently no data available for this dataset. Please try again later.",
   "vx.no.data.selection": "There is no data for the current selection. Please change the selection.",
   "vx.no.time.data": "A timeline chart cannot be shown because the data has no time dimension.",
