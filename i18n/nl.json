@@ -113,8 +113,6 @@
   "de.search.back": "Terug naar het zoekresultaat",
   "de.search.dataflow.dimensions": "Dimensies",
   "de.search.dataflow.last.updated": "Laatste bijwerking:",
-  "de.search.dataflow.source": "Bron",
-  "de.search.datasourceId": "Gegevensbron",
   "de.search.list.blank": "Geen zoekresultaat",
   "de.search.list.loading": "Zoeken…",
   "de.search.list.status": "{size, number} {size, plural, one {resultaat} other {resultaten}}",
