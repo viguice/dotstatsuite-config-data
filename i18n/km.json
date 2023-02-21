@@ -113,8 +113,6 @@
   "de.search.back": "ត្រឡប់ទៅស្វែងរកលទ្ធផល",
   "de.search.dataflow.dimensions": "វិមាត្រ",
   "de.search.dataflow.last.updated": "វឌ្ឍនភាពចុងក្រោយ:",
-  "de.search.dataflow.source": "ប្រភព",
-  "de.search.datasourceId": "Datasource",
   "de.search.list.blank": "ការស្វែងរកមិនមានលទ្ធផល",
   "de.search.list.loading": "ស្វែងរក…",
   "de.search.list.status": "{size, number} {size, plural, one {លទ្ធផល} other {លទ្ធផល}}",

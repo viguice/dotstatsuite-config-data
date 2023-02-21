@@ -113,8 +113,6 @@
   "de.search.back": "กลับไปที่ผลการค้นหา",
   "de.search.dataflow.dimensions": "ขนาด",
   "de.search.dataflow.last.updated": "ความคืบหน้าล่าสุด:",
-  "de.search.dataflow.source": "ที่มา",
-  "de.search.datasourceId": "แหล่งเก็บข้อมูล",
   "de.search.list.blank": "การค้นหาไม่มีผลลัพธ์",
   "de.search.list.loading": "ค้นหา…",
   "de.search.list.status": "{size, number} {size, plural, one {ผลลัพธ์} other {ผลลัพธ์}}",

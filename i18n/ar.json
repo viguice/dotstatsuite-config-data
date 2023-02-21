@@ -113,8 +113,6 @@
   "de.search.back": "العودة الى نتائج البحث",
   "de.search.dataflow.dimensions": "يقطع",
   "de.search.dataflow.last.updated": "آخر تحديث",
-  "de.search.dataflow.source": "المصدر",
-  "de.search.datasourceId": "مصدر البيانات",
   "de.search.list.blank": "لم يتم العثور على نتائج.",
   "de.search.list.loading": "البحث في التقدم…",
   "de.search.list.status": "{size, number} {size, plural, one {نتيجة} other {النتائج}}",

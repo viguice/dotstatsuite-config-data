@@ -113,8 +113,6 @@
   "de.search.back": "Zurück zu den Suchergebnissen",
   "de.search.dataflow.dimensions": "Maße",
   "de.search.dataflow.last.updated": "Zuletzt aktualisiert: ",
-  "de.search.dataflow.source": "Quelle",
-  "de.search.datasourceId": "Datenquelle",
   "de.search.list.blank": "Kein Suchergebnis",
   "de.search.list.loading": "Die Suche läuft…",
   "de.search.list.status": "{size, number} {size, plural, one {result} other {results}}",

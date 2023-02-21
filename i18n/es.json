@@ -113,8 +113,6 @@
   "de.search.back": "Regresar a los resultados de la búsqueda",
   "de.search.dataflow.dimensions": "Dimensiones",
   "de.search.dataflow.last.updated": "Ultima actualización:",
-  "de.search.dataflow.source": "Fuente",
-  "de.search.datasourceId": "Fuente de datos",
   "de.search.list.blank": "No se obtuvieron resultados",
   "de.search.list.loading": "Buscando…",
   "de.search.list.status": "{size, number} {size, plural, one {resultado} other {resultados}}",
