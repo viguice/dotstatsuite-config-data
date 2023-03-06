@@ -65,11 +65,6 @@
     ]
   },
   "assets": {
-    "singleSelectionImg": "/assets/siscc/data-explorer/images/single-selection.png",
-    "childrenSelectionImg": "/assets/siscc/data-explorer/images/children-selection.png",
-    "branchSelectionImg": "/assets/siscc/data-explorer/images/branch-selection.png",
-    "levelSelectionImg": "/assets/siscc/data-explorer/images/level-selection.png",
-    "allSelectionImg": "/assets/siscc/data-explorer/images/all-selection.png",
     "header": "/assets/siscc/data-explorer/images/sis-cc-logo.png",
     "subheader": "/assets/siscc/data-explorer/images/dotstat-data-explorer-logo.png",
     "footer": "/assets/siscc/data-explorer/images/sis-cc-icon.png",
