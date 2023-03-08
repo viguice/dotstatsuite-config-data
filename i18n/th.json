@@ -347,6 +347,8 @@
   "artefact.relative.non.selectable": "ไม่สามารถลบลบข้อกำหนดนี้ได้เนื่องจาก  : {parents}{others, plural, =0 {} other { and {others} more}}.{br} ให้ลบข้อกำหนดเหล่านี้ก่อนเป็นอันดับแรก",
   "artefact.relatives": "ข้อกำหนดที่เกี่ยวข้อง",
   "artefact.relatives.error": "ข้อผิดพลาดเกิดขึ้นระหว่างการเรียกใช้ข้อกำหนด",
+  "artefact.relatives.deselect.all": {},
+  "artefact.relatives.select.all": {},
   "artefact.series": "({series, number} ชุด)",
   "artefact.type": "ประเภท",
   "artefact.type.agencyscheme": "หน่วยงาน",

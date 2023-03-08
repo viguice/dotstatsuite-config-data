@@ -347,6 +347,8 @@
   "artefact.relative.non.selectable": "Kan niet worden verwijderd omdat ernaar wordt verwezen door: {parents}{others, plural, =0 {} other { and {others} more}}.{br}Verwijder eerst die structuren en probeer het opnieuw.",
   "artefact.relatives": "Verwante structuren",
   "artefact.relatives.error": "Er is een fout opgetreden bij het ophalen van de gerelateerde structuren.",
+  "artefact.relatives.deselect.all": {},
+  "artefact.relatives.select.all": {},
   "artefact.series": "({series, number} serie)",
   "artefact.type": "Type",
   "artefact.type.agencyscheme": "Agency scheme",
