@@ -536,6 +536,7 @@
   "spotlight.placeholder": "I'm looking for",
   "transfer-ws.status.401": "You cannot currently import this data because you are not authenticated or your authentication timed out. First login and then try again. If the problem persists, then please contact your system administrator",
   "transfer-ws.status.403": "You are not authorised to import this data. The restriction can be related to the data space, the 'dataflow' type or the dataflow's ID, agency or version for your account or a group account of which you are a member. Contact the data owner or the system administrator to obtain adequate data update permissions.",
+  "transfer-ws.status.404": "No referential metadata available for transferring.",
   "transfer.apply": "Transfer",
   "transfer.artefact": "Transfer {count, plural, one {structure} other {structures}}",
   "transfer.artefact.error": "Error(s) in structure transfer from space {source} to space {target}: ",
