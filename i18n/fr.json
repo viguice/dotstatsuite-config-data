@@ -347,6 +347,8 @@
   "artefact.relative.non.selectable": "Ne peut pas être supprimé car associé à: {parents}{others, plural, =0 {} other { et {others} autres}}.{br}Supprimez d'abord ces structures puis recommencez.",
   "artefact.relatives": "Structures associées",
   "artefact.relatives.error": "Une erreur s'est produite lors de la tentative de récupération des structures associées.",
+  "artefact.relatives.deselect.all": {},
+  "artefact.relatives.select.all": {},
   "artefact.series": "({series, number} séries)",
   "artefact.type": "Type",
   "artefact.type.agencyscheme": "Agency scheme",

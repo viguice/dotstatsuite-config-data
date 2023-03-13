@@ -347,6 +347,8 @@
   "artefact.relative.non.selectable": "لا يمكن حذفه منذ الإشارة إليه بـ: {parents}{others, plural, =0 {} other { and {others} more}}. {br} احذف هذه الهياكل أولاً ثم حاول مرة أخرى.",
   "artefact.relatives": "الهياكل ذات الصلة",
   "artefact.relatives.error": "حدث خطأ أثناء محاولة استرداد الهياكل ذات الصلة.",
+  "artefact.relatives.deselect.all": {},
+  "artefact.relatives.select.all": {},
   "artefact.series": "({series, number} سلسلة)",
   "artefact.type": "نوع",
   "artefact.type.agencyscheme": "مخطط الوكالة",

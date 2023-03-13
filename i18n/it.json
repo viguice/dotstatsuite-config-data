@@ -347,6 +347,8 @@
   "artefact.relative.non.selectable": "Non può essere cancellato perché referenziato da: {parents}{others, plural, =0 {} other { e {others} more}}.{br}Elimina prima quelle strutture e poi riprova.",
   "artefact.relatives": "Strutture correlate",
   "artefact.relatives.error": "Si è verificato un errore durante il tentativo di recuperare le strutture correlate.",
+  "artefact.relatives.deselect.all": {},
+  "artefact.relatives.select.all": {},
   "artefact.series": "({series, number} serie)",
   "artefact.type": "Tipo",
   "artefact.type.agencyscheme": "Agency scheme",

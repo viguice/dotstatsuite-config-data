@@ -347,6 +347,8 @@
   "artefact.relative.non.selectable": "មិន​អាច​លុប​បាន​ទេ​ចាប់​តាំង​ពី​យោង​ដោយ៖ {parents}{others, plural, =0 {} other { and {others} more}}។{br}ដំបូង​ត្រូវ​លុប​រចនាសម្ព័ន្ធ​ទាំង​នោះ រួច​ព្យាយាម​ម្ដង​ទៀត។",
   "artefact.relatives": "រចនាសម្ព័ន្ធពាក់ព័ន្ធ",
   "artefact.relatives.error": "កំហុសបានកើតឡើងខណៈពេលព្យាយាមទាញយករចនាសម្ព័ន្ធដែលពាក់ព័ន្ធ។",
+  "artefact.relatives.deselect.all": {},
+  "artefact.relatives.select.all": {},
   "artefact.series": "({series, number} series)",
   "artefact.type": "ប្រភេទ",
   "artefact.type.agencyscheme": "គ្រោងការណ៍ទីភ្នាក់ងារ",
