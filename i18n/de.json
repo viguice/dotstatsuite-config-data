@@ -538,6 +538,7 @@
   "spotlight.placeholder": "Ich suche",
   "transfer-ws.status.401": "Sie können diese Daten derzeit nicht importieren, da Sie nicht authentifiziert sind oder Ihre Authentifizierung das Zeitlimit überschritten hat. Melden Sie sich zuerst an und versuchen Sie es dann erneut. Wenn das Problem weiterhin besteht, wenden Sie sich bitte an Ihren Systemadministrator.",
   "transfer-ws.status.403": "Sie sind nicht berechtigt, diese Daten zu importieren. Die Einschränkung kann sich auf den Datenraum, den Dataflow-Typ oder die Dataflow-ID, Agentur oder Version für Ihr Konto oder ein Gruppenkonto beziehen, bei dem Sie Mitglied sind. Wenden Sie sich an den Dateneigentümer oder den Systemadministrator, um ausreichende Berechtigungen für die Datenaktualisierung zu erhalten.",
+  "transfer-ws.status.404": {},
   "transfer.apply": "Überweisen",
   "transfer.artefact": "Überweisen {count, plural, one {structure} other {structures}}",
   "transfer.artefact.error": "Fehler beim Strukturtransfer vom Datenraum {source} zum Datenraum {target}: ",

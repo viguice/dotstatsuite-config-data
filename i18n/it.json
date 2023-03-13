@@ -538,6 +538,7 @@
   "spotlight.placeholder": "Sto cercando",
   "transfer-ws.status.401": "Al momento non puoi importare questi dati perché non sei autenticato o la tua autenticazione è scaduta. Prima accedi e poi riprova. Se il problema persiste, contatta l'amministratore di sistema.",
   "transfer-ws.status.403": "Non sei autorizzato a importare questi dati. La restrizione può essere correlata allo spazio dati, al tipo di 'dataflow' o all'ID, all'agenzia o alla versione del dataflow per il tuo account o un account di gruppo di cui sei membro. Contattare il titolare dei dati o l'amministratore di sistema per ottenere adeguati permessi di aggiornamento dei dati.",
+  "transfer-ws.status.404": {},
   "transfer.apply": "Trasferimento",
   "transfer.artefact": "Trasferimento {count, plural, one {structure} other {structures}}",
   "transfer.artefact.error": "Errore/i nel trasferimento della struttura dallo spazio {source} allo spazio {target}:",

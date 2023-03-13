@@ -538,6 +538,7 @@
   "spotlight.placeholder": "Ik ben op zoek naar",
   "transfer-ws.status.401": "U kunt deze gegevens momenteel niet importeren omdat u niet bent geverifieerd of omdat uw authenticatie een time-out heeft gehad. Log eerst in en probeer het dan opnieuw. Als het probleem aanhoudt, neem dan contact op met uw systeembeheerder",
   "transfer-ws.status.403": "U bent niet bevoegd om deze gegevens te importeren. De beperking kan betrekking hebben op de dataruimte, het type 'dataflow' of de ID, instantie of versie van de dataflow voor uw account of een groepsaccount waarvan u lid bent. Neem contact op met de eigenaar van de gegevens of de systeembeheerder om de juiste machtigingen voor het bijwerken van gegevens te verkrijgen.",
+  "transfer-ws.status.404": {},
   "transfer.apply": "Overbrengen",
   "transfer.artefact": "Artefact overbrengen",
   "transfer.artefact.error": "Fout bij de overdracht van een artefact",
