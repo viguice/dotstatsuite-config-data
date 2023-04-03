@@ -277,7 +277,7 @@
   "vx.filter.branch.selection": "Whole branch",
   "vx.filter.children.selection": "Item and all items directly below",
   "vx.filter.close": "Cancel",
-  "vx.filter.colapse.all": "Colapse All",
+  "vx.filter.colapse.all": "Collapse All",
   "vx.filter.expand.all": "Expand All",
   "vx.filter.level.selection": "All items at the same level",
   "vx.filter.selectin.hint": "Did you already know that you can select several items either{br}by holding the mouse button while selecting neighbored items or{br}by holding the 'Shift' key while selecting the last neighbored item or{br}by holding the 'Ctrl' key while selecting the next individual item(s)?",
