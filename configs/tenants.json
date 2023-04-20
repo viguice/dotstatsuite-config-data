@@ -99,6 +99,7 @@
         "label": "de",
         "oidc": {
           "authority": "http://localhost:8080/auth/realms/demo",
+          "authority_aliases": [],
           "client_id": "stat-suite",
           "required": false
         },
