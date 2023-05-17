@@ -1,7 +1,7 @@
 {
-  "default": {
-    "id": "default",
-    "label": "default",
+  "demo": {
+    "id": "demo",
+    "label": "demo",
     "default": true,
     "spaces": {
       "demo-release": {
