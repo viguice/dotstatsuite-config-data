@@ -165,6 +165,8 @@
   "de.table.layout.x": "Righe",
   "de.table.layout.y": "Colonne",
   "de.table.layout.z": "Sezioni",
+  "de.time.series.values": {},
+  "de.period.helpLastNTimeValues": {},
   "de.viewer.copyright.content.label": "{link}",
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Terms & Conditions",

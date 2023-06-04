@@ -165,6 +165,8 @@
   "de.table.layout.x": "Rijen (minimum 1)",
   "de.table.layout.y": "Kolommen",
   "de.table.layout.z": "Rij secties",
+  "de.time.series.values": {},
+  "de.period.helpLastNTimeValues": {},
   "de.viewer.copyright.content.label": "{link}",
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Voorwaarden",

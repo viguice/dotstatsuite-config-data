@@ -165,6 +165,8 @@
   "de.table.layout.x": "Lignes (minimum 1)",
   "de.table.layout.y": "Colonnes",
   "de.table.layout.z": "Sections",
+  "de.time.series.values": {},
+  "de.period.helpLastNTimeValues": {},
   "de.viewer.copyright.content.label": "{link}",
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Conditions d'utilisation",

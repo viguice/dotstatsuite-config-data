@@ -165,6 +165,8 @@
   "de.table.layout.x": "Filas",
   "de.table.layout.y": "Columnas",
   "de.table.layout.z": "Secciones",
+  "de.time.series.values": {},
+  "de.period.helpLastNTimeValues": {},
   "de.viewer.copyright.content.label": "{link}",
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Términos y condiciones",
