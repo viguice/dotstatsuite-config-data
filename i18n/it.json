@@ -50,7 +50,7 @@
   "de.app.title.search": ".Stat Data Explorer",
   "de.app.title.vis": ".Stat Data Explorer • {dataflowName}",
   "de.appBar.go.home": "Torna alla home page",
-  "de.complementary.data": {},
+  "de.complementary.data": "Potrebbero interessarti anche questi dati:",
   "de.contact.checkbox": "Accetto di essere contattato per aiutare a migliorare questo sito web",
   "de.contact.choice.feedback": "Feedback",
   "de.contact.choice.feedback.details": "Desidero dare un feedback su questo sito per aiutarlo a migliorarlo o per ringraziare i team dietro di esso.",
