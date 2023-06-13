@@ -165,6 +165,8 @@
   "de.table.layout.x": "الصفوف",
   "de.table.layout.y": "الأعمدة",
   "de.table.layout.z": "الأقسام (المحاور)",
+  "de.time.series.values": {},
+  "de.period.helpLastNTimeValues": {},
   "de.viewer.copyright.content.label": "{link}",
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "الشروط و الاحكام",

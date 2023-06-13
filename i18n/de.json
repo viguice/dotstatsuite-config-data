@@ -165,6 +165,8 @@
   "de.table.layout.x": "Zeilen (mindestens 1)",
   "de.table.layout.y": "Spalten",
   "de.table.layout.z": "Zeilenblöcke",
+  "de.time.series.values": {},
+  "de.period.helpLastNTimeValues": {},
   "de.viewer.copyright.content.label": "{link}",
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Nutzungsbedingungen",

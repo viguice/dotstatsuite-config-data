@@ -165,6 +165,8 @@
   "de.table.layout.x": "ค่าข้อมูล",
   "de.table.layout.y": "คอลัมน์",
   "de.table.layout.z": "มิติ",
+  "de.time.series.values": {},
+  "de.period.helpLastNTimeValues": {},
   "de.viewer.copyright.content.label": "{link}",
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "ข้อกำหนดและเงื่อนไข",
