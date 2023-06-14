@@ -7,14 +7,6 @@
       "prefscale": "PREF_SCALE",
       "decimals": "DECIMALS"
     },
-    "units": {
-      "id": "UNIT",
-      "annotationsDefinitionCodes": {
-        "concepts": ["UNIT_MEASURE_CONCEPTS"]
-      },
-      "defaultCodes": ["UNIT_MEASURE", "UNIT_MULT", "BASE_PER"],
-      "rejectedValueIds": ["_L", "_T", "_Z"]
-    },
     "period": {
       "boundaries": ["1970", "2025"],
       "default": ["2015", "2021"]
