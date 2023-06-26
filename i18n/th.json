@@ -142,6 +142,7 @@
   "de.share.expired.label": "ที่อยู่อีเมลของคุณ (จำเป็น)",
   "de.share.expired.submit": "ขอลิงค์ใหม่",
   "de.share.expired.token.success": "ส่งอีเมลเรียบร้อยแล้วค่ะ",
+  "de.share.mobile.delete": {},
   "de.share.table.col.actions": "การกระทำ",
   "de.share.table.col.created": "สร้าง",
   "de.share.table.col.expireDate": "วันที่หมดอายุ",

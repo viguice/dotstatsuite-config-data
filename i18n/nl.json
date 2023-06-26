@@ -142,6 +142,7 @@
   "de.share.expired.label": "Uw e-mailadres (verplicht)",
   "de.share.expired.submit": "Nieuwe link aanvragen",
   "de.share.expired.token.success": "De e-mail is succesvol verzonden.",
+  "de.share.mobile.delete": {},
   "de.share.table.col.actions": "Actie",
   "de.share.table.col.created": "Gemaakt",
   "de.share.table.col.expireDate": "Vervaldatum",

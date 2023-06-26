@@ -142,6 +142,7 @@
   "de.share.expired.label": "Your email address (required)",
   "de.share.expired.submit": "Request new link",
   "de.share.expired.token.success": "The email has been sent successfully",
+  "de.share.mobile.delete": "Delete visualisation",
   "de.share.table.col.actions": "Action",
   "de.share.table.col.created": "Created",
   "de.share.table.col.expireDate": "Expire Date",
