@@ -142,6 +142,7 @@
   "de.share.expired.label": "Il tuo indirizzo email (richiesto)",
   "de.share.expired.submit": "Richiedi un nuovo collegamento",
   "de.share.expired.token.success": "L'e-mail è stata inviata con successo.",
+  "de.share.mobile.delete": {},
   "de.share.table.col.actions": "Azione",
   "de.share.table.col.created": "Creato",
   "de.share.table.col.expireDate": "Data di scadenza",
