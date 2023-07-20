@@ -7,13 +7,19 @@
       "prefscale": "PREF_SCALE",
       "decimals": "DECIMALS"
     },
-    "units": {
-      "id": "UNIT",
-      "annotationsDefinitionCodes": {
-        "concepts": ["UNIT_MEASURE_CONCEPTS"]
-      },
-      "defaultCodes": ["UNIT_MEASURE", "UNIT_MULT", "BASE_PER"],
-      "rejectedValueIds": ["_L", "_T", "_Z"]
+    "defaultCombinations": {
+      "concepts": "UNIT:UNIT_MEASURE,UNIT_MULT,BASE_PER",
+      "names": {
+        "ar": "UNIT:وحدة القياس المجمعة",
+        "de": "UNIT:Kombinierte Maßeinheit",
+        "en": "UNIT:Combined unit of measure",
+        "es": "UNIT:Unidad de medida combinada",
+        "fr": "UNIT:Unité de mesure combinée",
+        "it": "UNIT:Unità di misura combinata",
+        "km": "UNIT:ឯកតារង្វាស់រួមបញ្ចូលគ្នា",
+        "nl": "UNIT:Gecombineerde maateenheid",
+        "th": "UNIT:หน่วยวัดรวม"
+      } 
     },
     "period": {
       "boundaries": ["1970", "2025"],
@@ -49,7 +55,7 @@
   },
   "viewer": {
     "api": {
-      "doc": "https://github.com/sdmx-twg/sdmx-rest/tree/master/v2_1/ws/rest/docs",
+      "doc": "https://github.com/sdmx-twg/sdmx-rest/tree/v1.5.0/v2_1/ws/rest/docs",
       "contact": "https://gitlab.com/sis-cc/.stat-suite"
     }
   },
