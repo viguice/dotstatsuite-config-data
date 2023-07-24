@@ -34,6 +34,7 @@
   "data.download.csv.launch.detail": "Su descarga comenzará en breve. Mientras tanto, puedes seguir navegando.",
   "data.warning.url.too.long": "El filtro actual requiere una URL de página demasiado larga, lo que hace que esta vista de datos sea imposible de marcar o reutilizar. Es necesaria una selección de filtro reducida para utilizar estas funciones.",
   "de": "Deutsch",
+  "de.advanced.filter": {},
   "de.api.queries.contact": "Contáctenos",
   "de.api.queries.copied": "copiado al portapapeles",
   "de.api.queries.copy": "Haga click para copiar",
