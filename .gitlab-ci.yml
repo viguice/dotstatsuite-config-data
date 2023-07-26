@@ -1,8 +1,10 @@
 stages:
+  - setup
+  - test
   - deploy
 
 variables:
-  NODE_VERSION: node:14
+  NODE_IMAGE: node:16-alpine
 
 .template: &template
   stage: deploy
@@ -21,6 +23,20 @@ variables:
   tags:
     - kube
     - oecd
+
+setup:
+  stage: setup
+  image: $NODE_IMAGE
+  script:
+    - yarn
+  artifacts:
+    paths:
+      - node_modules/
+
+test-json:
+  stage: test
+  image: $NODE_IMAGE
+  script: yarn i18n:json-validate
 
 deploy-qa:
   variables:

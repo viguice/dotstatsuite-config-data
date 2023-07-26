@@ -12,7 +12,7 @@ const ENV_URL = 'https://gitlab.com/sis-cc/.stat-suite/dotstatsuite-config-data'
 const ENV_LANG = process.env.ENV_LANG || 'en';
 const CHANGE_LOG_NAME = process.env.CHANGE_LOG_NAME || 'changelog-i18n';
 
-const args = process.argv.slice(3);
+const args = process.argv.slice(2);
 const branch1 = R.nth(0)(args);
 const branch2 = R.nth(1)(args);
 
