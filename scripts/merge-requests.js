@@ -6,7 +6,7 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 const args = process.argv.slice(3);
-const milestone = R.nth(0)(args); //'dotstatsuiteJS@v12.0.0' 
+const milestone = R.nth(0)(args); //'dotstatsuiteJS@v12.0.0'
 const token = R.nth(1)(args) //'glpat-xxxxxxxxxxxxx' // read access token
 const _groupId = R.nth(2)(args);
 
@@ -54,12 +54,14 @@ const projectIds = {
   '13360665': 'dotstatsuite-visions',
   '13875210': 'keycloak',
   '24721298': 'siscc-config-data',
-  '26931893': 'dotstatsuite-config-data', 
+  '26931893': 'dotstatsuite-config-data',
+  '10283564': 'dotstatsuite-sdmx-faceted-search',
+  '24290491': 'dotstatsuite-quality-assurance'
 }
 
 const getIssues = async (milestone, page = 1, data = []) => {
   const query = `${endPoint}/groups/${groupId}/issues/?milestone=${milestone}&page=${page}`;
-  const response = await axios.get(query, config);  
+  const response = await axios.get(query, config);
 
   const nextPage = response.headers['x-next-page'];
   const issues = R.map(issue => ({
@@ -70,7 +72,7 @@ const getIssues = async (milestone, page = 1, data = []) => {
   }), response.data)
 
   if (nextPage) {
-    return R.concat(await getIssues(milestone, nextPage, issues), data); 
+    return R.concat(await getIssues(milestone, nextPage, issues), data);
   }
   return R.concat(issues, data);
 }
