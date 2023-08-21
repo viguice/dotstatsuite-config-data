@@ -288,7 +288,7 @@
   "vx.filter.expand.all": "Alles uitvouwen",
   "vx.filter.level.selection": "Alle items op hetzelfde niveau",
   "vx.filter.selectin.hint": "Wist u al dat u verschillende items kunt selecteren{br}door de muisknop ingedrukt te houden terwijl u aangrenzende items selecteert of{br}door de 'Shift'-toets ingedrukt te houden terwijl u het laatste aangrenzende item selecteert of{br}door de 'Ctrl'-toets ingedrukt te houden toets terwijl u het/de volgende individuele item(s) selecteert?",
-  "vx.filter.selectin.mode": "Selectiemodus:",
+  "vx.filter.selectin.mode": "Wijzig de Selectiemodus:",
   "vx.filter.single.selection": "Enkel item",
   "vx.filters.current.clear": "Verwijder alle filters",
   "vx.filters.current.title": "Gebruikte filters",
