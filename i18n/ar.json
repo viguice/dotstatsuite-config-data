@@ -288,7 +288,7 @@
   "vx.filter.expand.all": "توسيع الكل",
   "vx.filter.level.selection": "جميع العناصر في نفس المستوى",
   "vx.filter.selectin.hint": "هل تعلم بالفعل أنه يمكنك تحديد عدة عناصر إما {br} بالضغط على زر الماوس أثناء تحديد العناصر المجاورة أو {br} بالضغط على مفتاح 'Shift' أثناء تحديد آخر عنصر مجاور أو {br} بالضغط على 'Ctrl' مفتاح أثناء اختيار العنصر (العناصر) الفردية التالية؟",
-  "vx.filter.selectin.mode": "وضع اختيار :",
+  "vx.filter.selectin.mode": "تغيير وضع التحديد :",
   "vx.filter.single.selection": "عنصر واحد",
   "vx.filters.current.clear": "إلغاء جميع الإختيارات",
   "vx.filters.current.title": "معايير البث المختارة",

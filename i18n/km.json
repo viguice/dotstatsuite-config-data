@@ -288,7 +288,7 @@
   "vx.filter.expand.all": "ពង្រីកទាំងអស់។",
   "vx.filter.level.selection": "ធាតុទាំងអស់នៅកម្រិតដូចគ្នា។",
   "vx.filter.selectin.hint": "តើអ្នកដឹងទេថាអ្នកអាចជ្រើសរើសធាតុជាច្រើនបាន{br}ដោយសង្កត់ប៊ូតុងកណ្ដុរខណៈពេលជ្រើសរើសធាតុជិតខាង ឬ{br}ដោយសង្កត់គ្រាប់ចុច 'Shift' ខណៈពេលជ្រើសរើសធាតុជិតខាងចុងក្រោយ ឬ{br}ដោយសង្កត់ 'Ctrl' key ខណៈពេលជ្រើសរើសធាតុនីមួយៗបន្ទាប់?",
-  "vx.filter.selectin.mode": "របៀបជ្រើសរើស៖",
+  "vx.filter.selectin.mode": "ផ្លាស់ប្តូររបៀបជ្រើសរើស",
   "vx.filter.single.selection": "ធាតុតែមួយ",
   "vx.filters.current.clear": "លុបសម្អាតចោលចម្រោះទាំងអស់",
   "vx.filters.current.title": "ត្រូវការប្រើចម្រោះ",

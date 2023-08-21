@@ -288,7 +288,7 @@
   "vx.filter.expand.all": "Développer tout",
   "vx.filter.level.selection": "Tous les éléménts du même niveau",
   "vx.filter.selectin.hint": "Saviez-vous déjà que vous pouvez sélectionner plusieurs éléments soit{br}en maintenant le bouton gauche de la souris enfoncé tout en sélectionnant les élements voisins, soit{br}en maintenant la touche 'Maj' enfoncée tout en sélecitonnant le dernier élément voisin, ou{br}en maintenant la touche 'Ctrl' lors de la sélection du ou des éléments individuels",
-  "vx.filter.selectin.mode": "Mode de sélection :",
+  "vx.filter.selectin.mode": "Changer de Mode de Sélection :",
   "vx.filter.single.selection": "Un seul élément",
   "vx.filters.current.clear": "Supprimer tous les filtres",
   "vx.filters.current.title": "Filtres appliqués",
