@@ -293,7 +293,7 @@
   "vx.filter.expand.all": "Alle erweitern",
   "vx.filter.level.selection": "Alle Artikel auf der gleichen Ebene",
   "vx.filter.selectin.hint": "Wussten Sie bereits, dass Sie mehrere Elemente auswählen können, indem Sie entweder {br}die Maustaste gedrückt halten, während Sie benachbarte Elemente auswählen, oder{br} indem Sie die Umschalttaste gedrückt halten, während Sie das letzte benachbarte Element auswählen, oder{br}indem Sie die Strg-Taste gedrückt halten? Taste während der Auswahl des nächsten Einzelartikels?",
-  "vx.filter.selectin.mode": "Auswahlmodus Ändern :",
+  "vx.filter.selectin.mode": "Auswahlmodus ändern :",
   "vx.filter.single.selection": "Einzelexemplar",
   "vx.filters.current.clear": "Alle Filter löschen",
   "vx.filters.current.title": "Benutzte Filter",
