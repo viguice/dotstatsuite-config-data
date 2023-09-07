@@ -293,7 +293,7 @@
   "vx.filter.expand.all": "Espandi tutto",
   "vx.filter.level.selection": "Tutti gli elementi allo stesso livello",
   "vx.filter.selectin.hint": "Sapevi già che puoi selezionare diversi elementi{br}tenendo premuto il pulsante del mouse mentre selezioni gli elementi vicini o{br}tenendo premuto il tasto 'Maiusc' mentre selezioni l'ultimo elemento vicino oppure{br}tenendo premuto il tasto 'Ctrl' tasto durante la selezione della/e successiva/e voce/i?",
-  "vx.filter.selectin.mode": "Cambia Modalità di Selezione:",
+  "vx.filter.selectin.mode": "Cambia modalità di selezione:",
   "vx.filter.single.selection": "Oggetto singolo",
   "vx.filters.current.clear": "Pulisci tutti i filtri",
   "vx.filters.current.title": "Filtri usati",
