@@ -126,11 +126,7 @@
     "cellsLimit": 3000
   },
   "theme": {
-    "visFont": "'Segoe UI'",
-    "palette": {
-      "secondary": {"dark": "#ffffff"},
-      "tertiary": {"main": "#ff19ab"}
-    }
+    "visFont": "'Segoe UI'"
   },
   "i18n": {
     "localeId": "en",
