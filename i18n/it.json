@@ -140,6 +140,7 @@
   "de.share.button.deleteAll": "Cancella tutto",
   "de.share.confirmationText": "Devi confermare il tuo indirizzo email entro le prossime {redisChartsTTL} ore. Se hai ricevuto questa email per errore, semplicemente cancellala.",
   "de.share.copyMsg": "In alternativa, puoi anche incollare questo URL nel tuo browser web.",
+  "de.share.email.button.label": {},
   "de.share.embed.description": "Incorpora nel tuo sito web utilizzando il seguente codice (aggiorna la larghezza e l'altezza per adattarla al tuo design)",
   "de.share.expired.description": "Il collegamento è scaduto. Inserisci il tuo indirizzo e-mail per ricevere un nuovo collegamento all'elenco delle tue visualizzazioni attualmente attive.",
   "de.share.expired.label": "Il tuo indirizzo email (richiesto)",
