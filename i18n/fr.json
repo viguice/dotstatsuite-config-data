@@ -140,7 +140,7 @@
   "de.share.button.deleteAll": "Tout supprimer",
   "de.share.confirmationText": "Vous devez confirmer votre adresse e-mail dans les prochaines {redisChartsTTL} heures. Si vous avez reçu cet email par erreur, supprimez-le simplement.",
   "de.share.copyMsg": "Vous pouvez également coller cette URL dans votre navigateur Web.",
-  "de.share.email.button.label": {},
+  "de.share.email.button.label": "Confirmez votre email",
   "de.share.embed.description": "Ajoutez le code ci-dessous pour l'intégrer à votre site internet (modifiez les propriétés \"width\" et \"height\" pour l'ajuster à votre site)",
   "de.share.expired.description": "Le lien a expiré. Veuillez renseigner votre email pour recevoir un nouveau lien de la liste de toutes vos visualisations actives.",
   "de.share.expired.label": "Votre email (requis)",
