@@ -140,6 +140,7 @@
   "de.share.button.deleteAll": "Eliminar todos",
   "de.share.confirmationText": "Debe confirmar su dirección de correo electrónico dentro de las próximas {redisChartsTTL} horas. Si recibe este correo electrónico por error, simplemente elimínelo.",
   "de.share.copyMsg": "Alternativamente, también puede pegar esta URL en su navegador web.",
+  "de.share.email.button.label": {},
   "de.share.embed.description": "Incruste en su sitio web usando el siguiente código (actualice el ancho y el alto para que se ajusten a su diseño)",
   "de.share.expired.description": "El enlace ha caducado. Ingrese su dirección de correo electrónico para recibir un nuevo enlace a la lista de sus visualizaciones actualmente activas.",
   "de.share.expired.label": "Su dirección de correo electrónico (requerido)",
