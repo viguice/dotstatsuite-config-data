@@ -182,6 +182,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Terms & Conditions",
   "de.viewer.copyright.label": "©",
+  "de.vis.data.points": {},
   "de.vis.disabled.item.label": "Nessun dato con filtri correnti per: ",
   "de.vis.map.loading": "Loading the Map",
   "de.visualisation.data.larger.loading": "Caricando i dati…{br}in via eccezionale, questa pagina potrebbe visualizzare una tabella più grande e potrebbe diventare lenta o instabile",

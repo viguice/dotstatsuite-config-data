@@ -182,6 +182,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "ข้อกำหนดและเงื่อนไข",
   "de.viewer.copyright.label": "©",
+  "de.vis.data.points": {},
   "de.vis.disabled.item.label": "ไม่มีข้อมูลที่มีตัวกรองปัจจุบันสำหรับ: ",
   "de.vis.map.loading": "ร้านค้าแผนที่",
   "de.visualisation.data.larger.loading": "รอสักครู่กำลังโหลดข้อมูล ...{br}ยกเว้น หน้านี้อาจแสดงตารางที่ใหญ่ขึ้นและอาจทำงานช้าหรือไม่เสถียร",
