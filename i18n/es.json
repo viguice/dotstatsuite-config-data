@@ -357,7 +357,7 @@
   "artefact.relative.dependency": "Para eliminar este artefacto, debes seleccionar {parents}",
   "artefact.relative.dsd.warning": "Puede eliminar esta estructura de datos en su propio menú de eliminación dedicado o en una de sus propias estructuras relacionadas.",
   "artefact.relative.msd.dsds": "Primero debe eliminar todas las estructuras de datos vinculadas a esta estructura de metadatos.",
-  "artefact.relative.msd.missing.warning": {},
+  "artefact.relative.msd.missing.warning": "Esta estructura de metadatos no está disponible actualmente en este espacio de datos.",
   "artefact.relative.non.authorized": "No se puede eliminar debido a un permiso insuficiente. Contacte al propietario del artefacto para obtener el permiso de borrado.",
   "artefact.relative.non.selectable": "No se puede borrar ya que está referenciado por: {parents}{others, plural, =0 {} other { and {others} more}}.{br}Primero elimine esas estructuras y luego vuelva a intentarlo.",
   "artefact.relatives": "Estructuras relacionadas",

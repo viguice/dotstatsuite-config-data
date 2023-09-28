@@ -357,7 +357,7 @@
   "artefact.relative.dependency": "لحذف هذه الأداة ، يجب تحديد {parents}",
   "artefact.relative.dsd.warning": "يمكنك حذف بنية البيانات هذه في قائمة الحذف المخصصة الخاصة بها أو في أحد الهياكل ذات الصلة.",
   "artefact.relative.msd.dsds": "يجب عليك أولاً حذف جميع هياكل البيانات المرتبطة بهيكل البيانات الوصفية.",
-  "artefact.relative.msd.missing.warning": {},
+  "artefact.relative.msd.missing.warning": "بنية بيانات التعريف هذه غير متوفرة حاليًا في مساحة البيانات هذه.",
   "artefact.relative.non.authorized": "لا يمكن حذفه بسبب عدم كفاية الإذن. اتصل بمالك الأداة للحصول على إذن الحذف.",
   "artefact.relative.non.selectable": "لا يمكن حذفه منذ الإشارة إليه بـ: {parents}{others, plural, =0 {} other { and {others} more}}. {br} احذف هذه الهياكل أولاً ثم حاول مرة أخرى.",
   "artefact.relatives": "الهياكل ذات الصلة",
