@@ -182,7 +182,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Voorwaarden",
   "de.viewer.copyright.label": "©",
-  "de.vis.data.points": {},
+  "de.vis.data.points": "data punten",
   "de.vis.disabled.item.label": "Geen gegevens met huidige filters voor: ",
   "de.vis.map.loading": "Kaart aan het laden",
   "de.visualisation.data.larger.loading": "data wordt geladen…{br}uitzonderlijk kan deze pagina een grotere tabel weergeven en kan deze langzaam of onstabiel worden",
