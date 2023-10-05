@@ -182,7 +182,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Conditions d'utilisation",
   "de.viewer.copyright.label": "©",
-  "de.vis.data.points": "Points de données",
+  "de.vis.data.points": "{obsCount}  points de données",
   "de.vis.disabled.item.label": "Aucune donnée avec l'actuelle sélection pour : ",
   "de.vis.map.loading": "Carte en cours de chargement",
   "de.visualisation.data.larger.loading": "chargement des données en cours… {br}exceptionnellement, cette page peut afficher une table plus large et devenir lente ou instable",
