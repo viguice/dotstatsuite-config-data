@@ -182,7 +182,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Nutzungsbedingungen",
   "de.viewer.copyright.label": "©",
-  "de.vis.data.points": "Datenpunkte",
+  "de.vis.data.points": "{obsCount} Datenpunkte",
   "de.vis.disabled.item.label": "Keine Daten mit aktuellen Filtern für:",
   "de.vis.map.loading": "Laden der Karte…",
   "de.visualisation.data.larger.loading": "Daten werden geladen…{br}Ausnahmsweise kann diese Seite eine größere Tabelle anzeigen und langsam oder instabil werden",

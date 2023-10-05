@@ -182,7 +182,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Términos y condiciones",
   "de.viewer.copyright.label": "©",
-  "de.vis.data.points": "puntos de datos",
+  "de.vis.data.points": "{obsCount} puntos de datos",
   "de.vis.disabled.item.label": "No hay datos con filtros actuales para:",
   "de.vis.map.loading": "Cargando el mapa",
   "de.visualisation.data.larger.loading": "Cargando datos…{br}excepcionalmente, esta página puede mostrar una tabla más grande y puede volverse lenta o inestable",
