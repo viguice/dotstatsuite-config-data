@@ -621,6 +621,7 @@
   "user.right.filter.space": "Nach Datenraum filtern",
   "user.right.filter.user": "Nach Benutzer/Gruppe filtern",
   "user.right.granular.permissions": "Granulare Benutzerberechtigungen",
+  "user.right.group": {},
   "user.right.group.permissions": "Standardbenutzerrollen",
   "user.right.id": "ID",
   "user.right.permission": "Benutzerberechtigung",

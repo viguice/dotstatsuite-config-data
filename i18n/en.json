@@ -621,6 +621,7 @@
   "user.right.filter.space": "Filter by space",
   "user.right.filter.user": "Filter by user/group",
   "user.right.granular.permissions": "Granular permissions",
+  "user.right.group": "Group",
   "user.right.group.permissions": "Standard roles",
   "user.right.id": "ID",
   "user.right.permission": "Permission",

@@ -621,6 +621,7 @@
   "user.right.filter.space": "กรองตามช่องว่าง",
   "user.right.filter.user": "กรองตามผู้ใช้/กลุ่ม",
   "user.right.granular.permissions": "สิทธิ์แบบละเอียด",
+  "user.right.group": {},
   "user.right.group.permissions": "บทบาทมาตรฐาน",
   "user.right.id": "ID",
   "user.right.permission": "การอนุญาต",
