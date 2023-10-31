@@ -621,7 +621,7 @@
   "user.right.filter.space": "Filteren op spatie",
   "user.right.filter.user": "Filter op groep/gebruiker",
   "user.right.granular.permissions": "Gedetailleerde machtigingen",
-  "user.right.group": {},
+  "user.right.group": "Groep",
   "user.right.group.permissions": "Standaard rollen",
   "user.right.id": "ID",
   "user.right.permission": "Toestemming",

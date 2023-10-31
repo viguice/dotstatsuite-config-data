@@ -621,7 +621,7 @@
   "user.right.filter.space": "Filtrar por espacio",
   "user.right.filter.user": "Filtrar por grupo/usuario",
   "user.right.granular.permissions": "Permisos granulares",
-  "user.right.group": {},
+  "user.right.group": "Grupo",
   "user.right.group.permissions": "Funciones estándar",
   "user.right.id": "ID",
   "user.right.permission": "Permiso",

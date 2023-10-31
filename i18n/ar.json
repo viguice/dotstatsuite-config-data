@@ -621,7 +621,7 @@
   "user.right.filter.space": "تصفية حسب المساحة",
   "user.right.filter.user": "التصفية حسب المجموعة/المستخدم",
   "user.right.granular.permissions": "الأذونات الحبيبية",
-  "user.right.group": {},
+  "user.right.group": "مجموعة",
   "user.right.group.permissions": "الأدوار القياسية",
   "user.right.id": "ID",
   "user.right.permission": "الإذن",
