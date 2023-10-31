@@ -621,7 +621,7 @@
   "user.right.filter.space": "Filtra per spazio",
   "user.right.filter.user": "Filtra per gruppo/utente",
   "user.right.granular.permissions": "Autorizzazioni granulari",
-  "user.right.group": {},
+  "user.right.group": "Gruppo",
   "user.right.group.permissions": "Ruoli standard",
   "user.right.id": "ID",
   "user.right.permission": "Autorizzazione",

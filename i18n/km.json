@@ -621,7 +621,7 @@
   "user.right.filter.space": "ត្រងតាមលំហ",
   "user.right.filter.user": "ត្រងតាមក្រុម/អ្នកប្រើប្រាស់",
   "user.right.granular.permissions": "ការអនុញ្ញាតជាក្រឡា",
-  "user.right.group": {},
+  "user.right.group": "ក្រុម",
   "user.right.group.permissions": "តួនាទីស្តង់ដារ",
   "user.right.id": "ID",
   "user.right.permission": "ការអនុញ្ញាត",
