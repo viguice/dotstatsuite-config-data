@@ -93,7 +93,7 @@
   "de.no.external.resources": "Non ci sono risorse esterne",
   "de.notif.contact.error": "Siamo spiacenti, qualcosa è andato storto. Per favore riprova più tardi.",
   "de.notif.contact.success": "Grazie per averci contattato. Lo esamineremo il prima possibile.",
-  "de.observations.count": "Numero totale di punti dati disponibili",
+  "de.observations.count": "Numero di punti dati non filtrati",
   "de.panel.contentConstraints.title": "Data availability",
   "de.period.day": "Giorno",
   "de.period.end": "Fine",

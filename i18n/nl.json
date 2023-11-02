@@ -93,7 +93,7 @@
   "de.no.external.resources": "Er is geen externe bron",
   "de.notif.contact.error": "Het spijt ons, er is iets misgegaan. Probeer het later opnieuw.",
   "de.notif.contact.success": "Bedankt dat u contact met ons opneemt. We zullen er zo snel mogelijk naar kijken.",
-  "de.observations.count": "Totaal aantal beschikbare datapunten",
+  "de.observations.count": "Aantal ongefilterde datapunten",
   "de.panel.contentConstraints.title": "Beschikbaarheid gegevens",
   "de.period.day": "Dag",
   "de.period.end": "Einde",

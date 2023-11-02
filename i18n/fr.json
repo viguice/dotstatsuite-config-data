@@ -93,7 +93,7 @@
   "de.no.external.resources": "Il n'y a pas de resource externe",
   "de.notif.contact.error": "Nous sommes désolés, une erreur s'est produite de notre côté. Veuillez réessayer plus tard.",
   "de.notif.contact.success": "Merci de nous contacter. Nous allons l'examiner dès que possible.",
-  "de.observations.count": "Nombre total de points de données disponibles",
+  "de.observations.count": "Nombre de points de données non filtrées",
   "de.panel.contentConstraints.title": "Contraintes de contenu",
   "de.period.day": "Jour",
   "de.period.end": "Fin",
