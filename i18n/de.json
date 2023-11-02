@@ -93,7 +93,7 @@
   "de.no.external.resources": "Es gibt keine externe Ressource",
   "de.notif.contact.error": "Es tut uns leid, etwas ist schief gelaufen. Bitte versuchen Sie es später erneut.",
   "de.notif.contact.success": "Danke, dass Sie uns kontaktiert haben. Wir werden uns so schnell wie möglich darum kümmern.",
-  "de.observations.count": "Gesamtzahl der verfügbaren Datenpunkte",
+  "de.observations.count": "Anzahl ungefilterter Datenpunkte",
   "de.panel.contentConstraints.title": "Datenverfügbarkeit",
   "de.period.day": "Tag",
   "de.period.end": "Ende",

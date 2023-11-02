@@ -93,7 +93,7 @@
   "de.no.external.resources": "No hay recurso externo",
   "de.notif.contact.error": "Lo sentimos, algo salió mal. Por favor, inténtelo de nuevo más tarde.",
   "de.notif.contact.success": "Gracias por contactarnos. Lo investigaremos lo antes posible.",
-  "de.observations.count": "Número total de puntos de datos disponibles",
+  "de.observations.count": "Número de puntos de datos sin filtrar",
   "de.panel.contentConstraints.title": "Disponibilidad de datos",
   "de.period.day": "Día",
   "de.period.end": "Fin",

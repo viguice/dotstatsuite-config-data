@@ -93,7 +93,7 @@
   "de.no.external.resources": "There is no external resource",
   "de.notif.contact.error": "We are sorry, something went wrong. Please try again later.",
   "de.notif.contact.success": "Thank you for contacting us. We will look into it as soon as possible.",
-  "de.observations.count": "Total number of available data points",
+  "de.observations.count": "Number of unfiltered data points",
   "de.panel.contentConstraints.title": "Data availability",
   "de.period.day": "Day",
   "de.period.end": "End",

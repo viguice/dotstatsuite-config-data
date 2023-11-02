@@ -93,7 +93,7 @@
   "de.no.external.resources": "لا يوجد مورد خارجي",
   "de.notif.contact.error": "نحن آسفون ، حدث خطأ ما. الرجاء معاودة المحاولة في وقت لاحق.",
   "de.notif.contact.success": "أشكركم على الاتصال بنا. سوف ننظر في الأمر في أقرب وقت ممكن.",
-  "de.observations.count": "العدد الإجمالي لنقاط البيانات المتاحة",
+  "de.observations.count": "عدد نقاط البيانات التي لم تتم تصفيتها",
   "de.panel.contentConstraints.title": "توفر البيانات",
   "de.period.day": "يوم",
   "de.period.end": "النهاية",

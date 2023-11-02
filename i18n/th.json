@@ -93,7 +93,7 @@
   "de.no.external.resources": "ไม่พยทรัพยากรภายนอก",
   "de.notif.contact.error": "ขออภัย มีบางอย่างผิดพลาด โปรดลองอีกครั้งในภายหลัง.",
   "de.notif.contact.success": "ขอบคุณที่ติดต่อเรา. เราจะตรวจสอบโดยเร็วที่สุด",
-  "de.observations.count": "จำนวนจุดข้อมูลที่มีอยู่ทั้งหมด",
+  "de.observations.count": "จำนวนจุดข้อมูลที่ไม่มีการกรอง",
   "de.panel.contentConstraints.title": "ไม่มีข้อมูล",
   "de.period.day": "วัน",
   "de.period.end": "สิ้นสุด",
