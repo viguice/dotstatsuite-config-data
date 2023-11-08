@@ -629,7 +629,7 @@
   "user.right.permissions": "ការអនុញ្ញាត",
   "user.right.scope.any": "* (ណាមួយ)",
   "user.right.space": "ចន្លោះទិន្នន័យ",
-  "user.right.user": "ក្រុម/អ្នកប្រើប្រាស់",
+  "user.right.user": "អ្នកប្រើប្រាស់",
   "user.right.view": "ព័ត៌មានលម្អិតសម្រាប់ការអនុញ្ញាត {id}",
   "user.rights.count": "{count, number} {count, plural, one {ការអនុញ្ញាត} other {ការអនុញ្ញាត}} ក្នុងចំណោម {total, number}",
   "users.none": "គ្មានអ្នកប្រើប្រាស់",

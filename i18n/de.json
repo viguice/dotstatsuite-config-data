@@ -629,7 +629,7 @@
   "user.right.permissions": "Benutzerberechtigungen",
   "user.right.scope.any": "* (Irgendein)",
   "user.right.space": "Datenraum",
-  "user.right.user": "Gruppe/Benutzer",
+  "user.right.user": "Benutzer",
   "user.right.view": "Details für die Benutzerberechtigung {id}",
   "user.rights.count": "{count, number} {count, plural, one {Genehmigung} other {Berechtigungen}} von {total, number}",
   "users.none": "Kein Benutzer",
