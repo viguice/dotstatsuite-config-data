@@ -225,6 +225,7 @@
   "log.error.sdmx.404": "There is no data available.",
   "log.error.sdmx.40x": "You are not permitted to see this data. Please try again after logging in with another account.",
   "log.error.sdmx.xxx": "Whoops, something went wrong on our side. We are working to solve this. Please try again later.",
+  "log.error.sdmx.invalid.space": "The space <b>{space}</b> is invalid.",
   "metadata.advanced.attributes": "Data Characteristics",
   "metadata.collapse.all": "Collapse all",
   "metadata.download": "Download the selection in CSV",
