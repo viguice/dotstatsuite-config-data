@@ -225,6 +225,7 @@
   "log.error.sdmx.404": "لا توجد بيانات متاحة.",
   "log.error.sdmx.40x": "لا يسمح لك أن ترى هذه البيانات. يرجى المحاولة مرة أخرى بعد تسجيل الدخول بحساب آخر.",
   "log.error.sdmx.xxx": "عفوًا ، حدث خطأ ما من جانبنا. نحن نعمل على حل هذا. الرجاء معاودة المحاولة في وقت لاحق.",
+  "log.error.sdmx.invalid.space": "المسافة <b>{space}</b> غير صالحة.",
   "metadata.advanced.attributes": "خصائص البيانات",
   "metadata.collapse.all": "انهيار جميع",
   "metadata.download": "قم بتنزيل التحديد بتنسيق CSV",
