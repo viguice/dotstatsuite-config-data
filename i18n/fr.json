@@ -225,6 +225,7 @@
   "log.error.sdmx.404": "Il n'y a aucune donnée disponible.",
   "log.error.sdmx.40x": "Vous n'êtes pas autorisé.e à consulter ces données. Veuillez réessayer en vous connectant avec un autre compte.",
   "log.error.sdmx.xxx": "Oops, une erreur s'est produite. Nous nous efforçons de corriger le problème. Veuillez réessayer plus tard.",
+  "log.error.sdmx.invalid.space": "L'espace <b>{space}</b> n'est pas valide.",
   "metadata.advanced.attributes": "Caractéristiques des données",
   "metadata.collapse.all": "Réduire tout",
   "metadata.download": "Télécharger la sélection en CSV",

@@ -225,6 +225,7 @@
   "log.error.sdmx.404": "No hay datos disponibles",
   "log.error.sdmx.40x": "No tiene permiso para ver estos datos. Por favor, inténtelo de nuevo tras iniciar sesión con otra cuenta",
   "log.error.sdmx.xxx": " Ups!, algo ha ido mal por nuestra parte. Estamos trabajando para solucionarlo. Por favor, inténtelo de nuevo más tarde",
+  "log.error.sdmx.invalid.space": "El espacio <b>{space}</b> no es válido.",
   "metadata.advanced.attributes": "Características de los datos",
   "metadata.collapse.all": "Desplegar todo",
   "metadata.download": "Descarga la selección en CSV",

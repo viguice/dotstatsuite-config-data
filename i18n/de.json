@@ -225,6 +225,7 @@
   "log.error.sdmx.404": "Es sind keine Daten verfügbar.",
   "log.error.sdmx.40x": "Sie dürfen diese Daten nicht einsehen. Bitte versuchen Sie es erneut, nachdem Sie sich mit einem anderen Konto angemeldet haben.",
   "log.error.sdmx.xxx": "Hoppla, bei uns ist etwas schief gelaufen. Wir arbeiten daran, dies zu lösen. Bitte versuchen Sie es später erneut.",
+  "log.error.sdmx.invalid.space": "Das Leerzeichen <b>{space}</b> ist ungültig.",
   "metadata.advanced.attributes": "Datenmerkmale",
   "metadata.collapse.all": "Alles zusammenklappen",
   "metadata.download": "Auswahl in CSV herunterladen",
