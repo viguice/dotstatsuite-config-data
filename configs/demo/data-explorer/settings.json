@@ -184,13 +184,13 @@
   },
   "styles": "/assets/siscc/data-explorer/styles/styles.css",
   "search": {
-    "endpoint": "http://localhost:3004/api",
+    "endpoint": "http://search.docker.localhost/api",
     "homeFacetIds": ["Topic", "Thème", "Reference area", "Zone de référence", "مرجع المنطقة", "Frequency", "Fréquence", "الدورية", "datasourceId"],
     "homeFacetLevel2Clickable": true,
     "homeFacetCentered": true,
     "expandedHomeFacets": ["Topic", "Thème"],
     "pinnedFacetIds": ["datasourceId", "Topic", "Thème", "Reference area", "Zone de référence", "مرجع المنطقة", "Frequency", "Fréquence", "الدورية"],
-		"downloadableDataflowResults": true,
+    "downloadableDataflowResults": true,
     "excludedFacetIds": [
       "Territory",
       "Indicator number",
@@ -205,8 +205,8 @@
     "defaultRows": 20
   },
   "share": {
-    "confirmUrl": "http://localhost:7002",
-    "endpoint": "http://localhost:3005/api",
+    "confirmUrl": "http://viewer.docker.localhost",
+    "endpoint": "http://share.docker.localhost/api",
     "policy": "http://www.oecd.org/general/privacypolicy.htm"
   },
   "contact": {
