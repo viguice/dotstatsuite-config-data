@@ -4,7 +4,7 @@
     "favicon": "/assets/siscc/data-explorer/images/favicon.ico"
   },
   "share": {
-    "endpoint": "http://localhost:3005"
+    "endpoint": "http://share.docker.localhost"
   },
   "i18n": {
     "locales": {
